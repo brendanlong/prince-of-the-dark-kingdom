@@ -10,7 +10,10 @@ EPUBS := $(BOOK_PREFIX)1.epub \
 
 PANDOC_FLAGS := --toc --toc-depth=1 --chapters
 
-all: $(EPUBS);
+PANDOC_FLAGS := --toc --toc-depth=1 --chapters --epub-stylesheet=src/style.css \
+    --epub-embed-font=src/fonts/lumos/lumos.ttf
+
+all: $(EPUBS) ;
 epub: $(EPUBS) ;
 
 clean:
@@ -18,8 +21,8 @@ clean:
 
 .PHONY: all clean ;
 
-$(BOOK_PREFIX)%.epub: src/book-%/title.txt src/book-%/cover.svg
-	pandoc $(PANDOC_FLAGS) -o $@ $(subst src/book-$*/cover.svg,,$^) \
+$(BOOK_PREFIX)%.epub: src/book-%/title.txt src/book-%/cover.svg src/style.css
+	pandoc $(PANDOC_FLAGS) -o $@ $(subst src/book-$*/cover.svg src/style.css,,$^) \
 	    --epub-cover-image=src/book-$*/cover.svg
 
 $(BOOK_PREFIX)1.epub:  $(sort $(wildcard src/book-1/chapter-*.md))
