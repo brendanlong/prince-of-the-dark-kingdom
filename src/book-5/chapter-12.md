@@ -75,7 +75,7 @@ brought it in with him. The missive inside was simple and short.
 
 *Uncle Severus*
 
-*Mother would like to invite you to see a play next Saturday. Benjamin and Bailey*. Bring a date. – Draco*
+*Mother would like to invite you to see a play next Saturday. Benjamin and Bailey\[^94-1]. Bring a date. – Draco*
 
 Snape smirked. Narcissa, for all her class and breeding, lacked the ability to
 extend invitations graciously or even courteously more often than not and
@@ -686,7 +686,7 @@ around and blinked.
 They were crying. Shimmery wet trails fell down their cheeks, there eyes
 staring at him with disbelief and amazement. He was stuned. Had this been what
 he looked like to Voldemort when he had first felt the touch of the Earth? The
-way he and Fleur had felt when they had seen the blessing* of unicorns?
+way he and Fleur had felt when they had seen the blessing\[^94-2] of unicorns?
 
 "What's wrong? Are you alright?"
 

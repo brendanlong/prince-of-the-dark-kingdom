@@ -1536,7 +1536,7 @@ capable of the same thing.
 "Do you have any ideas?" he asked.
 
 "I don't know, but I doubt it was random. Balthus is trying to track down zer
-supervisor to find out what zer assignment was. The necrotists* haven't even
+supervisor to find out what zer assignment was. The necrotists\[^132-1] haven't even
 touched the bodies yet. I'll find out tomorrow."
 
 "Tomorrow or today? It's Christmas Eve now."

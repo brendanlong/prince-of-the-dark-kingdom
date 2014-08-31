@@ -46,7 +46,7 @@ hoped Potter showed up at the execution and gave the bastard the finger.
 this, and mine sure as hell won't be one of them. Autman! I want you to
 contact every major paper and tell them the old bastard was attacked by Death
 Eaters, and we don't know what happened to him or Potter. Tell them the
-Ministry is posting a 1500 Schulich* reward for any information leading the
+Ministry is posting a 1500 Schulich\[^87-1] reward for any information leading the
 safe recovery of Potter or Dumbledore or both. I want it out by the morning
 post or it's your balls, Autman!"
 
@@ -211,7 +211,7 @@ Lubreck. Bremen. He had been in Bremen before. The Durmstrang ship had dropped
 him and everyone else off there. Where they going to take the same route out
 of Germany? There seemed to be dozens of easier routes. Plane. Train. Bus.
 Most of them leading south into Belgium or France, and taking either a ferry
-or the 'Chunnel'* into England
+or the 'Chunnel'\[^87-2] into England
 
 "Why are we going by sea?" he asked, the first words he had spoken since he'd
 woken up. The mother's eyes widened and she turned to her husband. So he had

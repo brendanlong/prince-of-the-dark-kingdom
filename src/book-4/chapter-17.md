@@ -369,7 +369,7 @@ ignored that too, and simply began fixing up the room. It appeared whatever
 was wrong with him hadn't affected his magic any.
 
 "No, or if there is, no one here has the skills for it. Why the bloody hell
-they don't hire some half-blooded elven folk in an *Irish* * hospital is
+they don't hire some half-blooded elven folk in an *Irish* \[^79-1] hospital is
 beyond me. I've already sent for Diana, Fenrir's little moon goddess. If I
 don't have a cure, I will at least have answers. This was done with old magic.
 Who ever it was used the Solstice as a means to boost their power, just as we

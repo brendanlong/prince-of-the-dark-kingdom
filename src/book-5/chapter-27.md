@@ -79,10 +79,10 @@ around the spine can be tricky to treat."
 difficult.
 
 "You also have bacterial pneumonia. It is one of the few maladies modern
-potions has not been able to treat effectively*. They're giving you some sort
-of muggle medicine," he explained, sneering a bit at the last bit, then he got
-thoughtful. "I've heard of a few drowning curses, but never one that fills the
-lungs with lake water. Can you recall the spell?"
+potions has not been able to treat effectively\[^109-1]. They're giving you some
+sort of muggle medicine," he explained, sneering a bit at the last bit, then
+he got thoughtful. "I've heard of a few drowning curses, but never one that
+fills the lungs with lake water. Can you recall the spell?"
 
 "No, it wasn't a spell…it was…"
 
@@ -248,7 +248,7 @@ was necessary. He left his men to clean up the pockets of resistance that
 clung to the city and secure their hold there, and made his way back to Paris.
 The *Pitié-Salpêtrière Hospital* *du Sorcellerie* loomed like a cathedral over
 the wizarding city. Gargoyles stalked the roof and ledges, hunting the shadows
-and hidden nooks for pigeons, rats, lethifolds and spectrecats*. Its high
+and hidden nooks for pigeons, rats, lethifolds and spectrecats\[^109-2]. Its high
 arching windows and stones blackened from centuries of accumulated soot and
 age cloaked the hospital in a perpetual gloom that persisted even in the warm
 sunlight.
@@ -320,8 +320,8 @@ he muttered, beginning to pace anxiously. "They would think he had gone mad."
 "He might have at this point," Snape said candidly, earning him a glare that
 could peal paint. "I don't mean that jokingly. As I said before, Mr. Potter
 woke up earlier, and had to be sedated. He had some sort of panic attack. Not
-really surprising under the circumstances. The medi-wizards* are suggesting a
-full psychological evaluation once he is strong enough."
+really surprising under the circumstances. The medi-wizards\[^109-3] are suggesting
+a full psychological evaluation once he is strong enough."
 
 "I'm sure they are. Nothing like a shrink to make up things to treat when the
 real medi-wizards run out," he sneered, the bitterness behind it perhaps more
@@ -1012,7 +1012,7 @@ would fade away for one glorious hour in her arms…
 He broke the kiss first.
 
 "I…" he panted, struggling to catch his breath. "I better go before I spoil
-the wedding night*. Your ring is in my writing desk, middle drawer. The
+the wedding night\[^109-4]. Your ring is in my writing desk, middle drawer. The
 password is 'precarious endeavors'."
 
 Ira merely made a soft sound that could have been a moan or a sigh. He pulled

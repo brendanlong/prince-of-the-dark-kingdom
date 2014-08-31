@@ -395,7 +395,7 @@ shuffled out of the room and returned a moment later with a flagon which she
 walked over to Snape herself. As she drew closer he could see the deep setting
 of her wrinkles and estimated she was likely a hundred at least.
 
-"Twenty lupes*," she said without introduction.
+"Twenty lupes\[^144-1]," she said without introduction.
 
 "No," Snape said just as bluntly. She looked startled for a moment and then
 narrowed her eyes.

@@ -248,7 +248,7 @@ forest in the world even by British wizards. He didn't wait for Victoria to
 open the door for him, but called out a quick 'thanks, I'll see you later' and
 sprinted for the entrance. His watch was already starting to grow warm, so it
 was with some sense of urgency that he approached the security check point
-manned by a young Brass Cult* lieutenant. He was checked head to toe for spy
+manned by a young Brass Cult\[^63-1] lieutenant. He was checked head to toe for spy
 paraphernalia, handed a security badge, and then waved through. An elevator
 took him to the third floor.
 

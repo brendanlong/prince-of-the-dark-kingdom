@@ -798,7 +798,7 @@ after it while the rest scurried after them. It was a *fast* patronus too, the
 Dark Lord noted mentally, before he too followed. He had no broom and didn't
 require one, but instead employing a technique he had taught to many a Death
 Eater during the war years, dissolved his body into a thick smoke and shot
-into the air to follow.*
+into the air to follow.\[^106-1]
 
 It happened as quickly as he had suspected it would. The patronus ran the
 gamut of trees and hill, ravines and streams, briar and boulder, and still all

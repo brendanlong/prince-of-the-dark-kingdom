@@ -139,7 +139,7 @@ Greyback glanced back at him, and smirked.
 "Of course. No point sticking around if there's no one else left to kill."
 
 Voldemort contemplating the possibility of killing Greyback in his god form,
-but ultimately decided it wasn't worth it*. He would find some other way of
+but ultimately decided it wasn't worth it\[^108-1]. He would find some other way of
 punishing him later. Maybe he'd eat Luna instead.
 
 The sound of a train coming drew him from his thoughts of revenge to further
@@ -846,7 +846,7 @@ exclusively between them and not him and ghosts of school days past. Their
 relationship, whatever it was, was exclusively their own.
 
 He had saved Harry because… because… *I am a god damned masochist addicted to
-stress and misery.* *
+stress and misery.* \[^108-2]
 
 "Idiot. You're going to owe me after this," he muttered to the unconscious
 form. "Don't you dare die on me now."
@@ -986,9 +986,9 @@ to Harry on the verge of death, and came knew exactly what he was going to do.
 
 "I want twenty men to start transferring the wounded out of here. Apparate
 them to our infirmary in Warsaw. Professor Snape will transfer Harry is to the
-*Pitié-Salpêtrière Hospital* *du Sorcellerie** in Paris under an alias as soon
-as he is stable enough, and have her Majesty Queen Ophelia informed of the
-circumstances."
+*Pitié-Salpêtrière Hospital* *du Sorcellerie\[^108-3]* in Paris under an alias as
+soon as he is stable enough, and have her Majesty Queen Ophelia informed of
+the circumstances."
 
 "Yes, sir…er… what are the circumstances precisely?"
 
@@ -1037,7 +1037,7 @@ fingers from Harry's pulse. Somewhere behind them, Lestrange snorted.
 Voldemort nearly turned around and snapped her neck.
 
 "It must have been a… what do you call it? A *exhalation furibundus de magi ex
-corpus***."*
+corpus**\[^108-4]."*
 
 Snape frowned, but didn't look up. "My Lord… I was not aware of that being
 anything other than an urban myth."

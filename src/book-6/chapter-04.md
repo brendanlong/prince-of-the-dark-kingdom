@@ -338,19 +338,19 @@ spells and magical underwear and everything."
 not to laugh, but only just managed it.
 
 "It's to prevent my body from rejecting the egg. The *magical* egg. She makes
-it out of human amniotic fluid* and some of my blood. It'll make an egg with
-all my DNA*, but then she'll induce meiosis so there will be two unfertilized
-eggs. She can make dozens of them, and save the spares for later use. It's
-sort of based off of cloning techniques only with meiosis at the end. But it's
-all done magically so there's magical underwear so my own magic won't attack
-it, at least for the first two weeks."
+it out of human amniotic fluid\[^114-1] and some of my blood. It'll make an egg with
+all my DNA\[^114-2], but then she'll induce meiosis so there will be two
+unfertilized eggs. She can make dozens of them, and save the spares for later
+use. It's sort of based off of cloning techniques only with meiosis at the
+end. But it's all done magically so there's magical underwear so my own magic
+won't attack it, at least for the first two weeks."
 
 He only understood about half of what she had said. He knew what an egg was of
 course, and amniotic fluid was used in some potions (what most would consider
 very *dark* potions), but the rest of it was only so much medical jargon. What
-on earth was cloning?* It might have sounded very interesting under different
-circumstances, but at the moment it just sounded experimental and dangerous
-and not something he wanted perform on his new wife.
+on earth was cloning?\[^114-3] It might have sounded very interesting under
+different circumstances, but at the moment it just sounded experimental and
+dangerous and not something he wanted perform on his new wife.
 
 She seemed to sense he was disturbed by what she had told him. Lifting their
 intertwined hands to her lips, she kissed his thumb and smiled reassuringly.
@@ -672,7 +672,7 @@ certainly better than his other options."
 Harry looked up from his article on king penguins. "No way! That'll take
 forever!"
 
-Remus shrugged. "It will take a while. We'll start at classes*; you know
+Remus shrugged. "It will take a while. We'll start at classes\[^114-4]; you know
 birds, reptiles, mammals, etc. I've never heard of anyone being able to move
 between classes; which will leave us with a lot of orders we'll have to wade
 through."
@@ -700,7 +700,7 @@ Head Alpha perhaps he had hand off teasing Harry to his Beta. It wasn't until
 the man finally found the book he was apparently looking for in his trunk, and
 handed it to Harry that it even seemed remotely plausible.
 
-*Babylonia's Compendium of Practical Tassomancy; Theory, Techniques, and Recipes*.* It was thick and heavy, and when he opened it he found the writing miniscule and compacted.
+*Babylonia's Compendium of Practical Tassomancy; Theory, Techniques, and Recipes\[^114-5].* It was thick and heavy, and when he opened it he found the writing miniscule and compacted.
 
 "Geh."
 

@@ -236,7 +236,7 @@ about equally famous.
 "Mr. Potter, do you feel safe now that you're in Britain?"
 
 "Viktor, now that you have finished your schooling, will you be training full
-time with the Vratsa Vultures*?"
+time with the Vratsa Vultures\[^83-1]?"
 
 "Please, let me take a picture for my daughter! She's a huge fan!"
 
@@ -251,7 +251,7 @@ it be?"
 "Can I have your autograph?! It's for my nephew!"
 
 "Mr. Krum, have you considered the offer to play for the Heidelberg
-Harriers*?"
+Harriers\[^83-2]?"
 
 "Viktor, you've been renown for your support of social causes. Are there any
 you are actively promoting? Have you thought about a career in politics?"

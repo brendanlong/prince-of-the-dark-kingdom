@@ -226,7 +226,7 @@ what she had told them during her tour. Some how he didn't think it was what
 had been on the outline he'd sent her.
 
 "You have a very interesting school," Krum said idly, assembling a rather
-impressive butterbrot* out of ingredients Harry hadn't seen since he was
+impressive butterbrot\[^69-1] out of ingredients Harry hadn't seen since he was
 eight. "There must be a lot of interesting people who study here."
 
 As it turned out, Krum wasn't really Snapish at all. With Snape you could

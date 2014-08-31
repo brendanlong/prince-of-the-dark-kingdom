@@ -519,7 +519,7 @@ learning, working, and eating-"
 
 "Spinach," several children said at once.
 
-"Exactly." *
+"Exactly." \[^91-1]
 
 Harry continued his story, weaving a tale of foolishness and bravery and
 magic, enrapturing the listeners, both child and adult. He told them of the

@@ -167,7 +167,7 @@ keeping. I have one more appointment and then I'll be going."
 The potions master nodded, and left. Ten minutes later, Brennan entered the
 office.
 
-"Fáilte*," he said to the teacher. "It has been a while, old friend."
+"Fáilte\[^71-1]," he said to the teacher. "It has been a while, old friend."
 
 The man gave him a less than friendly look. "Friend, is it? If knowing exactly
 who you are and actively not pursuing your death qualifies me as your friend,

@@ -464,7 +464,7 @@ boring sneer), Morgan entered the tent. Snape stiffened.
 "Is anything the matter?" he asked Morgan.
 
 "No. Security has encountered nothing more than the usual hidden flasks and
-snuff boxes*. My people will keep an extra close eye them."
+snuff boxes\[^112-1]. My people will keep an extra close eye them."
 
 "I leave it in your capable hands. Has our Lord arrived yet?"
 

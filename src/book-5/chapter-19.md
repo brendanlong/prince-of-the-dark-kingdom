@@ -796,7 +796,7 @@ the election, we'll need a quick and quiet getaway in place."
 
 "Vat about the rest of us?" Johan asked, not taking his eyes from the window.
 
-"I want you all in Linz* by tomorrow afternoon. There's a private militia
+"I want you all in Linz\[^101-1] by tomorrow afternoon. There's a private militia
 forming there that I believe holds a great deal of potential, and I want you
 to feel them out. I've made arrangements for Timmons to meet with their
 commander. I'll leave you and Phoebe to your own devices."

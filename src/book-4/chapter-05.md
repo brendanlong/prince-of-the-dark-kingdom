@@ -448,7 +448,7 @@ and Suzanne had grown up on a farm, and with so little work to be found in
 town, had made work and money for themselves right at home. They did a lot of
 the labor themselves, but hired some squib families to help them out during
 the growing season. They normally would have been out in the orchards with
-their hired hands, but a large order for Walapple Jam* had kept them indoors
+their hired hands, but a large order for Walapple Jam\[^67-1] had kept them indoors
 for the day.
 
 "Who is it, Gin?" Mrs. Weasley asked, but Ginny just shrugged and went back
@@ -526,10 +526,11 @@ country and decided it was time to get to work.
 
 August 28th was circled in red on Fleur's bedroom calendar. Behind it was a
 trail of red 'x's that ran from the 27th all the way back to the 1st. The
-picture on the calendar was of an Irish Blue* swimming across a lake; the sky,
-lake, and dragon barely discernible from each other. Fleur thought it very
-appropriate that morning, but standing on the perfectly manicured lawn of the
-Beauxbaton's she wasn't really in much of a mood to enjoy the subtle irony.
+picture on the calendar was of an Irish Blue\[^67-2] swimming across a lake; the
+sky, lake, and dragon barely discernible from each other. Fleur thought it
+very appropriate that morning, but standing on the perfectly manicured lawn of
+the Beauxbaton's she wasn't really in much of a mood to enjoy the subtle
+irony.
 
 The entire school had shown up to see them off, along with everyone's parents,
 the media, and even the royal family. With all the hugs and goodbyes and
@@ -703,8 +704,8 @@ people needed it.
 They briefly saw the Durmstang students, who looked even more brutish than the
 Hogwarts ones, but luckily didn't have to talk to them as they were escorted
 to their dormitory by a teacher whose name she thought sounded like the
-gargling sound one makes before spitting out mouthwash*. At least the dorm was
-fairly nice. The room was open and airy, with enormous windows looking out
+gargling sound one makes before spitting out mouthwash\[^67-3]. At least the dorm
+was fairly nice. The room was open and airy, with enormous windows looking out
 over the lake. They'd made a definite attempt with the Baroque style
 furniture, the white washed walls, and the abundance of elegant purple, but
 the whole affect was sort of ruined by the abundance of pewter goats inlaid

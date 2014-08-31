@@ -401,11 +401,11 @@ looking at them curiously they didn't express any real interest in what they
 were doing..
 
 "Time's up," Slughorn said. "Have you made your selections? How about Mr.
-Malfoy? Ah, the Belfax Heating Potion*, a tricky potions sure to impress even
-your father and Professor Snape, both men known for their exacting standards.
-You Miss Granger of Malfoy? Evergreen Potion, I should have known. By far the
-most ingenious potion in the whole book. McGonagall said your desire for ever
-greater heights of understanding were limitless."
+Malfoy? Ah, the Belfax Heating Potion\[^93-1], a tricky potions sure to impress
+even your father and Professor Snape, both men known for their exacting
+standards. You Miss Granger of Malfoy? Evergreen Potion, I should have known.
+By far the most ingenious potion in the whole book. McGonagall said your
+desire for ever greater heights of understanding were limitless."
 
 Draco smirked and accepted the praise with his usual ungracious preening,
 while Hermione flushed with pleasure. Slughorn turned Harry and Clyde.

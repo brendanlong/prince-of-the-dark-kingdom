@@ -409,7 +409,7 @@ smiled in understanding and turned back to her cupboard to find a kettle.
 "I understand. No one really seems to know how to respond. It's okay, though.
 It was a… shock, but… Madam Pomfrey says these sorts of things happen all the
 time, especially when the mother is older. The infection could have happened
-regardless of my age*. It was just bad luck."
+regardless of my age\[^120-1]. It was just bad luck."
 
 Her tone was light, but Harry couldn't help but notice that she didn't turn to
 face them as she spoke and her movements seemed oddly jerky.
@@ -442,7 +442,7 @@ couple of times."
 
 "Only at a distance. They don't seem to like to come too close to the castle.
 Maybe it's just too close to the shore. But there are a lot of other things
-you wouldn't think of. Otters, diving winnows*, eels, fresh water hydras*,
+you wouldn't think of. Otters, diving winnows\[^120-2], eels, fresh water hydras\[^120-2],
 turtles, some beavers… all sorts of things. I'm thinking about doing a survey
 of the lake wildlife. Severus says there hasn't been one done in over two
 hundred years. Who knows what's come and gone since then? It would give me
@@ -736,10 +736,10 @@ the castle occupants had taken up offensive positions.
 Hexes and curses whizzed through the air, catching the unwary and the
 reckless, forcing them to pull back where ever they had begun to make
 progress. There was no one to aim their retaliation against, as most of the
-curses came through the arrowslits* in the sides walls. Mandalari ordered his
-men to scattered, to draw their fire power and exhaust them, while he circled
-and looked for weaknesses. Nothing immediately came to his attention, and
-everywhere he looked the defenses, whether they were from the witches and
+curses came through the arrowslits\[^120-3] in the sides walls. Mandalari ordered
+his men to scattered, to draw their fire power and exhaust them, while he
+circled and looked for weaknesses. Nothing immediately came to his attention,
+and everywhere he looked the defenses, whether they were from the witches and
 wizards inside or the castle itself, were solid and unyielding. Flying low as
 he passed over the lake nearly spelled his end when several enormous tentacles
 shot out of the air, nearly knocking him from his broom and dragging him into
@@ -753,7 +753,7 @@ volley of blasting curses against whatever even remotely vulnerable structure
 they could find, and then ordered the retreat.
 
 Clay roof tiles, exposed blocks, decorative plaster, banners, and wooden
-hoardings* shattered, raining down debris into the empty stone walkways and
+hoardings\[^120-4] shattered, raining down debris into the empty stone walkways and
 courtyard, but the main structures held without so much as a quiver, the
 damage completely superficial.
 
@@ -768,7 +768,7 @@ final retreat for London, and apparated out of there.
 
 When they all reappeared Mandalari knew something was wrong. They were not in
 their intended drop zone, but what looked like a long lake or wide river
-surrounded by a large park*. In the distance, he could identify several
+surrounded by a large park\[^120-5]. In the distance, he could identify several
 distinctive pieces of London's modern muggle architecture, but he did not
 recognize his location or its position in relation to wizarding London. He
 turned to shout orders to his men-
@@ -1672,7 +1672,7 @@ Harry sighed. Why were so many wizards and witches weirdos?
 
 "Andoria Smythe?"
 
-"She's dating Merton Graves* and tours with his band, the Weird Sisters.
+"She's dating Merton Graves\[^120-6] and tours with his band, the Weird Sisters.
 *Fascinating* woman. Very active in the feminist movement, but she's not a
 lesbian. Go figure."
 

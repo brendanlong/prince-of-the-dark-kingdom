@@ -1819,7 +1819,7 @@ his own breathing in his ears. Amsel's wand flew up, hurling her first spell
 towards him. He didn't recognize the words, but he was already throwing out
 his own spell before she finished.
 
-"*Ductimio!*"*
+"*Ductimio!\[^147-1]"*
 
 His curse crushed her orange-tinted spell and kept hurling towards her in a
 glimmer of pale lavender. She jumped and rolled out of its way, and the spell
@@ -1854,7 +1854,7 @@ moved. Her expression hardened.
 He laughed, startling her. Then he stopped, all amusement slipping from his
 face.
 
-"The feeling is mutual. *Volomilleacus*.*"
+"The feeling is mutual. *Volomilleacus\[^147-2].*"
 
 "*Flagellicito*!"
 

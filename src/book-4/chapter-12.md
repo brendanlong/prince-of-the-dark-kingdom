@@ -573,7 +573,7 @@ two didn't think of something better or just get lucky.
 
 The technique he was using wasn't really designed for hunting dragons,
 although the javelin was known to be at least partially effective against
-them, but for hunting**Wolpertinger*, a type of antlered rabbit the size of
+them, but for hunting**Wolpertinger\[^74-1], a type of antlered rabbit the size of
 small pony that hibernated in underground burrows. There was no point in
 looking for their lairs with your eyes, as they left no mounds or openings and
 were usually under a layer of snow. Javelins enchanted to pierce the ground
@@ -907,7 +907,7 @@ places."
 "Viktor. What about Viktor? He's still out there. I don't know if they caught
 him yet, but I don't think he can escape. Will you protect him, too?"
 
-"Of course. I am a Wælcyrie*. I am where ever a warrior falls."
+"Of course. I am a Wælcyrie\[^74-2]. I am where ever a warrior falls."
 
 "Oh..." Cedric said, as if that explained everything. He relaxed back against
 his pallet. "Why do you look like Harry?"

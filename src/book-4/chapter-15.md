@@ -201,7 +201,7 @@ That was *not* a very heroic thing to say. Luckily, he was saved from
 floundering for a better response. They had reached the Dueling Hall and
 stopped, and just as it looked as if Hermione might just lean forward to kiss
 him on the cheek (he had never once kissed him on the mouth and he was
-starting to wonder why*), her brother and his friend came up behind them and
+starting to wonder why\[^77-1]), her brother and his friend came up behind them and
 escorted her straight through the door.
 
 "We'll take it from here," Draco said, his smile stiff and unfriendly. "Don't
@@ -495,7 +495,7 @@ Voldemort smirked. "That rule only applies to selections made by the Goblet of
 Fire. Seconds are a personal choice by the Champion and can include anyone.
 Admittedly, that is an oversight on my part. It would have made things quite
 awkward if Diggory had chosen the captain of the Chudley Cannons or Newton
-Settlebeck*. It worked out in our favor this time."
+Settlebeck\[^77-2]. It worked out in our favor this time."
 
 Harry sighed. The year had just gotten that much more difficult.
 

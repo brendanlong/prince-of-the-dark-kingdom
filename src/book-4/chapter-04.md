@@ -29,7 +29,7 @@ Blackbone, not even Jackal with his cracked ribs and broken jaw. Remus sported
 injuries of his own, a gash across the face that had nearly taken his left eye
 being the worst of it, but came out of the fight relatively well considering.
 The healers cleaned and bandaged his wounds at the same time they had tended
-to Blackbone, the beta refusing to be separated from his alpha.*
+to Blackbone, the beta refusing to be separated from his alpha.\[^66-1]
 
 Harry had watched it all nervously from across the room. Luna had come with
 him, sitting him down on an empty pallet, and tended to the cuts and bruises
@@ -37,7 +37,7 @@ he hadn't even realized he'd acquired in his haste to find Sirius. His feet
 were cut up pretty badly, and she had sat on the floor with a basin to washed
 them. He didn't recall much of what she had actually done while watching the
 elder women and the odd omega male stitching Sirius back together, but he did
-remember at one point that she had painted honey onto his feet.* She'd
+remember at one point that she had painted honey onto his feet.\[^66-2] She'd
 explained what it was for, but he'd been distracted by a keening sound from
 across the room before she was half way through it.
 
@@ -352,7 +352,7 @@ beat around them.
 "Deathair, mac tìre," the Dark Lord began, continuing on, chanting to the
 rhythm in words Harry didn't understand, but felt against his senses like the
 summer breeze, laden with strange scents and the promise of storms. "...
-beocht fuil?*"
+beocht fuil?\[^66-3]"
 
 The Dark Lord look down at him expectantly, and the beat pulled from him the
 word with perfect synchrony.
@@ -754,7 +754,7 @@ so important.
 He needed to be more careful with his actions, since he wasn't the only one
 affected by them.
 
-Voldemort was still a #& *#&$! , and deserved to die horribly, but he wasn't
+Voldemort was still a #& \[^66-4]#&$! , and deserved to die horribly, but he wasn't
 going to be the one to bring it about.
 
 And speak of the devil, there's the giant snake now, slithering out of his

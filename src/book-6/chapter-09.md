@@ -49,7 +49,7 @@ fiendish fairy folk and always on the cusp of falling, having neither the
 strength nor will to do away with their eldritch neighbors altogether. It was
 no surprise to Mandalari or anyone else that the wellspring of this evil
 should spring from these ancient shores. They had been the final hiding place
-for Old Ways after all*.
+for Old Ways after all\[^119-1].
 
 This was their final great battle against the Old Ways, and nothing less than
 their souls were at stake here. While Germany, France, and all the others

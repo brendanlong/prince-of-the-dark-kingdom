@@ -649,7 +649,7 @@ have to climb the hill themselves or go around, but it wouldn't be much.
 "How are they shooting through our shields?" Kinglsey demanded.
 
 "It's mistletoe," Stratus said, "The arrows are made out of mistletoe. They
-can fly right through most magical shields.*"
+can fly right through most magical shields.\[^125-1]"
 
 "Seriously? How the hell didn't I know that?"
 
@@ -1311,8 +1311,8 @@ time, and only just managed to duck to the side before being run down, and
 then ducked again when the horse-like creature's elven rider took a swing at
 him with his sword. The third strike was speared down at him where he lay
 prone on the ground. Harry caught it instinctively with his left hand, and
-felt the magic lingering there repel the cut of the blade*. The elf jerked it
-back and ended pulling Harry back up to his feet, his almond shaped eyes
+felt the magic lingering there repel the cut of the blade\[^125-2]. The elf jerked
+it back and ended pulling Harry back up to his feet, his almond shaped eyes
 widening when he didn't take off a few fingers at the same time. The elf, male
 with a collection of gnarled twig-like growths for hair, kicked him in the
 chest. Harry took the blow with a pained grunt, but lunged again, catching the
@@ -1556,8 +1556,9 @@ little in this place.
 "What? Why would you want that?"
 
 "My name is Selufiare, and as you may have deduced I am an enchantress of the
-realm of Hausteheim*. A kiss is a very powerful thing to my kind. I can divine
-your past and your future with only a kiss or learn your deepest desire."
+realm of Hausteheim\[^125-3]. A kiss is a very powerful thing to my kind. I can
+divine your past and your future with only a kiss or learn your deepest
+desire."
 
 "Or become my deepest desire? How am I to know what sort of spell I will fall
 under?" he asked, carefully withdrawing closer to the water's edge. He didn't
@@ -1605,10 +1606,10 @@ reeds, and it was attached to a an equally thin and brittle arm and that arm
 was attached to the body of a very naked, pale green tinted woman. Her
 enormous black eyes blinked guilelessly at him for a moment, her pretty
 pointed face seemingly perplexed. Then she smiled wide with her razor sharp
-teeth, and grabbed *his* hand. A shellycoat*, one of the innumerable breeds of
-water faeries that made drowning humans their habit. He jerked back, but her
-hold was unbreakable and she dragged him towards the thick cluster of reeds
-that must have been her hiding spot.
+teeth, and grabbed *his* hand. A shellycoat\[^125-4], one of the innumerable breeds
+of water faeries that made drowning humans their habit. He jerked back, but
+her hold was unbreakable and she dragged him towards the thick cluster of
+reeds that must have been her hiding spot.
 
 As he thrashed and struggled to pull back, he felt the magic of Gryffidnor's
 sword surge into his palm, and brought it around to swipe at her like an angry
@@ -1966,7 +1967,7 @@ the role of inferior either.
 
 "He did manage from time to time," he offered beneficently. "It is unfortunate
 he had slipped his mortal coil before I had the opportunity to bring him here.
-I haven't had a decently prepared *velorisp** since. Perhaps he can re-learn
+I haven't had a decently prepared *velorisp*\[^125-5] since. Perhaps he can re-learn
 the gift."
 
 "Oh, yes, his greatest achievement," Tom sneered, missing the last sentence in

@@ -1198,7 +1198,7 @@ Except that he didn't.
 "Listen, you little ingrate," Vernon growled, pointing a pudgy finger at him.
 "If you don't stop that racket this instant, you're going to be sorry. Do you
 understand me? I've got an early morning tomorrow and I am sick of your
-caterwauling. Go to sleep!"*
+caterwauling. Go to sleep!"\[^130-1]
 
 Harry said nothing, merely glowered back as tears continued to fall. The door
 was slammed shut, a latch clicked into place, and Snape listened as heavy

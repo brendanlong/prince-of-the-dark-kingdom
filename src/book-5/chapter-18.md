@@ -21,7 +21,7 @@ one was permitted to place offerings there.
 
 Harry watched Jane Canis as she appeared and disappeared with mysterious
 bundles in and out of the third alter pit, her once curious brown eyes now
-distant under the weight of the goddess' possession*. A short distance away,
+distant under the weight of the goddess' possession\[^100-1]. A short distance away,
 her father, Stephen, watched on with all the grief and frustration of a man
 who has lost his child to death, and for now that might as well be the case.
 He could no longer touch his own daughter, not laugh with her, or reprimand
@@ -439,7 +439,7 @@ rather than hiring someone without experience dealing with Britain. They're
 right of course, but that doesn't mean it won't work. Doesn't mean it will
 either."
 
-"And we can learn all about it from Frankfurt*."
+"And we can learn all about it from Frankfurt\[^100-2]."
 
 "And miss all the rioting? There are always excellent riots in Berlin after a
 controversial election."
@@ -638,8 +638,8 @@ his control and now he had been threatened yet again.
 
 This time, however, he did have some control.
 
-The three men holding Canis had been with him when the young beta* had run up
-to them and warned him of what was happening, and obediently fallen behind
+The three men holding Canis had been with him when the young beta\[^100-3] had run
+up to them and warned him of what was happening, and obediently fallen behind
 their leader as he hunted down his godson. They still obediently followed his
 orders, pinning Canis to the ground with more force than was strictly
 necessary, but without actually hitting him. The lone wolf himself, didn't

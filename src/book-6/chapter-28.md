@@ -656,7 +656,7 @@ Ravenclaw Tower was designed as a watchtower with a large flat platform roof
 and only a hatch to lock out the intruders. As Harry watched, half a dozen
 Germans were casting spells on the hatch, while three times that number
 hovered around them in a defensive circle, and still more were trading curses
-through the narrow wandslits* in the tower wall with the students trapped
+through the narrow wandslits\[^138-1] in the tower wall with the students trapped
 inside. Despite the defensive position, the students couldn't aim at the main
 threat trying to smash in the roof above them, and the gargoyles that had
 previously guarded the tower had been obliterated already.
@@ -690,11 +690,11 @@ The hatch into Ravenclaw Tower finally gave way, exploding upward and outward
 so that the spell casters were tossed partially aside. Harry didn't hesitate.
 Throwing himself forward, he aimed his broom for the now gaping hole in the
 tower. He drew his wand from his sleeve, mentally preparing himself for the
-maneuver that would spin him around to cast the Web Hex* at the open hatch and
-keep him from breaking his neck in the process. Curses cast from the castle
-defenders flew past him like a blast of heat in the icy air, tingling against
-his senses but never connecting as he flashed passed the invaders who seemed
-to be floating still around him.
+maneuver that would spin him around to cast the Web Hex\[^138-2] at the open hatch
+and keep him from breaking his neck in the process. Curses cast from the
+castle defenders flew past him like a blast of heat in the icy air, tingling
+against his senses but never connecting as he flashed passed the invaders who
+seemed to be floating still around him.
 
 Faster and faster, though there was little distance to go. He had to be the
 first through to close the entryway behind him.

@@ -46,10 +46,14 @@ if __name__ == "__main__":
                     "% Mizuni-sama".format(book))
 
         with open(filename, "r") as f:
-            story_text = html2text.html2text(f.read())
+            story_text = f.read()
+
+        story_text = story_text.replace("*", "\\*")
+        story_text = html2text.html2text(story_text)
 
         saw_title = False
         results = []
+        note = 1
         for line in story_text.splitlines():
             if not saw_title:
                 match = CHAPTER_REGEX.search(line)
@@ -66,6 +70,9 @@ if __name__ == "__main__":
                 if match is not None:
                     results.append("[^{}-{}]: {}".format(i, match.group(1), match.group(2)))
                 else:
+                    while "\\*" in line:
+                        line = line.replace("\\*", "[^{}-{}]".format(i, note))
+                        note += 1
                     results.append(line)
         if not saw_title:
             print("ERROR: Didn't see a chapter title!")

@@ -353,7 +353,7 @@ She just stared at him, confused, but unwilling to show it.
 "I couldn't figure it out at first," he said, pacing between the stones of the
 graves. "I mean *how* could Greyback have come to this plane. I am no shaman,
 but even I know you have to *invite* a god here, before they can have a direct
-influence, present company excluded of course*. Now, I know I didn't include
+influence, present company excluded of course\[^110-1]. Now, I know I didn't include
 any shamans with the warriors that were sent, so how?"
 
 He was starting to circle her now, and although she didn't move or stiffen,

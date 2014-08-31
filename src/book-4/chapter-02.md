@@ -122,8 +122,8 @@ finest quality wood, soon to be carved into broom handles and other magically
 rich devices, but only if he managed to get it all into town before the next
 rain hit.
 
-"*Mach dir keine Sorgen****, ****papa**,** I have at least an hour before the
-rain hits. Mr. Abalone will put me up for the night if it's too heavy to
+"*Mach dir keine Sorgen****, ****papa**,\[^64-1]* I have at least an hour before
+the rain hits. Mr. Abalone will put me up for the night if it's too heavy to
 return home," he replied, pretending the use his father's native German was
 perfectly ordinary, rather than an indicator that the family patriarch was
 angry.
@@ -542,9 +542,9 @@ costume party, but that was half the fun of roaming these parts of the city.
 The thrill of being discovered, the participation in strange customs, the
 novelty of a completely foreign way of life.
 
-"*Veux- tu bien te calmer?*"* she said to her companion, lifting her glass of
-sparkling grape juice for a sip. "No one is going to jump up and cut off your
-head."
+"*Veux- tu bien te calmer?*"\[^64-2] she said to her companion, lifting her glass
+of sparkling grape juice for a sip. "No one is going to jump up and cut off
+your head."
 
 He frowned and took a drink from his own cherry soda, and grimaced.
 

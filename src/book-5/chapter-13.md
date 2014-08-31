@@ -202,7 +202,7 @@ Right now, however, she was not thinking of magic or cross-stitching.
 even now. "You have been very quiet. You didn't even complain when I burnt the
 toast this morning."
 
-"Of course, I didn't. I fed it to Chopin* when you weren't looking."
+"Of course, I didn't. I fed it to Chopin\[^95-1] when you weren't looking."
 
 "Now you're just being facetious. What's troubling you? Are you getting split
 ends?"

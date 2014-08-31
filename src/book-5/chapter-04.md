@@ -77,7 +77,7 @@ how to use.
 He didn't ask a question, the 'universe' would know the right answer *and* the
 right question, without his help. He flipped over the first card.
 
-The Hierophant. Upright.*
+The Hierophant. Upright.\[^86-1]
 
 He stared at it for a long time, sorting through its various meanings, but it
 all came down to two. Two perfect answers, and he didn't know if he could

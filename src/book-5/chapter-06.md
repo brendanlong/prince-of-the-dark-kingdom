@@ -608,7 +608,7 @@ Well, bother.
 
 "How did you find me?"
 
-"The hospital identified you through BIN*, and found Lucius listed as your
+"The hospital identified you through BIN\[^88-1], and found Lucius listed as your
 emergency contact number. They called the house, and we all came down. Lucius
 had to go back to work after signing all the paperwork and Narcissa went home
 to prepare a room for you. The medi-wizard said they could discharge you
@@ -863,7 +863,7 @@ advantage of him being right in the middle of their territory. The Black
 Forest was notoriously dangerous due to their abundance. Handfuls of people,
 wizard and muggle alike, disappeared in there without a trace every year. The
 werewolves would be fine. As far as fairies were concerned, they were already
-apart of their realm, and didn't bother with them.* So ten minutes before
+apart of their realm, and didn't bother with them.\[^88-2] So ten minutes before
 sunset, he magicked himself a platform up in the trees, and climbed up, then
 placed additional protective wards around himself.
 

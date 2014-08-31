@@ -447,8 +447,8 @@ my present one." Sort of.
 for exactly the same reason. What do you know of prophecies?"
 
 Harry's experience with prophecies was limited to Fleur's odd Christmas
-present* and some some uncomfortable assertions by Madam Longbottom during his
-brief visit to Dunnan Hill. Such things had never seemed particularly
+present\[^126-1] and some some uncomfortable assertions by Madam Longbottom during
+his brief visit to Dunnan Hill. Such things had never seemed particularly
 important to him.
 
 "A little."
@@ -460,7 +460,7 @@ important to him.
 "Then listen very, very carefully. *The one with the power to vanquish the
 Dark Lord approaches... born to those who have thrice defied him, born as the
 seventh month dies... and the Dark Lord will know him in war and mark him as
-his equal... and one must kill the other... and rule for a thousand years.**
+his equal... and one must kill the other... and rule for a thousand years.\[^126-2]*
 Now then, does that seem to hit a little too close to home?"
 
 Harry looked away quickly.

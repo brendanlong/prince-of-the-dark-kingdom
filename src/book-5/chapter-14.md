@@ -880,7 +880,7 @@ hunt the beast down. Harry watched helplessly, knowing if his spell had failed
 they would not be quick enough to save her.
 
 "What the hell were you thinking?" Seitler snarled. "Chasing after a fairy
-beast like that into a *hill**. And then setting off a spell of that power!
+beast like that into a *hill*\[^96-1]. And then setting off a spell of that power!
 It'll attract every sprite and hag for *miles*."
 
 Harry wasn't listening to him. He was listening for the girl's screaming, for

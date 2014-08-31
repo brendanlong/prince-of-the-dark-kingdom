@@ -4,10 +4,10 @@ The Malfoy Estate was created for the amusement of its household, both young
 and old. There were many rooms dedicated to many different interests and
 hobbies and the grounds were similarly designed with these purposes in mind.
 The artificial river that ran through the western end of the estate
-accommodated fishing, boating, and various magical sports like *Kimshi* *and
-water chess* during the summer. When the water finally froze in late November,
-there were many other possible activities but Draco and Hermione liked ice
-skating the best.
+accommodated fishing, boating, and various magical sports like *Kimshi\[^60-1] *and
+water chess\[^60-2] during the summer. When the water finally froze in late
+November, there were many other possible activities but Draco and Hermione
+liked ice skating the best.
 
 Which was why when Hermione was feeling particularly stifled in the place that
 she had never really thought of as *her* home, she often found herself there

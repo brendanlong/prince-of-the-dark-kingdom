@@ -1304,7 +1304,7 @@ witch or wizard who sat there. Voldemort rather liked the effect and
 considered incorporating it into the Wizengamot. The walkways and staircases
 were marked with deep crimson carpeting, but the rest of the room was a
 complicated pattern of the fleur-de-lis in varying shades of gold. A statue of
-Juno* in white marble and gold stood at the front of the chamber, her seven-
+Juno\[^140-1] in white marble and gold stood at the front of the chamber, her seven-
 arched crown brushing the ceiling as she stared down at the assembly, and her
 robes flowing down onto the stage, giving it the illusion of protection to
 whomever stood upon it.
@@ -1379,7 +1379,7 @@ tedious after he won Britain and Ireland?
 
 "Tell me then."
 
-"The MCSA* and WYRA Initiative."
+"The MCSA\[^140-2] and WYRA Initiative."
 
 "Merlin, that won't go into effect for at least a year. What are they whining
 about?"

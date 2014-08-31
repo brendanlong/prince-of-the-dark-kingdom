@@ -715,7 +715,7 @@ the oldest person in the room (except for Voldemort but you couldn't really
 count him) and had a sour expression.
 
 "A silly sport. Grown men trying to knock enough other off brooms. It's
-entirely artless. I much prefer Wessicle*, even if it is German," she said
+entirely artless. I much prefer Wessicle\[^143-1], even if it is German," she said
 imperiously. Around the table, several people sighed soundlessly. Apparently
 the duchess was known for sharing her opinion.
 

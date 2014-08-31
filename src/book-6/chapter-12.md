@@ -277,7 +277,7 @@ the point and if he pretended it was he would only make the man irate.
 "And what would you consider proof, Dr. Truberville? Lord Voldemort knocking
 on your door?" he asked.
 
-"I'd settle for a letter and a certificary*"
+"I'd settle for a letter and a certificary\[^122-1]"
 
 The negotiation stalled as Harry considered his next step. Could he get what
 the director wanted? Probably. Just as likely he could get the Dark Lord to
@@ -358,7 +358,7 @@ bare oak and were decorated with display cases of strange artifacts, funny
 pictures, Quidditch memorabilia, small animals, Weasley Wizarding Wheezlies
 prank toys and candy, and one even had a collection of Italian insignia and
 plaque that read 'Strangers in a Foreign Land, Met Their Ends at the Strangest
-of Hands'*. The furniture here was piecemeal as well, but this was obviously
+of Hands'\[^122-2]. The furniture here was piecemeal as well, but this was obviously
 by design, especially the tables and chairs hanging from the ceiling (along
 with an elderly witch who seemed to appreciate being out of the way of the
 chaos beneath her). Waitresses in red dresses and white aprons bustled around

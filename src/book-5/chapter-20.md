@@ -71,7 +71,7 @@ several proposals for marriage to several pureblood women, and with a highly
 influential position to be officially assigned by the next school year his
 popularity was bound to make his list of potential wives grow. Women who were
 *confirmed* fertile and with title and wealth he could apply to his name, the
-newest *primer pater** to appear in Britain since the war.
+newest *primer pater*\[^102-1] to appear in Britain since the war.
 
 He would think about this, and his children, and his children's children, and
 feel a spark of pride and contentment. It wasn't until he started thinking
@@ -151,7 +151,7 @@ several art supplies.
 
 The sketchbook was revealing. Harry, despite his inability to retain a
 girlfriend, obviously had a healthy attraction to women if the abundant
-sketches of female students was anything to go by*. There were several
+sketches of female students was anything to go by\[^102-2]. There were several
 portraits in fact of people Harry knew, including himself hunched over a
 cauldron, and glowering at its contents as if they had somehow insulted him.
 When had Harry done that, he wondered.
@@ -459,7 +459,7 @@ He was handed off to a man and a woman, who took each arm and lead him into a
 steady stream of people. After a while the air cleared a little, and he tried
 to speak again.
 
-"What *ugh *huck** w-what..?"
+"What *ugh \[^102-3]huck\[^102-3]* w-what..?"
 
 "The Brits, they finally did it. They attacked! My god there were *children*
 in the crowd!"

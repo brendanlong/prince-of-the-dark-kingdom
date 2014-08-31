@@ -545,8 +545,8 @@ not the only reason people feared to get on their bad side.
 "We're starting a business. This'll cover the down payment on the mortgage.
 We've been wanting to do it for a while, but figured we might as well wait
 'til we graduated. Mum would have a coronary if we dropped out early. Can't
-imagine Ma and Pa Stone* would be too happy about it either," Fred said, idly
-wandering the rows of vegetation.
+imagine Ma and Pa Stone\[^111-1] would be too happy about it either," Fred said,
+idly wandering the rows of vegetation.
 
 "Good thing we waited too. Real estate prices are rock bottom, what with the
 war going on and all."
@@ -878,7 +878,7 @@ acquaintances within your own circle of acquaintances is to your benefit."
 True enough, but the Dark Lord seriously doubted this was done for *his*
 benefit. He decided to drop it for now. It was a trivial matter.
 
-"Speaking of Barty* and circles of acquaintances, he just sent me the latest
+"Speaking of Barty\[^111-2] and circles of acquaintances, he just sent me the latest
 intel on Germany. It seems the latest alliances were only agreed upon with the
 formal appointment of power to an *official* military commander of their
 choosing. I'll give you three guesses on who wormed their way into the

@@ -201,7 +201,7 @@ to him from the start, and he equally resigned to win.
 
 And then, a sort of miracle occurred.
 
-Michael Allbright*, a slip of a boy in Hufflepuff whom Harry had mentored
+Michael Allbright\[^121-1], a slip of a boy in Hufflepuff whom Harry had mentored
 during his first painful year in Jr. Dueling Club, took the platform. He
 wasn't particularly powerful and when he had first started he had a tendency
 to freeze up under intimidation, but he had stuck it out and Harry could
@@ -2001,7 +2001,7 @@ noticed Fleur seated on a bench, clutching her sides as she laughed mutely
 behind a Silencing Charm.
 
 "Did you have fun?" he finally huffed out. "Or shall we go up to the roof and
-toss water bombs* at passersby?"
+toss water bombs\[^121-2] at passersby?"
 
 "Well, if I had my personal preference…" Voldemort began, still chuckling as
 he finally climbed to his feet. He helped Harry to do the same. He cast a

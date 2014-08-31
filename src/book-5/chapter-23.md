@@ -709,7 +709,7 @@ didn't have anyone to replace the casualties they were likely to suffer
 either, and definitely none suitable to lead in his place if he were killed.
 Harry shook his head though.
 
-"I want to see the Lorraine's Gate and the Stroudsburg Gate* and their
+"I want to see the Lorraine's Gate and the Stroudsburg Gate\[^105-1] and their
 commanders first before I recommend the military for any of them. I would have
 preferred seeing them before you all got dragged here to be quite frank," he
 said, looking irritated. Further down the table, Ire and Deepbite were getting
@@ -823,11 +823,11 @@ you?"
 
 "Promise you'll be safe?"
 
-"I promise. The Fortifyers* will be in this Thursday to secure the house, and
-I'll be done with business before Christmas. Nothing's going to happen before
-then. Just be patient." He turned to his daughters, who were still looking
-sulky from their reprimand. "And you mind your dad, you hear? I'll be by every
-Sunday to make sure of it."
+"I promise. The Fortifyers\[^105-2] will be in this Thursday to secure the house,
+and I'll be done with business before Christmas. Nothing's going to happen
+before then. Just be patient." He turned to his daughters, who were still
+looking sulky from their reprimand. "And you mind your dad, you hear? I'll be
+by every Sunday to make sure of it."
 
 They nodded petulantly, but didn't turn away when he bent down and kissed both
 their foreheads and hugged them. Kyle took his turn as well, holding tight for

@@ -1307,7 +1307,7 @@ Oswald stepped forward to pull the cage of the elevator open, and with his
 back turned he didn't immediately see his prisoner suddenly press the head of
 his cane to Renee's ribs. He did, however, hear the spell.
 
-"*Ligananimus!*"*
+"*Ligananimus!\[^145-1]"*
 
 Oswald swung around, fangs bared even as Renee collapsed to the ground without
 a mark on her. There was no room and no time to get off another spell before
@@ -1315,7 +1315,7 @@ Oswald was on the wizard. Snape brought up the cane to block the remaining
 vampire, and it caught on the sides of the cramped elevator, momentarily
 saving him from being crushed as he was thrown into the corner.
 
-"*Ignatus lumina!*,"*
+"*Ignatus lumina!\[^145-2],"*
 
 The tiny elevator exploded in hot, white light and a deafening bang. Panicked
 and blind, Oswald shrieked and threw himself through the open door of the
@@ -1489,6 +1489,11 @@ That shocked another laugh out of Sirius.
 
 * * *
 
-*'Ligananimus' is a spell used to turn the heart to wood. It's a transfiguration spell most often used in defense against vampires, as 'avada kedavra' has no effect on vampires. Better than even a staking. It's just as effective against regular people, of course, but easily blocked by various shield spells and magical pendants.
+\[^145-3]'Ligananimus' is a spell used to turn the heart to wood. It's a
+transfiguration spell most often used in defense against vampires, as 'avada
+kedavra' has no effect on vampires. Better than even a staking. It's just as
+effective against regular people, of course, but easily blocked by various
+shield spells and magical pendants.
 
-*'Ignatus lumina' is a fireworks spell. It's more flash than bang and relatively harmless, but damn frightful if you're not expecting it.
+\[^145-4]'Ignatus lumina' is a fireworks spell. It's more flash than bang and
+relatively harmless, but damn frightful if you're not expecting it.

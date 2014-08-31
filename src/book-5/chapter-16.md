@@ -535,7 +535,7 @@ man's no good to us dead."
 "Sir, I really don't think he has a minute."
 
 "Then I'll revive him again. They're always much more cooperative as
-zombies.*"
+zombies.\[^98-1]"
 
 Morgan said nothing more, merely stood there and watched with a deepening
 sense of horror as a child suffocated a man with his bare hands right before

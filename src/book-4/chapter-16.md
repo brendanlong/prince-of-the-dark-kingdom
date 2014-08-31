@@ -194,7 +194,8 @@ was as strange and mysterious as everything else about him.
 
 "I... I would like that."
 
-The younger boy nodded. "Goodnight then. And good luck with exams* tomorrow."
+The younger boy nodded. "Goodnight then. And good luck with exams\[^78-1]
+tomorrow."
 
 "You as well."
 
@@ -801,8 +802,8 @@ his tongue spoke the opposite of what his mind was screaming.
 Brennan stepped back, and he stepped forward, then knelt before the altar,
 closed his eyes and began to pray.
 
-"Madris*, Goddess of the Scythe, of the Field, of the Chalice and the Blade*,
-I call to you and beg thy indulgence..."
+"Madris\[^78-2], Goddess of the Scythe, of the Field, of the Chalice and the
+Blade\[^78-3], I call to you and beg thy indulgence..."
 
 He continued on for several minutes, calling out Madris' many names and
 euphemism, praising her, cajoling her, begging her attention. Slowly, the air
@@ -852,8 +853,8 @@ other gifts would still be there, as powerful as ever and rightfully his.
 delicately touching his hair, his cheek, his lips. Her brilliant red hair
 stood out against her white skin like blood, her gray eyes were clouded with
 drink and desire, desire she directed solely at him. "Andraste and Toutatis
-and Ogmios* and Madris, all reaching out to you. Can you feel them touch you?
-Feel them touch you like I do?"
+and Ogmios\[^78-4] and Madris, all reaching out to you. Can you feel them touch
+you? Feel them touch you like I do?"
 
 He smiled grimly, and took her hands, pulling them away. She was a delight,
 but not for him, and it was only her words he would allow himself to take
@@ -940,7 +941,7 @@ those important to Her.
 
 "A gift?" he asked, because sometimes gods gave him less pleasant things, like
 warnings or tasks or rotted gnome heads (although that last one could have
-just been a Goodfellow*, who despite their names really weren't very good at
+just been a Goodfellow\[^78-5], who despite their names really weren't very good at
 all).
 
 She continued to chew her cheese slowly, savoring it, and didn't speak until

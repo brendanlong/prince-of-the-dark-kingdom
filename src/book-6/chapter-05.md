@@ -326,7 +326,7 @@ The young wizard groaned and continued his retreat. They fell into a
 discussion about apparition; its history, uses, and limitations. Then about
 other forms of magic that were traditionally wandless, including flying on
 brooms, potions, divination (Harry was surprised the Dark Lord practiced
-several very simple forms of it for very practical purposes), and animancy*.
+several very simple forms of it for very practical purposes), and animancy\[^115-1].
 Then they discussed wands and how everyone came to use them and why everyone's
 was different, which led to more discussions about keystones and magical
 elements and patronus. They theorized about the evolution of wizarding society
@@ -986,7 +986,7 @@ premonition. Harry stopped walking, and instinctively looked to the sky before
 turning to look around him. Kingsley was doing the same, and though neither of
 them saw anything there was absolute certainty that *something* was happening.
 
-The scars on Harry's palms began to burn*.
+The scars on Harry's palms began to burn\[^115-2].
 
 The first explosion took out a small restaurant, disintegrating it into a
 cloud of fire and wood. He saw the few men and women eating outside blown into
@@ -1351,7 +1351,7 @@ stop to help him he decided. There were also several children standing out in
 the street, looking morose and nervous, but they of course didn't have wands
 either. There was, however, a somewhat familiar looking giant man who was
 helping calm several teams of horses who were moving about skittishly outside
-of what had probably once been the neighborhood livery*. Perhaps he could
+of what had probably once been the neighborhood livery\[^115-3]. Perhaps he could
 help.
 
 "Excuse me, sir."

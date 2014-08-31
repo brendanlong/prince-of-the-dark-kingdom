@@ -345,7 +345,7 @@ Dark Lord's office. He turned to Voldemort to ask what he had done to him, but
 he was alreadybeginning to figure it out for himself. The floating sensation
 had eased, leaving him was a familiar, bone deep fatigue.
 
-His magic was gone or at least severely depleted.*
+His magic was gone or at least severely depleted.\[^104-1]
 
 Well, shit. He would have almost preferred a crucio. At least then it would
 all be over and done with. It could take weeks to restore his magic.
@@ -647,7 +647,7 @@ once again.
 
 "I'm glad you asked, Harry. You see Fred and I, we were just sitting around
 the other day thinking, 'hey, you know what would be great about now? A game
-of Wizer's Rent*', but of course, our last deck was confiscated Lestrange
+of Wizer's Rent\[^104-2]', but of course, our last deck was confiscated Lestrange
 banned them."
 
 "You want to open a casino in Hogwarts?" Harry asked dubiously.
@@ -680,11 +680,11 @@ thing to do. Harmless and clever and likely to cause someone in authority a
 monstrous headache. "And what would you need me for?"
 
 "Ah, see, we know how to mess with the mail to get things in, it's getting the
-money *out *that's the problem. Something about money* really screws with the
-system we've got going, and it all ends up getting diverted to the Sentinels,
-and that's a group of wizards I don't want to be locked alone in a room with
-ever again. *Yick.* We would need you to get the orders off the school grounds
-so they could be shipped without the Sentinels knowing."
+money *out *that's the problem. Something about money\[^104-3] really screws with
+the system we've got going, and it all ends up getting diverted to the
+Sentinels, and that's a group of wizards I don't want to be locked alone in a
+room with ever again. *Yick.* We would need you to get the orders off the
+school grounds so they could be shipped without the Sentinels knowing."
 
 Harry snorted. "Yeah, because they never check *my *mail."
 
@@ -1076,7 +1076,7 @@ him.
 
 They're initial conversation involved a lot of grunting and nonsensical
 sounds, and eventually ended with Harry crawling into Sirius and Remus' bed
-with the half a dozen other werewolves* and falling back asleep with all his
+with the half a dozen other werewolves\[^104-4] and falling back asleep with all his
 clothes still on. He woke up the next morning momentarily terrified when he
 couldn't figure out where he was. He sprung up with a gasp, the room an
 indistinguishable blur.

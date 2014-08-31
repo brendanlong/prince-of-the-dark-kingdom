@@ -342,7 +342,7 @@ tried to wipe away the evidence of her crying.
 "Are you crying?" he asked, stepping into the empty room and closing the door
 behind him.
 
-"What do you think, stupid? I got hit with a Crying Hex. *sniff*."
+"What do you think, stupid? I got hit with a Crying Hex. \[^99-1]sniff\[^99-1]."
 
 He didn't say anything, and she was hoping against hope that he bought her
 ruse. If he had she had probably ruined it by looking when he moved to stand
@@ -375,7 +375,7 @@ Did he say something to you?"
 
 She shook her head.
 
-"No… he didn't do anything wrong… *sniff* which I think is the problem."
+"No… he didn't do anything wrong… \[^99-2]sniff\[^99-2] which I think is the problem."
 
 He gestured for her to elaborate, and she grit her teeth at his presumption.
 

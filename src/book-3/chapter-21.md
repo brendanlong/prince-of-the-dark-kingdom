@@ -476,7 +476,7 @@ Harry's survival instinct kicked in and he bolted around them.
 Clyde interjected, "We know, Harry! Tell us later. Just run or they'll catch
 you!"
 
-"Traitor! You just want to get Harry alone for some private luv'ins!"* Fred
+"Traitor! You just want to get Harry alone for some private luv'ins!"\[^62-1] Fred
 accused, causing his nephew to turn beet red. Luckily, this was just enough of
 a distraction for Harry to slip under his outstretched arms and through the
 door. From there he managed to escape into the castle, feeling laughter

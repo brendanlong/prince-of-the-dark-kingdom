@@ -474,7 +474,7 @@ unspeakable dread.
 
 "Surely you recognize them?" the Dark Lord said, smug at having drawn his
 captive in so easily. "Admittedly, they are not quite the same as Carrigan's
-animus*, but the similarities are there. Very organic movements, pseudo-
+animus\[^116-1], but the similarities are there. Very organic movements, pseudo-
 conscious behavior, unusually curious and friendly towards people… when
 they're not tearing them to pieces. I think our old teacher would have been
 quite impressed. Harry's magical development is far more advanced than I
@@ -563,7 +563,7 @@ He felt less inclined to kill Bobby than ever before.
 "Well, aren't you just full of surprises?" he said between shaking breaths. "I
 didn't know you could do this without our master's help. A reverse animagus.
 How deliciously clever. Is this how you looked before you died or is his face
-the only human face you can hold clearly in your head*?"
+the only human face you can hold clearly in your head\[^116-2]?"
 
 The man that struggled beneath him was far younger than Voldemort had ever had
 the opportunity to see Carrigan in life, but it was clearly recognizable as
@@ -679,9 +679,10 @@ date. Lots of paperwork and legalese to wade through with her betrothal, after
 all. You've heard of her impending nuptials? I do hope you will be able to
 attend. As her *best* friend, we'd welcome you as family."
 
-Robert suddenly went pale*. Harry himself couldn't stop himself from suddenly
-pulling his hand free, his eyes revealing the betrayal he felt. Robert opened
-his mouth, to explain or to deny, but was interrupted yet again by Lucius.
+Robert suddenly went pale\[^116-3]. Harry himself couldn't stop himself from
+suddenly pulling his hand free, his eyes revealing the betrayal he felt.
+Robert opened his mouth, to explain or to deny, but was interrupted yet again
+by Lucius.
 
 "Why don't you go to my office and get the paperwork yourself? It's in the red
 file on top of my desk. I would like to speak with Harry for a little while."
@@ -1244,7 +1245,7 @@ The battle against smiling was lost soon there after.
 "We really need to work on your language. You never used to swear before."
 
 "Oh my Goddess, she's going to kill me. She's going to induce insanity and
-make me eat poisonous spiders. I'll be torn apart by angry horses*."
+make me eat poisonous spiders. I'll be torn apart by angry horses\[^116-4]."
 
 "I would have gone with werewolves, but it's your fatalistic fantasy."
 

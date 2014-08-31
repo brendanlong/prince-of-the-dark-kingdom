@@ -100,8 +100,8 @@ Voldemort looked away from the spirit and down at Harry, seeming to
 contemplate his inquiry or more specifically why it had been asked. Finding
 nothing more than childish curiosity, he answered.
 
-"I was promised a millennium about fifteen years ago*. So... nine-hundred and
-eighty five years to go."
+"I was promised a millennium about fifteen years ago\[^65-1]. So... nine-hundred
+and eighty five years to go."
 
 Harry gaped. The life span of the earth seemed like a long time, but having a
 definite number of years made it sound even more impossible.
@@ -349,7 +349,7 @@ And really he couldn't complain about his accommodations. Barnabas was a
 considerate landlord, if not particularly bright. He politely ignored him
 taking residence in his newspaper stand, and graciously renewed the cooling
 charm in his shadowy niche in the stand's awning every so often. In return,
-Tom refrained from crapping on him while he was working and leaving pellets*
+Tom refrained from crapping on him while he was working and leaving pellets\[^65-2]
 on the floor.
 
 There was far too much noise during the day, but that was part of the reason
@@ -392,7 +392,7 @@ He needed to return to Hogwarts.
 Harry sat outside Voldemort's tent, performing his first official task as the
 Dark Lord's unofficial pagan apprentice. As was expected, it was little more
 than grunt work. He was making incense or more precisely, the extract that
-would compose the incense, grinding up nutmeg, clove, camphor, and opononex*
+would compose the incense, grinding up nutmeg, clove, camphor, and opononex\[^65-3]
 with a crude wooden pestle and mortar. His teacher said it was for a summoning
 lesson, though he hadn't specified for what exactly. He'd gone off to talk
 with Greyback, and Harry wasn't about to delay him with questions that could
@@ -850,13 +850,13 @@ that.
 potions to heal him before the full moon?"
 
 Voldemort snorted. "As you should be well aware, wounds inflicted by
-werewolves are 'cursed'*. They are much more difficult to heal than normal
+werewolves are 'cursed'\[^65-4]. They are much more difficult to heal than normal
 injuries. Even my best medi-wizards and witches wouldn't be able to heal him
 in time for the transformation not to kill him."
 
 "Why not? Your apprentice did some of it. I saw him closing the wound all by
 himself, and I don't think he had half an idea of what he was doing. You
-telling me, a true shaman, a full Druid priest*, couldn't do it?"
+telling me, a true shaman, a full Druid priest\[^65-5], couldn't do it?"
 
 The Dark Lord scowled.
 
@@ -867,7 +867,7 @@ laws of magic. Blackbone is quite lucky that Harry seems to possess not only
 enough love to perform this magic, but the blessing of the Goddess to harness
 that magic to achieve a specific purpose. If Harry hadn't the intuition to use
 that magic, he might just as easily have killed them both. Or perhaps just
-you. That sort of magic tends to get vengeful when interrupted."*
+you. That sort of magic tends to get vengeful when interrupted."\[^65-6]
 
 "Can the boy fix him?" he asked, not bothered by his potential near-death. The
 Dark Lord smirked.

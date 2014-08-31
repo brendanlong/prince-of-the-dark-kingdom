@@ -820,7 +820,7 @@ from his prone position but eventually Harry settled back towards his head.
 
 "Okay, is that good?"
 
-"Considering I thought it would be in the Swadhisthana*, then yes, I suppose
+"Considering I thought it would be in the Swadhisthana\[^131-1], then yes, I suppose
 you could call it 'good'. At least, it's a lot less awkward."
 
 "Fuck, I have no idea what you're talking about. Just get it over with!"

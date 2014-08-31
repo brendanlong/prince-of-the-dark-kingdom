@@ -170,7 +170,7 @@ gossip on him during their monthly transactions. She nodded.
 "Pureblood father. Muggleborn mother. Lived with his mother's muggle sister
 before he was discovered. No other living relatives."
 
-"Lily Evans was no muggleborn*. She was a half-blood. Her mother got into it
+"Lily Evans was no muggleborn\[^92-1]. She was a half-blood. Her mother got into it
 with Voldemort at some point, when he was nothing more than handsome young
 college student, traveling for the holidays. My father's mother has an
 identical story."
