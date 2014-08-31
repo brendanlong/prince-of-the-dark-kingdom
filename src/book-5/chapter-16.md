@@ -670,8 +670,6 @@ all, and said nothing.
 
 ---
 
----
-
 Prisoner: "Ah, the traitor in person. I feel so honored."
 
 Prisoner: "What's the matter? Nothing to say, traitor? Aren't you angry?

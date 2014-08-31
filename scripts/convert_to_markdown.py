@@ -105,8 +105,16 @@ if __name__ == "__main__":
                         chapter.title = chapters[-1].title
                         chapter.part = chapters[-1].part + 1
             elif PAGE_BREAK_REGEX.match(line):
-                if line_number != len(lines) - 1:
-                    chapter.lines.append("---")
+                # Remove superfluous horizontal rules at the end of files
+                if line_number == len(lines) - 1:
+                    continue
+                # Remove duplicate horizontal rules
+                if len(chapter.lines) > 1 and chapter.lines[-2] == "---":
+                    continue
+                chapter.lines.append("---")
+            # Don't print duplicate empty lines
+            elif not line and chapter.lines and not chapter.lines[-1]:
+                continue
             else:
                 match = FOOTNOTE_REGEX.search(line)
                 if match is not None:
