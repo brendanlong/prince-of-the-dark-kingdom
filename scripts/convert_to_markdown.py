@@ -123,6 +123,10 @@ if __name__ == "__main__":
                     while "\\*" in line:
                         line = line.replace("\\*", "[^{}-{}]".format(i, next_note))
                         next_note += 1
+                    while "({})".format(next_note) in line:
+                        line = line.replace("({})".format(next_note),
+                            "[^{}-{}]".format(i, next_note))
+                        next_note += 1
                     chapter.lines.append(line)
         chapters.append(chapter)
 

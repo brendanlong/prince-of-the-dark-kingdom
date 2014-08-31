@@ -179,7 +179,7 @@ rude to them. Rude was easy.
 
 "Hallo. Mein Name ist Harry. Ihr seid unheimlich eingebildet,
 oberflächlich und aufgeblasen. Ich würde euch nicht einmal eine Katze
-adoptieren lassen, geschweige denn einen kleinen Jungen,"(1) he rambled
+adoptieren lassen, geschweige denn einen kleinen Jungen,"[^4-1] he rambled
 off. The wizards both looked at him blankly for a moment, then the blond
 one hurriedly opened up a pamphlet he was carrying and flipped through
 it. At first, Harry though he was looking up what he'd said, but was
@@ -191,7 +191,7 @@ Returned to England around eight or nine. Oh look there... almost eleven
 already. WYRA just picked him up last week. Imagine that? You rarely see
 them this old."
 
-"Kein Grund so mich anzugaffen, du Fisch."(2)
+"Kein Grund so mich anzugaffen, du Fisch."[^4-2]
 
 "Are you sure the German wizards didn't just throw him back?"
 
