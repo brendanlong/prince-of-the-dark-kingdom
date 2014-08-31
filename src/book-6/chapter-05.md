@@ -1541,7 +1541,7 @@ thinking about changing his mind.
 
 \~ Author's Notes\~
 
-​1. Animancy is a completely made up branch of magic. It refers to the
+[^115-1]: Animancy is a completely made up branch of magic. It refers to the
 art of making non-living things behave like living things. Think of
 Disney's Beauty and the Beast and all that enchanted Tupperware…only
 without faces and less singing. Not to be confused with necromancy which
@@ -1549,7 +1549,7 @@ is the art of making dead things behave like living things (not to be
 alive just to behave something like it). Zombies without the
 brain-eating obsession. :P
 
-​2. In case you forgot, after the Sword of Gryffindor was destroyed,
+[^115-2]: In case you forgot, after the Sword of Gryffindor was destroyed,
 Harry had a series of scars left on his hand. They are remnants of the
 sword's magic imbedded in Harry's own body, and can perform in similar
 ways to the sword as well as a warning of danger. Harry's very own

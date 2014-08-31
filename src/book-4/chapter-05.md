@@ -767,13 +767,13 @@ orange in my live."
 
 ---
 
-​1. Wallaple is like an apple, only the core has a nut similar to a
+[^67-1]: Wallaple is like an apple, only the core has a nut similar to a
 walnut. Both nut and pulp are edible, and most recipes include both
 parts of the fruit.
 
-​2. Dragon. I mention Harry seeing one in the first book.
+[^67-2]: Dragon. I mention Harry seeing one in the first book.
 
-​3. McGonagall.... gargle gargle... :)
+[^67-3]: McGonagall.... gargle gargle... :)
 
 Extra special thanks to Swanpride for her help with the German accents!
 Otherwise I would have insulted several countries in the course of

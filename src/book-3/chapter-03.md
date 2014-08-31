@@ -794,5 +794,5 @@ before turning around again in search of the liquor cabinet.
 
 ---
 
-​1. This is a real lullaby, called An Irish Lullaby with words by Alfred
+[^44-1]: This is a real lullaby, called An Irish Lullaby with words by Alfred
 Perceval Graves and music by Charles Villier Stanford.

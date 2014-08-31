@@ -764,7 +764,7 @@ but it quickly died. There was something off.
 
 ---
 
-​1. Chopin is Bodine's dog. If you're wondering what's happening right
+[^95-1]: Chopin is Bodine's dog. If you're wondering what's happening right
 now with Fleur and Bodine, she is living with him in his house. It's
 like military assigned housing, small but close to work and next to
 other musketeers' homes.

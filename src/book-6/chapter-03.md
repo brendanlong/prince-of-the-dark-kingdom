@@ -1098,7 +1098,7 @@ He would enjoy it while it lasted.
 
 \~ Author's note\~
 
-​1. Faerie rings are seen visibly as a ring of large mushrooms
+[^113-1]: Faerie rings are seen visibly as a ring of large mushrooms
 (toadstools), and to step into one is to step into the faerie realm.
 There are legends that men who have stepped into one and then left, felt
 as if only a brief time had passed and yet after they had left found

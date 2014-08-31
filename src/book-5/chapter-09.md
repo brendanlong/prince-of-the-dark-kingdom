@@ -1196,6 +1196,6 @@ Harry was now, officially and undeniably, the Prince of Britain.
 
 ---
 
-​1. I ended up writing a lot of Harry's tale before I realized it could
+[^91-1]: I ended up writing a lot of Harry's tale before I realized it could
 make a chapter all its own, so I will be posting it separately in a few
 days so that it doesn't take up too much of this chapter.

@@ -857,7 +857,7 @@ He really hated wizards.
 
 ---
 
-​1. Ireland is thick with Fairy Folk. In my universe, Ireland was
+[^79-1]: Ireland is thick with Fairy Folk. In my universe, Ireland was
 basically pulled out of the sea specifically by the Fae so they could
 live on it and claim the land their own. People eventually moved in, and
 gradually so did wizards, but it's a very dangerous place for them. If a

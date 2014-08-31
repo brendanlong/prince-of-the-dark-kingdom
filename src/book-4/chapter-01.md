@@ -940,13 +940,13 @@ And with Harry Potter.
 
 ---
 
-​1. For those who forgot, the Brass Cult is Voldemort's new army.
+[^63-1]: For those who forgot, the Brass Cult is Voldemort's new army.
 **Br**itish **Ass**embly for **Cult**ural Preservation and Defense -
 **BrAss Cult**. Also named because their uniform buttons and insignia
 are made of brass, at least for the typical foot soldier. The higher the
 rank, the more expensive their uniform fixtures.
 
-​2. Also, note, 'Judge' in Voldemort's Court isn't the same thing as a
+[^63-2]: Also, note, 'Judge' in Voldemort's Court isn't the same thing as a
 'judge' in a muggle court. 'Judge' is a high ranking Court official, in
 this case rather like an ambassador. German translation is Richter.
 

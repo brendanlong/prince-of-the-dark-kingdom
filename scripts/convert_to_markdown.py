@@ -30,7 +30,7 @@ NUMERALS = [
 ]
 
 CHAPTER_REGEX = re.compile("^(Epilogue)|^(\*\*)?Chapter [0-9]+[:-]? *([^*]*)(\*\*)?$")
-FOOTNOTE_REGEX = re.compile("^([0-9]+)\\\. (.+)$")
+FOOTNOTE_REGEX = re.compile("^([0-9]+)[.)] (.+)")
 PAGE_BREAK_REGEX = re.compile("^(\* )+\*$|^o+$|^\\\~ *Page Break(er)?s? *\\\~$", flags=re.IGNORECASE)
 
 class Chapter(object):
@@ -86,6 +86,7 @@ if __name__ == "__main__":
         chapter = Chapter(chapter_number)
         lines = story_text.splitlines()
         for line_number, line in enumerate(lines):
+            line = line.strip().strip(chr(8203))
             if not chapter.title:
                 match = CHAPTER_REGEX.search(line)
                 if match is not None:

@@ -796,10 +796,10 @@ hasn't had this much entertainment in *years*."
 
 ---
 
-​1. I don't know the English rating system for movies and television, so
+[^17-1]: I don't know the English rating system for movies and television, so
 if you know just mentally insert the appropriate term.
 
-​2. The 'Vanguard' is Voldemort's equivalent to Aurors, just as the
+[^17-2]: The 'Vanguard' is Voldemort's equivalent to Aurors, just as the
 'Court' is the equivalent to the Ministry.
 
 Author's note: Wow, that's my longest chapter so far. So it took so long

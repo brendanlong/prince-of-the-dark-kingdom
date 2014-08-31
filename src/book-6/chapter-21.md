@@ -1486,7 +1486,7 @@ singularly simple yet profound statement.
 
 Author's notes:
 
-​1. The Swadhisthana is 'the Sacral Chakra' point, which is located
+[^131-1]: The Swadhisthana is 'the Sacral Chakra' point, which is located
 around the genitals. Harry thought this is where the curse would be
 concentrated because it is generally thought to be the area that
 governs, among various other things, violence.

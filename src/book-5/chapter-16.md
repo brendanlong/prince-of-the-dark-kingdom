@@ -680,6 +680,6 @@ bug-eyed idiot?"
 
 Harry: "You're awfully proud for a limp-dicked child-killer."
 
-​2. Voldemort is a necromancer. This is stated in canon, but I just
+[^98-2]: Voldemort is a necromancer. This is stated in canon, but I just
 thought I'd remind everyone since I don't think I mention it in my own
 story.

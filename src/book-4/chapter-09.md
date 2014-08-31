@@ -1013,10 +1013,10 @@ And promptly dropped dead.
 
 ---
 
-​1. Failte, I have been informed. Is the actual Gaelic term for
+[^71-1]: Failte, I have been informed. Is the actual Gaelic term for
 'welcome'. I will be going back and replacing Taigamid with this. Just
 an FYI.
 
-​2. The BUGs are what they sound like, in both contexts of the word (no,
+[^71-2]: The BUGs are what they sound like, in both contexts of the word (no,
 not the Voltswagon Beetle type of bug, the *other* two meanings of the
 word).

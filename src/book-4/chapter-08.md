@@ -879,5 +879,5 @@ his last two articles. Yeah. This could be fun.
 
 ---
 
-​1. For those who are wondering, she said "And you can tattoo it across
+[^70-1]: For those who are wondering, she said "And you can tattoo it across
 your ass over the summer"

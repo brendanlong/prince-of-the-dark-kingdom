@@ -965,6 +965,6 @@ What was he going to do now?
 
 ---
 
-​1. If you want to know what the Upright Hierophant stands for, you'll
+[^86-1]: If you want to know what the Upright Hierophant stands for, you'll
 have to go look it up. Otherwise, I'm going to keep you guessing until
 Harry and Voldemort meet again.

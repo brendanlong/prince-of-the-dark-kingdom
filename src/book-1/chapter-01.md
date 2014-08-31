@@ -453,4 +453,4 @@ scowl twisted up in a mockery of a smile. "Of course it is."
 
 ---
 
-​1. Piece of trash
+[^1-1]: Piece of trash

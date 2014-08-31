@@ -1261,7 +1261,7 @@ him leave.
 
 \~ Author's Note\~
 
-​1. Mandalari's understanding of 'Old Ways' is rather ignorant, in
+[^119-1]: Mandalari's understanding of 'Old Ways' is rather ignorant, in
 addition to being religiously skewed. 'Old Ways' permeate even the most
 modern of magic, it is simply that most modern witches and wizards
 *look* at it in a 'New Way'. A sort of 'the glass is half empty, the

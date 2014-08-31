@@ -348,10 +348,10 @@ where and on who it landed, and it did not care who it left behind. It
 was a scary, horrible truth. It made Harry feel older and more prepared
 for his life to come, and he was glad it had been revealed to him.
 
-​1) Hello. My name is Harry. You are conceited, shallow, and pompous.
+[^4-1]: Hello. My name is Harry. You are conceited, shallow, and pompous.
 You best bet is to adopt a cat, not a little boy.
 
-​2) That's no reason to gape, you codfish.
+[^4-2]: That's no reason to gape, you codfish.
 
 Author's note: Many of the people who are in this first book of the
 series (yes, I intend to have a series with all seven years of Harry's

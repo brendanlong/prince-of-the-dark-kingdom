@@ -308,7 +308,7 @@ had taken the train after all.
 
 ---
 
-​1. 'It's not a parlor trick, you idiot!' Actually,
+[^10-1]: 'It's not a parlor trick, you idiot!' Actually,
 'Traschenspielertrick' means prestidigitation, an uncommon word in
 America (can't speak for other English-speaking countries) but according
 to Ashere a fairly common word in German.

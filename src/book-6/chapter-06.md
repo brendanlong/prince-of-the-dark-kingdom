@@ -1692,8 +1692,8 @@ haven't decided. It's not really relevant to the plot either way. For
 those who forgot, yes I did mention that Bobby is Carrigan's
 reincarnated brother.
 
-​3. Robert didn't know that Hermione was Harry's best friend until this
+[^116-3]: Robert didn't know that Hermione was Harry's best friend until this
 point. He has really no idea how much Harry's life intersects with the
 Malfoy family.
 
-​4. Horses are one of the symbolic representations of Rhiannon.
+[^116-4]: Horses are one of the symbolic representations of Rhiannon.

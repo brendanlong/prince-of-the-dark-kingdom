@@ -482,7 +482,7 @@ unconscious.
 
 ---
 
-​1. Lycanthrosis is related to lycanthropy. It's caused by being bitten,
+[^22-1]: Lycanthrosis is related to lycanthropy. It's caused by being bitten,
 having sex, or exchanging blood with a werewolf who wasn't transformed
 at the time. Symptoms include growth of fangs and/or claws, increased
 aggression and strength, affinity for raw meat, and strange behavior

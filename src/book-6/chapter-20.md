@@ -1612,7 +1612,7 @@ like a warm blanket and comfort his black heart.
 
 Author's Notes:
 
-​1. Vernon Dursley does not know that Harry can understand English. He's
+[^130-1]: Vernon Dursley does not know that Harry can understand English. He's
 like someone who rants at a dog for pissing on the rug or their computer
 for getting a glitch, too angry and irrational to accept that they can't
 understand what he's saying.

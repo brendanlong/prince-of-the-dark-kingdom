@@ -850,6 +850,6 @@ different possibilities came to mind, and none of them good.
 
 ---
 
-​1. Lily Evans was 100% muggleborn. Tom is lying through his teeth in
+[^92-1]: Lily Evans was 100% muggleborn. Tom is lying through his teeth in
 order to win Katarina's trust. Suggesting he is Voldemort's son and
 proving it with the use of Parseltongue is a good way to do that.

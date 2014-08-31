@@ -444,7 +444,7 @@ war."
 
 ---
 
-​1. You know, you are a snob? My adoption or lack of adoption is none of
+[^7-1]: You know, you are a snob? My adoption or lack of adoption is none of
 your damn business.
 
 Author's note: Yes, Harry finally learns his parents were wizards,

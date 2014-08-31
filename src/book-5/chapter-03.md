@@ -969,7 +969,7 @@ clearly make out the bone mask of a Death Eater.
 
 ---
 
-​1. Before anyone starts shouting down hellfire on me for adding more
+[^85-1]: Before anyone starts shouting down hellfire on me for adding more
 gay couples, I feel I should clarify somethings. One, Carrigan and
 Voldemort were never in a romantic relationship. It wasn't all that
 different from what Voldemort and Harry have, except for the political

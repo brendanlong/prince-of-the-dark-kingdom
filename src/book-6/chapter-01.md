@@ -1024,7 +1024,7 @@ stay at the office and run the country."
 Just a reminder, the Weasley twins were adopted by Clyde's grandparents,
 the Stone family. Clyde is technically their adoptive nephew.
 
-​2. Yes, this is Barty Crouch Jr., alive and kicking it with a nice
+[^111-2]: Yes, this is Barty Crouch Jr., alive and kicking it with a nice
 position as Head of Court Foreign Intelligence. He's as crazy and loyal
 as ever, and he's Lucius' rival. If you're wondering why you haven't
 seen him until now… I honestly wanted to wait till I had a good role in

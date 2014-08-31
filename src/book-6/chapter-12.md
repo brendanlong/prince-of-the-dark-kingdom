@@ -1152,14 +1152,14 @@ Harry just looked at him.
 
 \~ Author's Notes\~
 
-​1. A certificary is the wizarding equivalent of a check, but is
+[^122-1]: A certificary is the wizarding equivalent of a check, but is
 typically only used when dealing with large sums of money no one would
 carry around on their person and only with official business since it
 leaves a clear record of the transaction. Unlike money, it can't be
 stolen before it is cashed, although they can be faked (just not when
 being cashed since goblins can spot fakes a mile off).
 
-​2. If you're wondering if that display case of Italian insignia means
+[^122-2]: If you're wondering if that display case of Italian insignia means
 what you think it does, then, yes, the Weasley brothers did assassinate
 Italians. They were fighters in canon despite their playfulness, so
 they're definitely fighters here too.

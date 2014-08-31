@@ -1192,5 +1192,5 @@ their hills and village was more than just burnt up sticks and mortar.
 
 ---
 
-​1. Hillsides are commonly the homes of fairies, particularly hollow
+[^96-1]: Hillsides are commonly the homes of fairies, particularly hollow
 hills or hills with unusual shape or characteristics.
