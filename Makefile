@@ -8,6 +8,8 @@ EPUBS := $(BOOK_PREFIX)1.epub \
     $(BOOK_PREFIX)6.epub \
     $(BOOK_PREFIX)7.epub \
 
+HTML := $(subst .md,.html,$(wildcard src/book-*/chapter-*.md))
+
 MOBIS := $(subst .epub,.mobi,$(EPUBS))
 
 KINDLEGEN_FLAGS := -c2
@@ -16,16 +18,20 @@ PANDOC_FLAGS := --toc --toc-depth=1 --chapters --epub-stylesheet=src/style.css \
 
 all: $(EPUBS) $(MOBIS) ;
 epub: $(EPUBS) ;
+html: $(HTML) ;
 mobi: $(MOBIS) ;
 
 clean:
-	rm -rf $(EPUBS) $(MOBIS)
+	rm -rf $(EPUBS) $(HTML) $(MOBIS)
 
 .PHONY: all clean ;
 
 $(BOOK_PREFIX)%.epub: src/book-%/title.txt src/book-%/cover.svg src/style.css
 	pandoc $(PANDOC_FLAGS) -o $@ $(subst src/book-$*/cover.svg src/style.css,,$^) \
 	    --epub-cover-image=src/book-$*/cover.svg
+
+%.html: %.md src/style.css
+	pandoc $(PANDOC_FLAGS) -s -t html5 -o $@ $(subst src/style.css,,$^)
 
 %.mobi: %.epub
 	kindlegen $(KINDLEGEN_FLAGS) -o $@ $^ || true

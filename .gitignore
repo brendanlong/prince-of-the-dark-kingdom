@@ -1,3 +1,4 @@
 *.epub
+*.html
 *.mobi
 __pycache__
