@@ -1,4 +1,4 @@
-# Chapter 127
+# Tales and Wings II
 
 After what Tom estimated to be three days without food and at least one
 without water, he became decidedly sick of the body he could no longer

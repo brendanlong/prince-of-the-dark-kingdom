@@ -1,4 +1,4 @@
-# Chapter 79
+# Treason II
 
 Harry woke up in his bed, which was not the place he remembered leaving
 consciousness. That was probably a good thing, since that particular

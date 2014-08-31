@@ -1,4 +1,4 @@
-# Chapter 120
+# Everything Changes II
 
 Harry did not see Snape for the rest of September, except during the
 occasional dinner in the Great Hall or in passing through corridors. Ira

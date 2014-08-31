@@ -1,4 +1,4 @@
-# Chapter 71
+# The Knighted II
 
 Fleur looked across the lake at Hogwarts and thought, sulkily, it looked
 rather pretty at a distance. In a rugged sort of way. After a month, she

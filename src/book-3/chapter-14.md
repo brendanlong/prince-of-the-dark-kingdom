@@ -1,4 +1,4 @@
-# Chapter 55
+# The Prince and his Honor II
 
 Having been attacked twice in one day, Harry felt he deserved the rest
 of the day off. So after sending a note to Hermione, via a charmed paper

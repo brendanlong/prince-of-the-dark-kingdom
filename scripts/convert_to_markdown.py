@@ -16,9 +16,52 @@ CHAPTER_ENDS = [
     139
 ]
 
+NUMERALS = [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI",
+    "VII",
+    "VIII",
+    "IX",
+    "X"
+]
+
 CHAPTER_REGEX = re.compile("^(Epilogue)|^(\*\*)?Chapter [0-9]+[:-]? *([^*]*)(\*\*)?$")
 FOOTNOTE_REGEX = re.compile("^([0-9]+)\\\. (.+)$")
 PAGE_BREAK_REGEX = re.compile("^(\* )+\*$|^o+$|^\\\~ *Page Break(er)?s? *\\\~$", flags=re.IGNORECASE)
+
+class Chapter(object):
+    def __init__(self, number):
+        self.title = None
+        self.part = None
+        self.lines = []
+        self.number = number
+
+    def get_title(self):
+        if self.part:
+            return "{} {}".format(self.title, NUMERALS[self.part - 1])
+        else:
+            return self.title
+
+def write_book(output_dir, book_number, chapters):
+    book_dir = os.path.join(args.output_dir, "book-{}".format(book_number))
+    if not os.path.isdir(book_dir):
+        os.makedirs(book_dir)
+
+    title_file = os.path.join(book_dir, "title.txt")
+    if not os.path.isfile(title_file):
+        with open(title_file, "w") as f:
+            f.write("% Prince of the Dark Kingdom: Book {}\n"
+                "% Mizuni-sama".format(book_number))
+
+    for chapter in chapters:
+        with open(os.path.join(book_dir, "chapter-{:02d}.md".format(chapter.number)), "w") as f:
+            f.write("# {}\n".format(chapter.get_title()))
+            f.write("\n".join(chapter.lines))
+            f.write("\n")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -26,59 +69,61 @@ if __name__ == "__main__":
     parser.add_argument("--output-dir", "-o", required=True)
     args = parser.parse_args()
 
-    book = 1
-    chapter = 1
+    book_number = 1
+    chapter_number = 1
+    chapters = []
     for i in itertools.count(1):
         filename = os.path.join(args.input_dir, "chapter-{:03d}.html".format(i))
         if not os.path.isfile(filename):
+            write_book(args.output_dir, book_number, chapters)
             break
 
-        print("Importing Book {} Chapter {} ({})".format(book, chapter, i))
-
-        book_dir = os.path.join(args.output_dir, "book-{}".format(book))
-        if not os.path.isdir(book_dir):
-            os.makedirs(book_dir)
-
-        title_file = os.path.join(book_dir, "title.txt")
-        if not os.path.isfile(title_file):
-            with open(title_file, "w") as f:
-                f.write("% Prince of the Dark Kingdom: Book {}\n"
-                    "% Mizuni-sama".format(book))
+        print("Importing Book {} Chapter {} ({})".format(book_number, chapter_number, i))
 
         story_text = subprocess.check_output(["pandoc", "-t", "markdown", filename]).decode("UTF-8")
 
-        saw_title = False
-        results = []
-        note = 1
+        next_note = 1
+        chapter = Chapter(chapter_number)
         for line in story_text.splitlines():
-            if not saw_title:
+            if not chapter.title:
                 match = CHAPTER_REGEX.search(line)
                 if match is not None:
-                    saw_title = True
                     if match.group(1) or match.group(3):
-                        results.append("# {}".format(match.group(1) or match.group(3)))
+                        chapter.title = match.group(1) or match.group(3)
+                        words = chapter.title.split()
+                        if words[-1] in NUMERALS:
+                            chapter.part = NUMERALS.index(words[-1]) + 1
+                            words.pop()
+                            if words[-1].lower() == "part":
+                                words.pop()
+                            chapter.title = " ".join(words)
                     else:
-                        results.append("# Chapter {}".format(i))
+                        if not chapters[-1].part:
+                            chapters[-1].part = 1
+                        chapter.title = chapters[-1].title
+                        chapter.part = chapters[-1].part + 1
             elif PAGE_BREAK_REGEX.match(line):
-                results.append("---")
+                chapter.lines.append("---")
             else:
                 match = FOOTNOTE_REGEX.search(line)
                 if match is not None:
-                    results.append("[^{}-{}]: {}".format(i, match.group(1), match.group(2)))
+                    chapter.lines.append("[^{}-{}]: {}".format(i, match.group(1), match.group(2)))
                 else:
                     while "\\*" in line:
-                        line = line.replace("\\*", "[^{}-{}]".format(i, note))
-                        note += 1
-                    results.append(line)
-        if not saw_title:
+                        line = line.replace("\\*", "[^{}-{}]".format(i, next_note))
+                        next_note += 1
+                    chapter.lines.append(line)
+        chapters.append(chapter)
+
+        if not chapter.title:
             print("ERROR: Didn't see a chapter title!")
-            break
+            sys.exit(1)
 
-        with open(os.path.join(book_dir, "chapter-{:02d}.md".format(chapter)), "w") as f:
-            f.write("\n".join(results))
-
-        if book < len(CHAPTER_ENDS) and i == CHAPTER_ENDS[book]:
-            book += 1
-            chapter = 1
+        if book_number >= len(CHAPTER_ENDS) or i < CHAPTER_ENDS[book_number]:
+            chapter_number += 1
         else:
-            chapter += 1
+            write_book(args.output_dir, book_number, chapters)
+
+            book_number += 1
+            chapter_number = 1
+            chapters = []

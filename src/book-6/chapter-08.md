@@ -1,4 +1,4 @@
-# Chapter 118
+# Rebel II
 
 For three days the Snape household was a place of silence. Snape
 sequestered himself in his lab, hardly unusual, and Harry hid in his
