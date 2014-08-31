@@ -189,7 +189,7 @@ She gave him a friendly swat on the shoulder. He grinned.
 "Is that Lord Potter?" Tom found himself asking, looking down at the
 swirl of bodies below. He had missed Harry's entrance, not expecting the
 young wizard to attend the ball that night, but his attention had been
-focused on his *fianc**é*enough that he could hardly overlook him when
+focused on his *fiancé* enough that he could hardly overlook him when
 he stole the little mudblood away from her partner. He feigned mild
 curiosity to cover the swell of irritation at the sight the young witch
 and wizard made. Laughing and smiling, they looked decidedly in love.

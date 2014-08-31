@@ -562,7 +562,7 @@ behind him confiscated.
 way."
 
 Harry grimaced. *Out of the pan and into the pot and then straight into
-the fire. Only your luck**could this twisted*, he lamented. The man
+the fire. Only your luck could this twisted*, he lamented. The man
 grabbed his arm, causing Harry to grimace as pressure was placed on one
 of his cuts, and pulled him away from the square. Now, Harry could see
 the man clearly. He was medium height, in his thirties, brunette with a

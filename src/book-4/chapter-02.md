@@ -116,7 +116,7 @@ will achieve great things here."
 
 ---
 
-"*Du solltest**nicht gehen*."
+"*Du solltest nicht gehen*."
 
 Viktor looked up, turning away from the horse he had been harnessing to
 a cart, to see his father standing behind him. The cart was laden with
@@ -124,7 +124,7 @@ the finest quality wood, soon to be carved into broom handles and other
 magically rich devices, but only if he managed to get it all into town
 before the next rain hit.
 
-"*Mach dir keine Sorgen****,****papa**,[^64-1]* I have at least an hour
+"*Mach dir keine Sorgen, papa,[^64-1]* I have at least an hour
 before the rain hits. Mr. Abalone will put me up for the night if it's
 too heavy to return home," he replied, pretending the use his father's
 native German was perfectly ordinary, rather than an indicator that the

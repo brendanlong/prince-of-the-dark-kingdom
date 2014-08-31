@@ -600,7 +600,7 @@ get lucky.
 
 The technique he was using wasn't really designed for hunting dragons,
 although the javelin was known to be at least partially effective
-against them, but for hunting**Wolpertinger[^74-1], a type of antlered rabbit
+against them, but for hunting Wolpertinger[^74-1], a type of antlered rabbit
 the size of small pony that hibernated in underground burrows. There was
 no point in looking for their lairs with your eyes, as they left no
 mounds or openings and were usually under a layer of snow. Javelins

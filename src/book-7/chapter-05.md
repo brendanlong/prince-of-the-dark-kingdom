@@ -1175,7 +1175,7 @@ A bad hit of Wormwood snuff."
 
 Imperius?
 
-*Imperius**.*
+*Imperius.*
 
 The signs were all there. The distant stare. The confusion. The fixation
 on an idea or person. It had to be Imperius. But who was controlling

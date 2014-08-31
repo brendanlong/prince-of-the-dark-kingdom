@@ -434,7 +434,7 @@ Dark Lord found some way to lay the blame on the foreigners.
 That had to be it. It would explain why Harry always seemed to be in the
 right place at the right time, why he so readily moved into danger, and
 why he guarded his reasons so closely. Hadn't he said it himself?
-*'**I*can't *tell you, even if I wanted to. If Voldemort found out I
+*'I* can't *tell you, even if I wanted to. If Voldemort found out I
 told you certain things, both of our lives could be in danger.'*
 
 Harry knew Voldemort was capable of killing him, and had been trying to

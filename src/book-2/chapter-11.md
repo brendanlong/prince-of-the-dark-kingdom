@@ -437,7 +437,7 @@ black sheep of that particular family. And Sirius and Remus knew and
 didn't care! Thank Merlin! Thank God!
 
 *Of course, we could have told you this if you had bothered to mention
-it**before**you managed to run off and started setting cobras on dark
+it **before** you managed to run off and started setting cobras on dark
 wizards. You do know you made it into Wizarding Weekly again, don't
 you?*
 
@@ -448,7 +448,7 @@ that duel. Congratulations. We're so proud of you. Or I am at least.
 Remus was puttering around like such a girl. 'Oh, poor Harry, he must
 have been terrified!' 'What if Harry was hurt? What if he's mentally
 traumatized for life?!' I was more worried about you actually joining a
-club taught by Snivilus.**Are you mad?!*
+club taught by Snivilus. Are you mad?!*
 
 *Well, if you are, welcome to the club.*
 

@@ -1129,7 +1129,7 @@ fingers from Harry's pulse. Somewhere behind them, Lestrange snorted.
 Voldemort nearly turned around and snapped her neck.
 
 "It must have been a… what do you call it? A *exhalation furibundus de
-magi ex corpus**[^108-4]."*
+magi ex corpus[^108-4]."*
 
 Snape frowned, but didn't look up. "My Lord… I was not aware of that
 being anything other than an urban myth."

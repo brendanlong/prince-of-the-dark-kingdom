@@ -91,7 +91,7 @@ the Wicked Sisters-"
 "Weird Sisters," Ira corrected.
 
 "Whoever they are, I was led to believe they are very popular. They must
-have received many offers, many *well**paying* offers to play
+have received many offers, many *well paying* offers to play
 elsewhere."
 
 "True, but this is hardly the first free concert they've thrown. They've
@@ -537,7 +537,7 @@ Why?
 
 He found himself once again looking at the picture on the wall. Studying
 it intently, searching for some sort of clue. He looked to the bottom
-right corner where the artist had scrawled her name. *Alyssa*. *Age**7.*
+right corner where the artist had scrawled her name. *Alyssa*. *Age 7.*
 The name was unfamiliar. More than likely, she was just another young
 Potter fan. He was a prince after all.
 
@@ -1257,7 +1257,7 @@ each in their mid twenties, too new to their internment to have been
 badly damaged, and dressed in gray prison garb except for the sleeves
 which had been removed. He paid little attention to their faces and
 instead focused on their bare arms, which were being held out straight
-in front of them by *petrificus**totalus*as they stood at attention
+in front of them by *petrificus totalus* as they stood at attention
 along the far wall.
 
 He peered closely at the left arm of each prisoner, judging their
