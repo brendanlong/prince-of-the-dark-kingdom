@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 import argparse
-import html2text
 import itertools
 import os
 import re
+import subprocess
 import sys
 
 CHAPTER_ENDS = [
@@ -45,11 +45,7 @@ if __name__ == "__main__":
                 f.write("% Prince of the Dark Kingdom: Book {}\n"
                     "% Mizuni-sama".format(book))
 
-        with open(filename, "r") as f:
-            story_text = f.read()
-
-        story_text = story_text.replace("*", "\\*")
-        story_text = html2text.html2text(story_text)
+        story_text = subprocess.check_output(["pandoc", "-t", "markdown", filename]).decode("UTF-8")
 
         saw_title = False
         results = []
