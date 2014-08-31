@@ -1,0 +1,24 @@
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="800">
+    <style type="text/css">
+        .s0{
+            fill:#f9f9f9;
+            font-family:HarryP;
+            font-size:72;
+            line-height:125;
+            text-align:center;
+            text-anchor:middle;
+            word-spacing:0;
+        }
+        .s1{
+            fill:#f9f9f9;
+            font-size:72;
+        }
+    </style>
+    <rect width="600" height="800" x="0" y="0" fill="#000"/>
+    <text class="s0">
+        <tspan x="300" y="150" class="s1">Prince of the Dark</tspan>
+        <tspan x="300" y="250" class="s1">Kingdom</tspan>
+    </text>
+    <text x="300" y="400" class="s0">Book 1</text>
+    <text x="300" y="700" class="s0">Mizuni-sama</text>
+</svg>

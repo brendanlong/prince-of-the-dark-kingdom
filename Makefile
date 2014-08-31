@@ -18,8 +18,9 @@ clean:
 
 .PHONY: all clean ;
 
-$(BOOK_PREFIX)%.epub: src/book-%/title.txt
-	pandoc $(PANDOC_FLAGS) -o $@ $^
+$(BOOK_PREFIX)%.epub: src/book-%/title.txt src/book-%/cover.svg
+	pandoc $(PANDOC_FLAGS) -o $@ $(subst src/book-$*/cover.svg,,$^) \
+	    --epub-cover-image=src/book-$*/cover.svg
 
 $(BOOK_PREFIX)1.epub:  $(sort $(wildcard src/book-1/chapter-*.md))
 $(BOOK_PREFIX)2.epub:  $(sort $(wildcard src/book-2/chapter-*.md))
