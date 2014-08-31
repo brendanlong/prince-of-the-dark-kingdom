@@ -435,7 +435,7 @@ Her smile was a bit sad.
 
 "I wish you would dream of me more often. I miss you terribly, Harry."
 
-* * * * *
+---
 
 When he woke again, the sun was shining and the bed was empty. The stove
 fire had been rebuilt at some point so that Harry felt stifled under the
@@ -547,7 +547,7 @@ supervision than I can stand at the moment."
 
 "And yet... where did you get the watch, Harry?"
 
-* * * * *
+---
 
 The Hotel Raoulin was not the sort of place Hermione would have ever
 considered staying in of her own volition back home, but her brief stint
@@ -660,7 +660,7 @@ doing it for you. It's the right way of doing things."
 
 "Yes, that's the right way," Hermione agreed, smiling back.
 
-* * * * *
+---
 
 Viktor turned his head sharply and paused mid-step. Goethe followed a
 moment later, only turning back to look directly at his Master.
@@ -713,7 +713,7 @@ fact. We really are quite loveable creatures."
 
 Viktor smiled grimly.
 
-* * * * *
+---
 
 It had been nearly a week since Bobby and Elsbeth's arrival, and he had
 started to go a little stir crazy. Sirius had confined him to the cabin,
@@ -878,7 +878,7 @@ around them who would wake at the first whispered syllable.
 So he said nothing, and they shared their sleeplessness and worry in
 silence.
 
-* * * * *
+---
 
 Harry must have fallen asleep at some point, because he was woken early
 the next morning by the werewolves stirring from their sleep. He let
@@ -1236,7 +1236,7 @@ He closed his eyes, took a deep breath, and sipped his tea. It was no
 use getting angry at Voldemort. There were others who required his more
 immediate attention.
 
-* * * * *
+---
 
 Snape left Harry at Platform 9 ¾ with a crowd of eager reporters and
 curious onlookers, as well as instructions to visit Ira before the
@@ -1464,7 +1464,7 @@ Reggy smiled and shook it firmly.
 
 "I look forward to it."
 
-* * * * *
+---
 
 As promised, a Sentinel stood guard outside his door and though Harry
 kept his door open to keep an eye out for his friends, no one tried to
@@ -1597,7 +1597,7 @@ uncovered. Involving Harry or even Snape in some sort of plot was the
 only justification that Harry could think of, but he didn't dare ask.
 For now, Draco's intentions were his own.
 
-* * * * *
+---
 
 Harry and Ron apparated to the boundary of Hogwart's wards from the
 Hogsmeade Station. Draco had been in no fit state to attempt it himself,

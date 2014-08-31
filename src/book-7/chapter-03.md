@@ -179,7 +179,7 @@ pulled up his hood as ordered. Predictably, Snape ignored him.
 split up. You will go and visit Miss Cypher and request her assistance
 with Draco. Be prepared to negotiate."
 
-* * * * *
+---
 
 Harry had never been to Natalie's house before, but he had sent her
 enough owls over the years to know the address by heart. It was a
@@ -376,7 +376,7 @@ tongue. Natalie sighed.
 
 "You said it, sister."
 
-* * * * *
+---
 
 Wizarding London was still a depressing sight, but there were obvious
 signs that the city was on its way to recovering. Collapsed and
@@ -509,7 +509,7 @@ for what Snape needed him for.
 
 Snape nodded once, opened the door, and left.
 
-* * * * *
+---
 
 Dumbledore did not like to visit Paris unless he had to. It wasn't that
 he disliked the city, per se. He admired its people, its intellectual
@@ -813,7 +813,7 @@ Clarion looked back equally as thoughtful.
 
 Neither said anything for a long time.
 
-* * * * *
+---
 
 Horace was bored. Oxford wasn't nearly as interesting as he had thought
 it would be. At least, not from inside the Owl and Toad Tavern, which
@@ -1116,7 +1116,7 @@ something written on it.
 
 *Elvenshire, Bracknell Forest*
 
-* * * * *
+---
 
 Lestrange thought she would happily travel to France just to get a
 little sun. Even in Bristol, one of the warmest and sunniest cities in
@@ -1350,7 +1350,7 @@ to himself.
 
 He seriously hoped he wasn't going to have to arrest her for treason.
 
-* * * * *
+---
 
 *The Albatross*, while boasting more than enough passenger space for
 their small group, lacked anything resembling privacy outside of the
@@ -1374,7 +1374,7 @@ delighted.
 
 "A man can always dream, Potter."
 
-* * * * *
+---
 
 Word of his people arrival from London reached Voldemort at a quarter to
 six that evening while he was reviewing the files Morgan had dug up on

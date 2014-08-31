@@ -284,7 +284,7 @@ settled, however, he had little opportunity to do anything other than
 think about Bobby's warning. He did not like where his thoughts took
 him.
 
-* * * * *
+---
 
 Snape's leg was already starting to ache when he arrived in Paris via
 the floo station on Rue Euler, a minor street not far from the Arc de
@@ -530,7 +530,7 @@ work room a kettle started to whistle.
 Snape smirked, knowing he was about to get precisely what he had truly
 come for in the first place.
 
-* * * * *
+---
 
 Harry spent the remainder of his sitting in a special sort of hell. His
 mind was whirling with anxious thoughts, but he was forced to keep his
@@ -1010,7 +1010,7 @@ weapons scattered about him.
 *He's a monster,* Harry thought, but there was no horror in the thought
 at all*.*
 
-* * * * *
+---
 
 "Well," Ira began as she stepped through the back door of the cottage
 and into the kitchen, "that was all decidedly suspicious."
@@ -1252,7 +1252,7 @@ He just had to get everything ready.
 
 He was expected company for dinner after all.
 
-* * * * *
+---
 
 "I would like a room, please."
 
@@ -1498,6 +1498,6 @@ She was silent for a long moment.
 There was soft laugh on the other end and a rather uncomforting, "I hope
 so too."
 
-* * * * *
+---
 
 A Lupes is a French Galleon (approximately).

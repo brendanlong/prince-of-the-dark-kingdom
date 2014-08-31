@@ -194,7 +194,7 @@ breadcrumbs from Paris right back to Bourges or somewhere nearby.
 
 This was where everything was happening after all.
 
-* * * * *
+---
 
 Natalie arrived at Malfoy Manor shortly after lunchtime. She would have
 been there that morning, except that visiting the ancient estate
@@ -533,7 +533,7 @@ world?
 "Oh, I doubt they'll mind. I told them you were gay back in fourth
 year."
 
-* * * * *
+---
 
 Harry woke to Vicky opening the curtains of his bedroom, sunlight
 streaming into his face with a luminescent slap. Groaning, he pulled a
@@ -920,7 +920,7 @@ ruined it.
 sadness that made me say that. My temper is my own responsibility," he
 said, striving once again for a lighter tone and not quite managing it.
 
-* * * * *
+---
 
 Ira spent the time during her husband's absence attempting to be busy.
 She had sorted the closets, caught up with her personal correspondence,
@@ -998,7 +998,7 @@ was another knock on the door, this time more impatient.
 
 "Just a moment," she called and hurried towards the door.
 
-* * * * *
+---
 
 Breakfast had soured the rest of the morning for Harry. Conversation
 after that had eventually veered back into light, easy subjects, but he
@@ -1111,7 +1111,7 @@ Baillargeon. She stared back at him and crossed her arms impatiently.
 
 Apparently, she was.
 
-* * * * *
+---
 
 "Mr. Weasley? What are you doing here?"
 
@@ -1199,7 +1199,7 @@ her to read, before finally settling on blankness.
 "We know each other," he said and took a sip of his tea. She waited for
 him to elaborate, but he never did.
 
-* * * * *
+---
 
 Tom rampaged through the little house that had once been his prison,
 destroying artifacts and display cases in a frantic rage. The house was
@@ -1258,7 +1258,7 @@ To hell with it, he would find a way.
 
 And if he couldn't find a way, he would *make* one.
 
-* * * * *
+---
 
 Rue de Sirène was one of the few entirely wizarding streets in Paris,
 only two blocks from the royal palace. It was a small haven for those
@@ -1407,7 +1407,7 @@ good to learn some humility early in his immortality.
 
 "Do you have an address?"
 
-* * * * *
+---
 
 Notes:
 

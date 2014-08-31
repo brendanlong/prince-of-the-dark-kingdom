@@ -191,7 +191,7 @@ arms.
 Beat by beat, his heart began to ease until the distant thumping he
 heard became a perfect, synchronized echo.
 
-* * * * *
+---
 
 At a quarter to one, Hermione slipped out of bed. She pulled her wand
 from its hiding place between her mattresses, slipped Enid's cross from
@@ -398,7 +398,7 @@ Viktor was unable to do so himself.
 Although, given that evening's happenings, perhaps protection was
 unnecessary.
 
-* * * * *
+---
 
 The first of the German representatives had arrived at the Bourges
 Palace that afternoon, and Voldemort was making it a point to ignore
@@ -562,7 +562,7 @@ She graced him with a teasing smile
 "Why dear sir, perish the thought. I was rather thinking of stealing the
 young man for myself."
 
-* * * * *
+---
 
 "Do you suppose he knew? About the blood, I mean."
 
@@ -922,7 +922,7 @@ established boundaries that needed to be respected by all.
 It was no more than he had said to Luna, and no less than what Luna had
 probably related back to Jane.
 
-* * * * *
+---
 
 Harry's departure was without fanfare. Despite his godfather's assertion
 of the other werewolves' regard, he saw little evidence of it himself as
@@ -1157,7 +1157,7 @@ ready and waiting, if not..."
 He left the rest unsaid. There was no telling how Draco would greet
 either of them tomorrow until they stood at his door.
 
-* * * * *
+---
 
 "Request denied," Lestrange said flatly, tossing the piece of parchment
 aside. It hovered for a moment before gliding over to a file cabinet in

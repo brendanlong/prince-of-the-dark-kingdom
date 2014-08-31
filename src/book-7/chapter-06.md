@@ -473,7 +473,7 @@ circumstances and your imagination running away with you."
 
 *Or a ploy that could very well backfire on you spectacularly.*
 
-* * * * *
+---
 
 That evening, Hermione and Enid shared the cake she had bought in their
 room and put everything back in its place.
@@ -559,7 +559,7 @@ forget and just enjoy her simple life, but it was useless.
 
 Tomorrow, she decided. She would tell Enid tomorrow.
 
-* * * * *
+---
 
 It was late when Natalie stepped out of the floo station and made her
 way towards home. She was tired, yet satisfied with the day's events.
@@ -742,7 +742,7 @@ greeted. She didn't want anyone to see the redness in her cheeks or the
 wet brightness in her eyes. If anyone had shown her pity or mockery then
 and there, she knew she would have killed them.
 
-* * * * *
+---
 
 A medi-witch had come to examine Harry and make sure he wasn't suffering
 the effects of poisoning shortly after he returned to his private
@@ -1186,7 +1186,7 @@ Voldemort smiled back at him grimly.
 
 "No, you really don't."
 
-* * * * *
+---
 
 *La Sanglante Chanson* was like most vampire run bars in Paris. Dark,
 elegant, and partially decaying. Snape felt quite comfortable there, and
@@ -1444,7 +1444,7 @@ of the river and try to decide what he would do next.
 Intended, but didn't quite manage when he turned into an alley and found
 himself face to face with Viktor Krum.
 
-* * * * *
+---
 
 It was cold outside, but Sirius couldn't stand the idea of being cooped
 up inside. The moon was nearly full and his wolf stirred restlessly
@@ -1577,7 +1577,7 @@ That shocked another laugh out of Sirius.
 
 "Don't tell Luna that. She might get ideas."
 
-* * * * *
+---
 
 [^145-3]'Ligananimus' is a spell used to turn the heart to wood. It's a
 transfiguration spell most often used in defense against vampires, as

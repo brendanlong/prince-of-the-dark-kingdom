@@ -275,7 +275,7 @@ keeping well out of it. Harry could honestly state he had learned his
 lesson. He would be a much more considerate friend in the future and, of
 course, avoid letting Snape lie on his behalf in the future.
 
-* * * * *
+---
 
 At the end of the week, Draco's feud with him hadn't ended so much as it
 was delayed. Christmas break had arrived. Harry said his goodbyes the
@@ -629,7 +629,7 @@ conversation he was not the least bit ashamed to eavesdrop on.
 "Oh, well," he said slightly disappointed and earned himself a slightly
 confused look from the young witch.
 
-* * * * *
+---
 
 Voldemort did not receive a Visitation that night, but he did dream. He
 dreamed that all the witches and wizards in the world turned into
@@ -991,7 +991,7 @@ It made him instantly dizzy, and he was only halfway through the cup
 before he felt the Dark Lord catch him as he fell over and then the
 strange warmth of floor beneath him as he was laid down.
 
-* * * * *
+---
 
 Harry did not wake up. He did not open his eyes. He did not blink. There
 was simply a moment where he was in the conservatory and another where
@@ -1508,7 +1508,7 @@ Harry, near-paralyzed from magic deprivation shock, glared at him.
 
 "You so *owe* me for this."
 
-* * * * *
+---
 
 "Do not allow yourself to be discouraged, Commander Mandalari. They do
 not doubt your plan so much as they doubt their own strength to execute
@@ -1557,7 +1557,7 @@ Dumbledore merely chuckled.
 
 "My dear friend, I thought you were a man of faith?"
 
-* * * * *
+---
 
 Fleur stumbled into Bill's apartment at a quarter to one, cold and tired
 and desperate not to be alone. Bill, because he was somehow perfect in
@@ -1638,7 +1638,7 @@ She nodded against his shoulder.
 
 "It's a *great* plan."
 
-* * * * *
+---
 
 Snape agreed to meet Lucius a few days before Christmas, but only on the
 condition that they not do so at the manor. There were a variety of
@@ -1826,7 +1826,7 @@ fool.
 
 "Thank you, Severus. That is all I ask."
 
-* * * * *
+---
 
 "I believe I figured it out," Voldemort said as he entered the study.
 Harry was right where he had left him that morning, curled up on the
@@ -1969,7 +1969,7 @@ His discomfort took on a sharper edge of wariness.
 "Weeellll... I was wondering if I could ask a teeny tiny, itsy bitsy
 little favor..."
 
-* * * * *
+---
 
 Necrotist: a wizarding medical examiner/mortician.
 

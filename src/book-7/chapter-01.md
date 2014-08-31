@@ -525,7 +525,7 @@ old," said beta offered.
 Overhead a raven flew, cawing loudly. The werewolves paid him no mind,
 but to Harry it sounded as if it were laughing.
 
-* * * * *
+---
 
 "Well that's two less suits to worry about," Robert said, pacing the
 study and depositing two large folders onto the large desk as he passed
@@ -771,7 +771,7 @@ After all, what else could he say that hadn't been said before? The
 secret would be kept because it *had* to be kept. The alternative was
 unthinkable.
 
-* * * * *
+---
 
 Harry's proclamation that they were to be completely normal and
 unburdened people, while entirely ridiculous, proved to be just the
@@ -1002,7 +1002,7 @@ alright, Harry, I know what to do."
 Through the haze of agony and panic, there was suddenly a feeling of
 distorted gravity and the telltale sensation of apparation.
 
-* * * * *
+---
 
 McGonagall sat in the Snape cottage living room that doubled as the
 library, sipping tea and quietly marveling at the place. She had visited
@@ -1240,7 +1240,7 @@ for one last letter.
 
 *My Lord Voldemort...*
 
-* * * * *
+---
 
 It was snowing heavily as Sirius and Harry apparated into the Goddess
 Colony, the world muted and hushed. Sirius could hear his godson's every
@@ -1345,7 +1345,7 @@ staring up at the ceiling once again.
 nothing deceptive in her calmness at all. And nothing comforting in it
 either.
 
-* * * * *
+---
 
 Voldemort surveyed the French Office of Parliament thoughtfully while
 aides and advisers hovered at his shoulder, awaiting his approval or
@@ -1582,7 +1582,7 @@ war."
 risk the same fate as the Germans they helped to conquer. Not yet in any
 case."
 
-* * * * *
+---
 
 Luna returned minutes later with Celestia, the supplies, and still more
 curious werewolves gathered outside the cabin. Harry had broken out into
@@ -1676,7 +1676,7 @@ A highly dangerous combination.
 
 He smiled at the thought and closed his eyes again.
 
-* * * * *
+---
 
 "It's entirely unfair," Enid sighed, looking up from her book of poetry
 to her roommate, who was immersed in a very dull sounding history of
@@ -1792,7 +1792,7 @@ sort of love.
 Her roommate's reply to this was to lock the window, close the curtains,
 and hang her cross on the door handle.
 
-* * * * *
+---
 
 Authors Note:
 

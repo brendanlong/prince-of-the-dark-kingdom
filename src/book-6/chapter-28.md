@@ -169,7 +169,7 @@ An offering, he chanted, an offering of blood and magic.
 Beneath his hand, the castle trembled, the fear from before replaced by
 hunger.
 
-* * * * *
+---
 
 The alarm went off in Bristol just as Tom was pouring his second cup of
 coffee for the night and flirting with one of the mail room censors in
@@ -369,7 +369,7 @@ help anyone."
 "*Enough!*" Tom snarled. "This isn't a discussion. Get on your damn
 brooms. I have a plan."
 
-* * * * *
+---
 
 Harry regained awareness with a shock and a hand over his mouth. He was
 lying on his side, cold stone beneath him and the creak of wood above.
@@ -922,7 +922,7 @@ killed.
 
 It looked like it was going to be one of those nights.
 
-* * * * *
+---
 
 "They have inside help," Amelon noted, his eyes flitting over the map,
 trying to take it all in. The number of the enemy was only half the
@@ -1128,7 +1128,7 @@ arguing. There was no point arguing with fanatics.
 
 "If you can't make him cooperate . . . kill him."
 
-* * * * *
+---
 
 Harry could feel himself dying. The cold and weakness seeping into him
 was too familiar for him not to recognize it. He might have already
@@ -1466,7 +1466,7 @@ as the Italian wizard pushed and pulled him along.
 
 "We will find him together then."
 
-* * * * *
+---
 
 "Vere are de vards?" the witch snarled, leaning over the headmaster with
 obvious menace. Snape regarded her impassively from his fixed position
@@ -1636,7 +1636,7 @@ I'll see what I can—"
 Whatever it was she intended to do, Snape faded into the darkness before
 he could find out.
 
-* * * * *
+---
 
 Harry wasn't sure how much more he could take. He was magically and
 physically depleted, ached everywhere, was still mildly hypothermic, and
@@ -1857,7 +1857,7 @@ wasn't exactly making him happy with his choice.
 
 "Good. Now come along. We have an army to massacre."
 
-* * * * *
+---
 
 As they made their way to the main entrance, Voldemort made a point not
 to mention Harry leaning heavily against his shoulder or his shaking
@@ -2138,7 +2138,7 @@ laughed.
 
 And Harry fell one last time.
 
-* * * * *
+---
 
 Harry could hear again before he could see. There was deep breathing in
 his ear, and the sound of twigs snapping and snow crunching. He listened

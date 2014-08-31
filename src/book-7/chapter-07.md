@@ -396,7 +396,7 @@ to sit down next to him. "Here's a different question, and you can take
 as much time as you need to answer it. Where have you been for the last
 two years?"
 
-* * * * *
+---
 
 Snape blinked and found himself tied to a chair. The alleyway was gone.
 His wand was similarly absent. Viktor remained. He loomed over him, his
@@ -583,7 +583,7 @@ of him at the thought of his damsel in distress.
 
 "From Dumbledore."
 
-* * * * *
+---
 
 Draco woke in the middle of the night and was too well rested already to
 even attempt to go back to sleep. Natalie had made him nap through much
@@ -734,7 +734,7 @@ He wanted so badly to believe her.
 
 So he didn't say a word.
 
-* * * * *
+---
 
 Voldemort hadn't slept in three days and still didn't feel the need to.
 That was good because his days were not about to get any less busy
@@ -897,7 +897,7 @@ he would have to find relief elsewhere and soon.
 
 Perhaps Lestrange was up by now.
 
-* * * * *
+---
 
 Viktor glanced anxiously at the sky. It was still dark, aided perhaps by
 the abundance of clouds, but his preternatural senses were already
@@ -1207,7 +1207,7 @@ mumbling a soft "be safe."
 And then she was gone, nothing to mark her absence but a faint echo
 against the alleyway stones as she apparated away.
 
-* * * * *
+---
 
 Harry didn't sleep well that night. Whether it was the result of his
 failing wards or just his own anxiety about them, he didn't know, but

@@ -703,7 +703,7 @@ eyes directly nonetheless.
 
 "What did you have in mind?"
 
-* * * * *
+---
 
 Ron Weasley hated Harry Potter. He had hated the other boy the moment
 they had met, but that had been the irrational prejudice against
@@ -965,7 +965,7 @@ Harry gave him an irritated look.
 
 "Moron."
 
-* * * * *
+---
 
 "How did it go?" Snape asked without looking up from the letter he was
 composing as Harry slipped into his office. He noted to himself that
@@ -1159,7 +1159,7 @@ agreement. "Until then, you must continue to rely on me."
 
 And rely he would, even if he wasn't in the least bit happy about it.
 
-* * * * *
+---
 
 Harry sat stiffly on the stool as Snape approached him. Despite the
 acquiescence to his logic, he could see the young man struggling to meet
@@ -1476,7 +1476,7 @@ Snape sighed. So much for the world.
 
 The door shut, quietly this time.
 
-* * * * *
+---
 
 Lucius reclined on the sofa in his study, reading a letter he had
 received that afternoon from Severus by the light of the burning
@@ -1608,7 +1608,7 @@ of the plans held the most merit.
 For now, however, he could only let his dark imaginings wrap around him
 like a warm blanket and comfort his black heart.
 
-* * * * *
+---
 
 Author's Notes:
 

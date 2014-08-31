@@ -458,7 +458,7 @@ headache was returning and he longed for the shallow oblivion of sleep.
 
 Maybe when he woke up, Hermione would be back.
 
-* * * * *
+---
 
 Skeeter entered the Daily Prophet Headquarters like a queen overseeing
 her court. The clickity-clack of her high heels was her drumroll and
@@ -596,7 +596,7 @@ friend and doomed love interest was dead.
 
 And it was entirely her fault.
 
-* * * * *
+---
 
 Voldemort had been at his office for thirty-six hours straight before he
 took his first break. And by break, he meant he took every letter, form,
@@ -824,7 +824,7 @@ her escape in advance, but why?
 He felt a sudden wave of suspicion, and it suddenly occurred to him that
 perhaps Stratus was not the most ideal scapegoat after all.
 
-* * * * *
+---
 
 "Please excuse the mess, good sir," the house elf begged softly as she
 led Robert through the front hall, the area clear of debris but still
@@ -1260,7 +1260,7 @@ smiled. Well, smirked and somewhat grimly at that, but still...
 
 "Shall I take that as a 'yes', Mr. Reicher?"
 
-* * * * *
+---
 
 Harry limped out of the Court floo station in Bristol shortly after six
 that evening, leaning heavily on one of the more austere canes Draco had

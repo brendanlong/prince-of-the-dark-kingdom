@@ -146,7 +146,7 @@ hand was just Sirius reassuring himself that his godson was alright, but
 Harry knew deep down the alpha was just making sure he didn't try to
 make a run for it.
 
-* * * * *
+---
 
 Ron had a smile that made babies cry and old women cross themselves. It
 was an unnatural, lopsided thing, and it ached within a minute, but for
@@ -274,7 +274,7 @@ The only thing he could do to help them was keep things together here
 until that happened and make sure Hermione Granger never set foot in the
 Red Weasel.
 
-* * * * *
+---
 
 Remus had never been to Malfoy Manor, and Sirius only vaguely remembered
 visiting once or twice when he was still young enough that his parents
@@ -522,7 +522,7 @@ do, but he was a Slytherin and, more significantly, a Malfoy.
 
 Family was everything.
 
-* * * * *
+---
 
 The Persnickety Inn had been a hovel well before the Italians ever came
 to London, which was probably why they hadn't bothered touching it
@@ -644,7 +644,7 @@ There was no trunk.
 
 There was no*Hermione Granger!*
 
-* * * * *
+---
 
 Voldemort studied Severus as the man studied the view outside the
 window. Under normal circumstances, Severus Snape would never let his
@@ -839,7 +839,7 @@ there was a touch of bitter poison in his honey tones.
 "What choice do I have? He did nothing that we ourselves did not allow
 him to do."
 
-* * * * *
+---
 
 The winter air burned her lungs and froze her skin as she ran through
 the narrow, twisting streets of Knockturn Alley. A cat snarled at her as
@@ -1122,7 +1122,7 @@ When Natalie was done, Hermione asked, "So now what?"
 
 "Now? Now we get you out of Britain."
 
-* * * * *
+---
 
 Robert was feeling ten times a fool, but that hadn't stopped him from
 going to the Red Weasel. He had told Malfoy that he would, and even if
@@ -1283,7 +1283,7 @@ the message became visible.
 She took a moment to memorize it, then swallowed the message down with a
 long draw from her tankard. Conspiracy was a thirsty business.
 
-* * * * *
+---
 
 Hermione was starting to think she would never be warm again. She had
 been outside for hours, unable to risk returning to her hotel room or

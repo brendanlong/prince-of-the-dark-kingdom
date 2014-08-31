@@ -184,7 +184,7 @@ She gave him a friendly swat on the shoulder. He grinned.
 
 "Alright, we can blame it on the tiny shoes."
 
-* * * * *
+---
 
 "Is that Lord Potter?" Tom found himself asking, looking down at the
 swirl of bodies below. He had missed Harry's entrance, not expecting the
@@ -285,7 +285,7 @@ over to Narcissa.
 "So much for your hopes for grandchildren then. Perhaps you'll have
 better luck with Draco."
 
-* * * * *
+---
 
 Everyone looked ready to shout at Snape to just 'shut up', but the
 unpleasant man was spared the rebuke by the balcony doors swinging open.
@@ -488,7 +488,7 @@ affronted, and Voldemort couldn't help but laugh at his indignation.
 on controlling your expressions. It's not very useful to hide your
 thoughts in your mind while wearing them on your face at the same time."
 
-* * * * *
+---
 
 Tom was too stunned to bristle at his counterpart's comment. Voldemort
 hadn't recognized him. *How could he*not*have recognized him?* Their
@@ -571,7 +571,7 @@ up with Ira when he spotted Crouch moving towards Lucius.
 
 A sudden sense of dread came over him.
 
-* * * * *
+---
 
 "Lucius, why so glum? Don't tell me you've lost your Christmas spirit,"
 Crouch greeted his longtime rival cheerfully. He had been watching the
@@ -714,7 +714,7 @@ Intent as he was on the possible drama about to unfurl, he failed to
 notice the little beetle hovering a few feet above him and was none the
 wiser when it disappeared in a quiet buzz up the nearby stairs.
 
-* * * * *
+---
 
 "Oh, thank God they left finally," Hermione sighed, lying back in her
 bed, a bare foot being massaged carefully by Dobby, who was staring at
@@ -1187,7 +1187,7 @@ him even further and his head struck the stairs with a ominous crack.
 
 He didn't remember anything that happened after that.
 
-* * * * *
+---
 
 Ira was not given the benefit of blacking out, although it amazed her
 that she didn't faint then and there. Amazed that rather than standing
@@ -1242,7 +1242,7 @@ But he was still bleeding, and she didn't know where it was coming from.
 
 "SEVERUS!"
 
-* * * * *
+---
 
 Tom knew exactly when Harry got himself into real trouble, and it wasn't
 when Lucius grabbed his arm nor when the elder wizard reached for his
@@ -1334,7 +1334,7 @@ He stared and he stared and kept on staring until the chandelier above
 him dropped free from its mooring and plummeted down on top of him,
 killing him instantly.
 
-* * * * *
+---
 
 Stratus was more confused and frightened than anyone else, remembering
 neither how he had gotten there and nor what was happening, and stood

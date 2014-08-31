@@ -240,7 +240,7 @@ happened to the man after they had parted ways in Bristol.
 "If I can find the time," he said noncommittally, and then just to be
 difficult, added, "And if I can pull him away from his busy schedule."
 
-* * * * *
+---
 
 It was cold in the Astronomy Tower. Icy cold and yet still too wet for
 snow, and all the more miserable for it. She slipped past the magical
@@ -423,7 +423,7 @@ he was holding just a little too tightly.
 Neither noticed as Ron moved back down the stairs, his footsteps muffled
 under a silencing charm nor the slam of the door behind him.
 
-* * * * *
+---
 
 McGunny went down to the visitor center to work on the dragon book.
 After so many months, he was able to walk the half mile without getting
@@ -649,7 +649,7 @@ solution yet.
 
 "I'll think of something."
 
-* * * * *
+---
 
 The sixth night on the Astronomy Tower was the coldest by far, with a
 harsh north wind causing a series of tuneless whistles as it sped
@@ -1058,7 +1058,7 @@ Harry glared at him. Bobby gave an avian shrug.
 
 "You asked."
 
-* * * * *
+---
 
 Voldemort took a deep breath of acrid green smoke and held it, let it
 burn his throat and tongue on its passage into his lungs. The miasma
@@ -1381,7 +1381,7 @@ servant's obedience. Fully dressed except for his cloak now draped over
 his new arm, he climbed the stairs to face the world, leaving Morgan in
 the cellar to erase his sins from existence.
 
-* * * * *
+---
 
 "Huh. I wonder how he did it," Harry asked, skimming through the
 newspaper article. The Astronomy tower was as cold and dark as ever, but

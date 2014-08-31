@@ -288,7 +288,7 @@ his eye.
 He whispered a name, and no sooner was it said than Bobby disappeared,
 his inky black body fading into the shadows of the castle.
 
-* * * * *
+---
 
 Predictably, the Headmaster Office's windows were locked, and even a
 magical practitioner of Bobby's skill would have been hard pressed to
@@ -453,7 +453,7 @@ He shut the window again and turned to Ron.
 
 "This is what we're going to do."
 
-* * * * *
+---
 
 Viktor found himself at the newsstand once again, where he often seemed
 to find himself these days, looking for some glimmer of a feeling he had
@@ -511,7 +511,7 @@ tolerated it. He deserved to be taunted after all. It was foolish to
 still love her. Foolish and a little bit wonderful too to realize he was
 still capable of it.
 
-* * * * *
+---
 
 It was after eight by the time Amelon reached the military headquarters
 in Bristol, but the offices were still full and chaotic. No one had kept
@@ -638,7 +638,7 @@ there was still the possibility of tracking down the true killer. If it
 led to the girl's pardon, then so be it. If it didn't, the Dark Lord
 would still have his own revenge to look forward to.
 
-* * * * *
+---
 
 Hagrid's cabin was sweltering even on the coldest winter nights,
 courtesy of an oversized furnace that doubled as a dragon egg incubator.
@@ -780,7 +780,7 @@ visit Hagrid occasionally), so that was fine too.
 Tomorrow he would concentrate on his letter. Tonight, he would
 concentrate on stew.
 
-* * * * *
+---
 
 Hogwarts was silent as Voldemort and Amelon entered. Curfew was about to
 start, and after a long day of travel and a heavy meal at dinner, no one
@@ -1102,7 +1102,7 @@ Amelon tensed, recognizing the sound immediately.
 Snape took a gasping breath, "That's... that's the alarm. The school...
 it's under attack."
 
-* * * * *
+---
 
 Harry waited as patiently as he was able out on the tower balcony, his
 legs dangling between the slates. It was strangely reminiscent of the

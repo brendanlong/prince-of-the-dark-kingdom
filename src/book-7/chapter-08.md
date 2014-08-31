@@ -216,7 +216,7 @@ and climbed the surrounding wall and windows with thorny vines and
 ravenous roots. Harry pressed his keystone to his forehead and closed
 his eyes, quietly praying for thoughts that were his and his alone.
 
-* * * * *
+---
 
 When Voldemort received the news, he had been in a strategy meeting with
 his advisors in preparation for the ceremonial treaty signing and the
@@ -253,7 +253,7 @@ night before, so why discard his concerns in favor of meaningless
 wandering? Now on the very cusp of absolute victory he had to turn a
 historical event into a circus performance.
 
-* * * * *
+---
 
 Voldemort appeared shortly before noon. Predictably, his mood was
 terrible and understandably so. Yet if Harry's inability to focus had
@@ -577,7 +577,7 @@ on the Dark Lord to be the voice of reason.
 
 A terrifying thought.
 
-* * * * *
+---
 
 Amelon hadn't slept in two days and was exhausted but in a very
 satisfying way. His evening at Snape cottage had turned out to be far
@@ -828,7 +828,7 @@ his glass.
 
 After all, he had earned it.
 
-* * * * *
+---
 
 Natalie returned to Malfoy Manor early that morning in a poor mood. She
 had not slept well after her run-in with Pansy and Millicent, and her
@@ -1009,7 +1009,7 @@ had clasped over her chest like funeral lilies.
 
 The top one was addressed to Draco.
 
-* * * * *
+---
 
 The Bibliotheque Mazarine reminded Hermione of the Hogwarts Library. It
 was the first thing she had thought when she entered it several weeks
@@ -1281,7 +1281,7 @@ felt herself recoiling in fear.
 "I see there is no need to introduce myself," Dumbledore said
 congenially. "Would you mind terribly if I took a moment of your time?"
 
-* * * * *
+---
 
 The Treaty of Bourges was signed just before sunset. The light that
 poured in through the windows was golden and fiery, but ominous in its
@@ -1525,7 +1525,7 @@ now and retaliate later.
 "I am afraid that isn't an option. We're just going to have to get
 creative."
 
-* * * * *
+---
 
 Bristol Headquarters was quiet when Amelon arrived with Jarmin and three
 of his people in tow. The front gates were closed and locked, which was
@@ -1621,7 +1621,7 @@ long and hard at the name tag.
 Amelon let out a long sigh. Things certainly had gotten interesting
 quickly, hadn't they?
 
-* * * * *
+---
 
 Bobby came to see Harry just as he finished his second bath for the day.
 There was a *tap tap* on his bedroom window as he'd strapped on the
@@ -1754,7 +1754,7 @@ some old muggle song his mother had adored.
 And truly, in this moment, he loved Rhiannon as he had never loved
 anyone.
 
-* * * * *
+---
 
 "I see you've broken something else since I left," Voldemort said,
 noting idly the broken mirror and the scattered remnants of a book.
@@ -2318,7 +2318,7 @@ But she was a clever monster too.
 With the last of her strength, she hurled herself down further onto the
 blade and sank her teeth into the exposed flesh of his shoulder.
 
-* * * * *
+---
 
 Voldemort jerked when he saw Amsel throw herself forward. He didn't
 realize what she was doing until Harry let out a choked scream. He

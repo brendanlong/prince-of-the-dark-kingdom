@@ -18,7 +18,7 @@ CHAPTER_ENDS = [
 
 CHAPTER_REGEX = re.compile("^(Epilogue)|^(\*\*)?Chapter [0-9]+[:-]? *([^*]*)(\*\*)?$")
 FOOTNOTE_REGEX = re.compile("^([0-9]+)\\\. (.+)$")
-PAGE_BREAK_REGEX = re.compile("^o+$|^\\\~ *Page Break(er)?s? *\\\~$", flags=re.IGNORECASE)
+PAGE_BREAK_REGEX = re.compile("^(\* )+\*$|^o+$|^\\\~ *Page Break(er)?s? *\\\~$", flags=re.IGNORECASE)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
