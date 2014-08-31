@@ -1380,4 +1380,3 @@ a lemon drop? Harry didn't want any so I have plenty of extra."
 
 "Suit yourself. We had better get started, then. *Reparo!*"
 
----

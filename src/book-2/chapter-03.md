@@ -490,4 +490,3 @@ It was *impossible*.
 
 And yet... he was still smiling at her.
 
----

@@ -801,4 +801,3 @@ him either. From up ahead on of the werewolves let out a piercing howl.
 
 "Incoming," Fenrir warned.
 
----

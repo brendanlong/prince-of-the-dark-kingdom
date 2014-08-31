@@ -1173,4 +1173,3 @@ Snape just glowered at him, and headed back towards his potions lab.
 After the door slammed, Harry turned to Ira, and Ira turned to Harry,
 and they both burst out into laughter.
 
----

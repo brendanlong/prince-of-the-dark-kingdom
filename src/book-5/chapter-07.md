@@ -1614,4 +1614,3 @@ question.
 
 The Dark Lord turned back to him and smiled fondly. "Yes. We're good."
 
----

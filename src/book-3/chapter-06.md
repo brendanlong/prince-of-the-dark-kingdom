@@ -586,4 +586,3 @@ hour."
 
 She nodded once and left him to his work.
 
----

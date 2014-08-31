@@ -520,4 +520,3 @@ Emerald eyes flashed, coming dangerously direct with ebony.
 
 "What do you want?"
 
----

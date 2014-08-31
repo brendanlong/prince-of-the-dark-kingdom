@@ -1040,4 +1040,3 @@ dismissed it as thankfulness that he had gotten off easy, and made a
 mental list of chores he'd have the foolish boy complete to thoroughly
 erase the notion from his empty head.
 
----

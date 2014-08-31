@@ -671,4 +671,3 @@ be said.
 Then she let her eyes finally slide shut, her consciousness and her pain
 slide away until all there was a dark and painless void.
 
----

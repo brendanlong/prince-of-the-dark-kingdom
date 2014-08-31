@@ -944,4 +944,3 @@ never left the campus."
 
 "Horace McGunny."
 
----

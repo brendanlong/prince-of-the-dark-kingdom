@@ -492,4 +492,3 @@ you desire in exchange for your assistance...and your compliance."
 his counterpart's patience far enough. If he were to ask for more *now*,
 then the man would kill him. It was as simple or not so simple as that.
 
----

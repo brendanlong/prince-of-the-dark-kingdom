@@ -84,7 +84,8 @@ if __name__ == "__main__":
 
         next_note = 1
         chapter = Chapter(chapter_number)
-        for line in story_text.splitlines():
+        lines = story_text.splitlines()
+        for line_number, line in enumerate(lines):
             if not chapter.title:
                 match = CHAPTER_REGEX.search(line)
                 if match is not None:
@@ -103,7 +104,8 @@ if __name__ == "__main__":
                         chapter.title = chapters[-1].title
                         chapter.part = chapters[-1].part + 1
             elif PAGE_BREAK_REGEX.match(line):
-                chapter.lines.append("---")
+                if line_number != len(lines) - 1:
+                    chapter.lines.append("---")
             else:
                 match = FOOTNOTE_REGEX.search(line)
                 if match is not None:
