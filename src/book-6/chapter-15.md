@@ -204,7 +204,7 @@ She smiled, and waved him off.
 
 "You do that."
 
-\~ Page Break\~
+---
 
 For a brief moment, no one spoke but merely stared at the collection of
 trees and undergrowth standing there as if it had been there for a
@@ -824,7 +824,7 @@ man who had saved his life.
 
 It was only a matter of time before it caught its prey.
 
-\~ Page Break\~
+---
 
 Tom was feeling decidedly stupid and aggravated with himself, as he dove
 to clear a falling tree. He landed roughly on his chest and stomach,
@@ -1088,7 +1088,7 @@ standing over him.
 
 "Do it again."
 
-\~ Page Break\~
+---
 
 Harry took stock of their situation. Kern was dead, along with the
 second Cultie whose name escaped him, Stratus was chased into the
@@ -1788,7 +1788,7 @@ appeared through the torn clothing. The elf looked at him and grinned.
 And then he speared his blade into Harry's body and the boy knew no
 more.
 
-\~ Page Break\~
+---
 
 Tom had suffered a fair number of humiliations in his life at the hands
 of others, particularly during his youth when his indeterminate lineage
@@ -2260,7 +2260,7 @@ and they fell upon Tom with the same rough efficiency as they had
 before. In less than a minute he was secured and lead out of the room
 with the same lack of ceremony he had upon entering it.
 
-\~ Page Break\~
+---
 
 Once the prisoner had been led away, Gulandri's previous mirth returned
 and he found himself laughing again, longer and harder than he had
@@ -2332,7 +2332,7 @@ a messenger.
 
 He had a dark lord to taunt after all.
 
-\~ Page Break\~
+---
 
 "What do you mean 'he's been taken'?" Lucius said, calmly. Very, very
 calmly. He was the picture of calm. He was not going to going to cast an
@@ -2534,7 +2534,7 @@ the moment, he was incapable of any of these things.
 That meant he had to go to someone he trusted to be calm, rational, and
 objective for him.
 
-\~ Page Break\~
+---
 
 Voldemort lay in his bed, wide awake and counting the breaths Lestrange
 sighed softly into his bare chest. He did not sleep often, although in

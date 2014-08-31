@@ -115,7 +115,7 @@ He wondered if something had happened (something more than the usual
 weirdness) that had created a rift between guardian and ward. He
 wondered if there might not be a way to take advantage of it.
 
-\~Page Break\~
+---
 
 There was no way out of the Underground that lead to muggle Berlin.
 Those who had fled into the tunnels soon found themselves at a dead end,
@@ -357,7 +357,7 @@ the city.
 Funny how that sounded so much harder without Dumbledore and a bag of
 lemon drops backing him up.
 
-\~ Page Break\~
+---
 
 Katarina awoke choking on ash, her entire body convulsing in panic until
 she blindly kicked open the lid to her coffin and sent it flying to the
@@ -455,7 +455,7 @@ tongue.
 
 "Chrystal."
 
-\~ Page Break\~
+---
 
 Harry hadn't even gotten the chance to unpack yet, and Hermione already
 had him sifting through enough homework to make his brain pop. His
@@ -575,7 +575,7 @@ well. Bonds formed through steadfast loyalty and shared affection.
 
 It was good to be home.
 
-\~ Page Break \~
+---
 
 "Fire!"
 
@@ -652,7 +652,7 @@ Berlin could not be surrendered after so feeble a battle.
 
 He would think of something. There was no one else left to do it.
 
-\~ Page Break \~
+---
 
 "Harry!"
 
@@ -774,7 +774,7 @@ Harry shook his head. "What can we do? We don't even know what's going
 on. We'll just have to wait. Gather our facts. Figure out what to do
 after that, if there even is anything we can do."
 
-\~ Page Break\~
+---
 
 The Dark Lord and General Lucius stood across from one another in the
 meeting room, staring down at a map of Berlin. On it several pin pricks
@@ -871,7 +871,7 @@ all he did was smile.
 
 "Shock troops it is then."
 
-\~ Page Break\~
+---
 
 Snape stared out the window and down at the small gathering of students
 beside the lake. Harry was out there, weaseling some extra credit out of
@@ -988,7 +988,7 @@ And could Ira, in fact, be the future mother of his children?
 Saturday was in three days. He would uncover the answer to both
 questions then.
 
-\~ Page Break\~
+---
 
 "She won't come out," Timmons said softly, as he descended the stairs to
 the living room of the small town home they were currently borrowing. It
@@ -1045,7 +1045,7 @@ both the good and the bad. When the time comes, she will arise from this
 tragedy more fierce and driven than ever, but that time is not now. Let
 her grieve."
 
-\~ Page Break \~
+---
 
 "We should offer a truce with the British. Just because they don't know
 about our alliance with the Dark Lord doesn't mean we can't make one
@@ -1102,7 +1102,7 @@ anyone would question a few people going missing."
 
 Well, perhaps m the situation wasn't *entirely*bad.
 
-\~ Page Break\~
+---
 
 Harry kept himself hunched over his Herbology essay, determined to
 ignore Draco's snickering from across the library table. It didn't help
@@ -1118,7 +1118,7 @@ big of a reaction?
 
 "Shut. Up."
 
-\~ Page Break\~
+---
 
 The Detrimonius Age Potion was the most reliable and the most precise
 age determining potion Snape had ever encountered, and also the most

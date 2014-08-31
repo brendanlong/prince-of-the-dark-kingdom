@@ -190,7 +190,7 @@ The elder wizard stared at him for a moment longer, his stricken
 expression relaxing. He seemed to find what he was looking for in the
 young wizards' eyes, and finally nodded.
 
-\~Page Break\~
+---
 
 Harry was thankful to get out of History of Magic and away from
 Professor Toure's less than subtle expressions of total adoration, but
@@ -393,7 +393,7 @@ Ah, but he had learned just how fast the Dark Lord was.
 
 He made a point of remembering it.
 
-\~ Page Break\~
+---
 
 While Katarina and her brood hunted the city's alleys and basements for
 sustenance, Tom hunted for information. He moved silently through the
@@ -522,7 +522,7 @@ mental knock, but there was no reply. The boy was gone. Hiding? Perhaps.
 
 Some people really had no stomach for this kind of thing.
 
-\~ Page Break\~
+---
 
 Voldemort did, in fact, visit Harry again before he left. Unfortunately,
 the boy was sound asleep. At a quarter to midnight, the Dark Lord
@@ -572,7 +572,7 @@ He left as silently as he had come, and when his formidable presence had
 finally vanished, Harry opened his eyes and stared up at the ceiling. He
 did not close them again until dawn chased away the shadows.
 
-\~ Page Break\~
+---
 
 I should never have accepted this case.
 
@@ -611,7 +611,7 @@ after the destruction of so many offices, but she had run out of leads.
 If he was still alive and she found him, she made a mental note to make
 him pay for all the aggravation he was causing her.
 
-\~ Page Break \~
+---
 
 "McGonagall wants to see you."
 
@@ -858,7 +858,7 @@ sign. Or a really bad sign.
 negotiator," Fred said, looking quite proud of this fact. He held out
 his hand. "You've got yourself a deal."
 
-\~ Page Break\~
+---
 
 "Mr. Potter, if you can't be bothered to pay attention perhaps you would
 do us all the courtesy of putting your wand away before you send someone
@@ -904,7 +904,7 @@ He rolled his eyes.
 Good god, when was he going to get out of the classroom and all this
 teenage melodrama?
 
-\~ Page Break\~
+---
 
 A week after the invasion of Berlin, the university re-opened. Classes
 were not officially opened, but students and faculty could now move
@@ -1036,7 +1036,7 @@ disappeared.
 "Run, run, little boy, back to your mommy and daddy. We'll play again
 another night."
 
-\~ Page Break \~
+---
 
 Lucius made it a point to change out of his uniform before meeting his
 wife. She respected the demands of his career and admitted freely that
@@ -1146,7 +1146,7 @@ however, did not seem too concerned.
 that may be the case. But soon, very soon, I'll have something truly
 *nasty* for them. Something they will never see coming."
 
-\~ Page Break \~
+---
 
 The summons came in the middle of night, without warning. One moment,
 Harry was deep in an exhausted sleep, and the next Snape was shaking him

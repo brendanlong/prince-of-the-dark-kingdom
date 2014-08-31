@@ -109,7 +109,7 @@ keep his presence a secret from everyone else?
 
 Most important of all, what was Harry going to do about it?
 
-\~Page Break\~
+---
 
 Lestrange stared across the desk at the man, if mere man he truly was,
 that she had devoted her life to and was reassured to find that her
@@ -204,7 +204,7 @@ demoted? She honestly couldn't tell.
 The look he gave her told her explicitly what would happen to her if it
 did not.
 
-\~Page Break\~
+---
 
 November sunlight, draped in a silver cloak, pressed against the stain
 glass windows, casting the tea room in an ambiguous light, somewhere
@@ -378,7 +378,7 @@ what she had revealed about herself, but on the very real possibility
 that he might fail. Her sister may have beaten the odds, but that didn't
 make the odds better for anyone else.
 
-\~Page Break\~
+---
 
 Sirius' coronation was at dawn. Harry was woken two hours before by Luna
 leaving his bed. She had snuck in at some point last night and once gone
@@ -548,7 +548,7 @@ their own. Harry lingered for as long as he could, hoping they would
 snap out of it quickly, but after an hour Stephen's heavy staring and
 pervading silence it became too much and he left.
 
-\~Page Break\~
+---
 
 It was near sunset when Voldemort finally managed to make it to the
 werewolf colony. The war was requiring a great deal of his time, and
@@ -759,7 +759,7 @@ Voldmort opened his mouth to argue.
 
 The Dark Lord quickly shut it.
 
-\~Page Break\~
+---
 
 The penthouse suite in the Hotel Pont Royale was not a typical choice of
 meeting places, but given the variety of places they had been no one was
@@ -850,6 +850,6 @@ socializing, and anything else that kept anything from getting done. He
 was barely out the door before three different conversations started at
 once, and was more than happy to leave the old goat to his pawns.
 
-\~Page Break\~
+---
 
 Linz is the capitol of Upper Austria (*Oberösterreich*) in Austria.

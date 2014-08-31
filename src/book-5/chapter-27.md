@@ -174,7 +174,7 @@ And there lay the crux of the problem right there.
 
 That might be his destiny.
 
-\~ Page Break\~
+---
 
 Draco stormed down the halls of Hogwarts, his murderous expression
 sending any in his path scurrying out of the way. He had been searching
@@ -255,7 +255,7 @@ They all turned at once to the new comer and paled. McGonagall stormed
 towards them, looking more than ready to curse them both into next
 Tuesday.
 
-\~ Page Break\~
+---
 
 Berlin had fallen, and while that brought a grim sort of satisfaction to
 the Dark Lord it did not keep him on the field of glory for a minute
@@ -482,7 +482,7 @@ his hand right, however, things might turn out tolerably well.
 
 "I know just the person."
 
-\~ Page Break\~
+---
 
 "Lt. Stratus."
 
@@ -529,7 +529,7 @@ would have to move extremely carefully. No more rash decisions, no more
 relying on third parties. It was up to him and him alone, and that's
 just the way he preferred it.
 
-\~ Page Break\~
+---
 
 The hospital staff let Horace get out of bed to walk around the day
 after he was admitted, but refused to release him from the third floor.
@@ -594,7 +594,7 @@ fragile. It was impossible for him to have done… those things.
 
 Impossible.
 
-\~ Page Break\~
+---
 
 Lucius stalked into the Headmistresses office, seething with anger and
 frustration. He did not dignify his rampant emotions, however, with any
@@ -813,7 +813,7 @@ always got this feeling that he resented me."
 She smiled knowingly. "It's not *your* friendship or lack there of that
 I was referring to."
 
-\~ Page Break\~
+---
 
 "Hermione! Wait! For Merlin's sake will you just listen to me for a
 second!" Ron shouted after her, running to catch up before she reached
@@ -879,7 +879,7 @@ He frowned back at her.
 He grinned at her. "Enjoy it while it lasts. Sweet ain't really my
 thing."
 
-\~ Page Break\~
+---
 
 Ira was still sleeping when someone knocked on the door, startling her
 awake. The room was dull gray with the light of the pre-dawn slipping
@@ -1097,7 +1097,7 @@ Normally, such a thought would only be entertained to intentionally
 induce vomiting, but somehow he found himself smiling for the first time
 in weeks.
 
-\~ Page Break\~
+---
 
 It took a long time for Harry to realize for certain that he was awake.
 He had stared a long time at the painted birds flitting across the walls
@@ -1330,7 +1330,7 @@ The boy flinched and looked down at his red, blistered hands.
 
 "…okay."
 
-\~ Page Break\~
+---
 
 Lestrange waded through the small lake of papers and scrolls that filled
 the Ministry of Magic's Foreign Affairs Division, cursing God and
@@ -1375,7 +1375,7 @@ course. It was just a stupid bir-
 Down the hall, several young Culties busily cleaning out offices for
 reuse were startled from their various tasks by a terrified shriek.
 
-\~Page Break\~
+---
 
 "Hermione, how many times do I have to say it? I'm *sorry!*" Draco
 whined, following after his sister. He had finally gotten the

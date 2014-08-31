@@ -578,7 +578,7 @@ us?"
 
 "Something about orphans. She's a sucker for orphans."
 
-\~ Page Break\~
+---
 
 Bobby could feel his sanity slipping. It eroded by tiny fraction each
 day in the acidic monotony that defined his captivity, an existence that
@@ -940,7 +940,7 @@ And then he left, reactivating the wards and leaving Bobby standing
 alone in the middle of the floor, mute and devastated as his one last
 chance at freedom stumbled out the door.
 
-\~ Page Break\~
+---
 
 "Do you actually intend to write anything this semester or have you just
 decided to start working on your penmanship?"

@@ -31,7 +31,7 @@ hope he found a way out of… whatever this place was. Passivity having
 never been one of his defining characteristics, he picked a direction at
 random and started walking.
 
-\~ Page Break\~
+---
 
 Simon bolted upright in his bed, startled from deep sleep by the booming
 crack of the gun. The second shot had him leaping out of his bed,
@@ -185,7 +185,7 @@ after a moment, his captor tossed him negligently to a man in grey, who
 held him by his upper arm, but otherwise kept his attention on the
 leader.
 
-\~ Page Break\~
+---
 
 "Take him to the cellar with the muggles. The rest of you find someplace
 inside to sleep. We'll be leaving again come nightfall," Fenrir ordered,
@@ -259,7 +259,7 @@ survive, but they would not fail.
 
 Rhiannon's daughter had foreseen it.
 
-\~ Page Break\~
+---
 
 Land passed below Bobby like a dream, verdant green even in what should
 have been winter and interwoven with lakes and rivers, and the only
@@ -309,7 +309,7 @@ possible Harry had been sent this way. There was supposed to be a
 werewolf colony a couple miles north of here. That was as good a place
 as any to start.
 
-\~ Page Break\~
+---
 
 Voldemort glared at the Ward-Master, a middle-aged French wizard in
 charge of installing and maintaining the wards around Volges-Wulfe and
@@ -506,7 +506,7 @@ anyone not quick enough to dodge, flying several feet.
 
 "*NOW!*"
 
-\~ Page Break\~
+---
 
 "This sucks Mermaid eggs," Ernst grumbled, as he sloughed after his
 comrades through the ancient sewers. The murky water was only ankle
@@ -749,7 +749,7 @@ rolled over to get back on his feet the rest of him was equally
 drenched. He only managed to make it to his knees, before he was grabbed
 again and thrown against the tunnel wall, and everything went dark.
 
-\~ Page Break\~
+---
 
 It took the French minions *hours* to get everything the Dark Lord
 required, and if it weren't for the fact that it took almost as long for
@@ -1050,7 +1050,7 @@ interested.
 
 "I'm listening."
 
-\~ Page Break\~
+---
 
 Harry wasn't sure how long he walked. No matter how long or how far, the
 sky never lightened or darkened and he did not tire. Every so often he
@@ -1278,7 +1278,7 @@ He turned back for one last question.
 
 Carrigan was already gone.
 
-\~ Page Break\~
+---
 
 It was raining in Warsaw when Lestrange stepped out of the International
 Floo Depot, after having spent almost two hours in customs and she
@@ -1326,7 +1326,7 @@ because of that damn Potter boy.
 She didn't think she would be truly happy until she found some way of
 paying him back.
 
-\~Page Break\~
+---
 
 Madam Puddifoot' Tea Shop was not normally a place Snape would be caught
 dead in, but he had few options available for a visit from Ira. He had
@@ -1708,7 +1708,7 @@ He didn't want to see her disappointment in him.
 
 He hated himself enough at the moment.
 
-\~ Page Break\~
+---
 
 "You better not be playing with me," Fenrir warned, glaring up at the
 raven as it circled low, but not low enough to snatch out of the air as
@@ -1757,7 +1757,7 @@ grateful for it though.
 
 Fenrir grunted in annoyance, and counted the ways one could eat a raven.
 
-\~ Page Break\~
+---
 
 Viktor could hear before he could see, and before he could hear he could
 feel. He felt the too tight pull of ropes on his chest and on his
@@ -1849,7 +1849,7 @@ could Horace have for him?
 Whatever it was, he didn't say and merely turned back towards the maps
 he was holding, ignoring her completely until she left.
 
-\~ Page Break\~
+---
 
 There were rumors circulating in the school. Well, there were always
 rumors circulating in the school, but for once some of it was of

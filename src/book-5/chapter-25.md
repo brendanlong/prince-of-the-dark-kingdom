@@ -58,7 +58,7 @@ already dead by some other means) he could try his poison on her. If he
 were lucky, the Dark Lord would be so distracted he wouldn't even
 notice.
 
-\~ Page Break\~
+---
 
 Hermione hated the dungeons. She didn't tell anyone this, knowing it
 would offend both her brother and her godfather who called the place
@@ -186,7 +186,7 @@ suit of armor that she passed or the feeling of malicious triumph at the
 back of her neck. So she went on her way, completely unaware that Trudy
 Sabbat was plotting how to use what she had seen against her.
 
-\~ Page Break\~
+---
 
 Harry thought perhaps he should have asked Carrigan exactly how far the
 lake was before he left him, but it was too late now. He had been
@@ -230,7 +230,7 @@ brush against him.
 
 He didn't stop walking, but he didn't stop flinching either.
 
-\~ Page Break\~
+---
 
 "Commander! Commander Oblitz?!"
 
@@ -284,7 +284,7 @@ quickly so that they could make their preparations.
 
 They only had a day and half to prepare for the Dark Lord's next attack.
 
-\~ Page Break\~
+---
 
 "I'm going," Tonks stated, shoving the last of her gear into her
 traveling case. Dumbledore stood quietly in the doorway; his expression
@@ -356,7 +356,7 @@ It was what Viktor would have wanted.
 
 She had to believe that.
 
-\~ Page Break\~
+---
 
 Night had fallen in the faery realm and Fenrir had halted travel in
 favor of a full night's rest. Tomorrow they would arrive in Berlin, and
@@ -404,7 +404,7 @@ creature's company to begin with. They would be in Berlin the next
 evening, and then he would prove which of them was truly the fool in
 this game.
 
-\~ Page Break\~
+---
 
 Katarina stared down at Viktor, lying in the coffin, arms crossed in a
 traditional position. Goethe had probably thought it funny. It wasn't
@@ -452,7 +452,7 @@ hurt you. I won't let him hurt *either* of us."
 And then she moved lower, her mouth moving from the shell of his ear to
 the bare skin of his neck.
 
-\~ Page Break\~
+---
 
 Fenrir woke them before dawn, had them eat the last of their rations and
 moved them hard for the rest of the day. The green hills turned to
@@ -801,4 +801,4 @@ him either. From up ahead on of the werewolves let out a piercing howl.
 
 "Incoming," Fenrir warned.
 
-\~Page Break\~
+---

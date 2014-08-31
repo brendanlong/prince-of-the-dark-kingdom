@@ -56,7 +56,7 @@ rest of this fight to between themselves alone.
 
 He wouldn't have had it any other way.
 
-\~ Page Break\~
+---
 
 When the arrows flew, they weren't all aimed in Voldemort's direction
 and Harry and the others quickly found themselves ducking behind
@@ -258,7 +258,7 @@ moved from the clearing and circled around from where they had last seen
 Voldemort and Gulandri that he thought to wonder why Stratus hadn't
 removed the ward earlier.
 
-\~ Page Break\~
+---
 
 Fire and pain and snakes were Voldemort's weapons of choice. Each
 contained a sort of sensual horror that he had always been drawn to
@@ -342,7 +342,7 @@ him.
 
 But faith meant nothing if it were not tested.
 
-\~ Page Break\~
+---
 
 Harry and Lucius settled themselves some distance away from the fight on
 a stony outcropping that offered them some elevation. An old oak grew
@@ -403,7 +403,7 @@ all over his face what he intended to do.
 
 And his expression wasn't changing any time soon.
 
-\~ Page Break\~
+---
 
 The venom was nothing if not fast. Within minutes his vision began to
 blur... or maybe it was his mind that was deteriorating, melting away
@@ -628,7 +628,7 @@ he was running out of time.
 
 "Yes, my Lord."
 
-\~ Page Break\~
+---
 
 And then they were gone, and Harry was left disoriented and filled with
 questions. *Later,* Voldemort had said, and that wasn't unreasonable.
@@ -1124,7 +1124,7 @@ Merlin, he was so incredibly tired.
 
 But he had to get clean first.
 
-\~ Page Break\~
+---
 
 Snape did look up from his work when he heard Harry move into the next
 car. His work was far from over for the night, and he couldn't afford to
@@ -1211,7 +1211,7 @@ his protege he did not find it encouraging.
 
 "I am sure you would."
 
-\~ Page Break\~
+---
 
 Tom watched the streaks of red and black swirl and mix before
 disappearing down into the darkness of the sink drain. It was

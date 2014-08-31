@@ -653,7 +653,7 @@ into black talons, feathers replaced skin, green eyes turned gold.
 When Gulandri was done, the human boy had disappeared completely and a
 peregrine falcon hung limply in his place.
 
-\~ Page Break\~
+---
 
 It was nearly two in the morning and Snape was still awake, although he
 had climbed into bed beside his wife hours ago. Ira was curled peaceably
@@ -909,7 +909,7 @@ Lucius and himself, untouched and unprotected by destiny's hand?
 
 There was only one way to find out.
 
-\~ Page Break\~
+---
 
 The world had shrunk into a sphere of black water , damp silvery air, a
 boat, a hobgoblin, and the Dark Lord himself. And mermaids. Most of
@@ -1194,7 +1194,7 @@ he might need in the coming confrontation. When he felt sufficiently
 prepared, he spared a thought to Bellatrix and the soldiers he had left
 without so much as a word along the shores of Bostalsee.
 
-\~ Page Break\~
+---
 
 Bobby flew hard and he flew high, ignoring the burn on his wing muscles
 after such long periods of relative disuse. When he passed over fields

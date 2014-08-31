@@ -106,7 +106,7 @@ to have a meeting with you some time next week about a PR campaign.
 It'll keep until Wednesday, at least. The Dark Lord is still in France,
 so I recommend playing nice."
 
-\~ Page Break\~
+---
 
 Saturday afternoon found Harry sequestered in Sirius' hut, pouring over
 animal encyclopedias to narrow down his selection of animagus forms. Or
@@ -270,7 +270,7 @@ for… wait a minute.
 "Great, now stick your nose back in the book and don't pull it out again
 until you know which one you want to be."
 
-\~ Page Break\~
+---
 
 Tom strived to keep his face blank as he handed off the latest reports
 to General Malfoy. Even with a face a bland as Lt. Stratus', he was hard
@@ -357,7 +357,7 @@ mused, finally slipping out of the office. It would be rather amusing
 and ironically appropriate if his friend weren't helping him yet again
 to reach his goals without even realizing it
 
-\~ Page Break\~
+---
 
 "Maybe we should wait another day or two," Ira said, fidgeting with her
 wedding ring. Her husband's potion lab was dark and cool, but she could
@@ -412,7 +412,7 @@ He looked up.
 
 He smiled.
 
-\~ Page Break\~
+---
 
 The Dark Lord was in a rare good mood when he returned to Bristol. Not
 that the war really put him in a particularly bad mood, but the
@@ -553,7 +553,7 @@ in the hallway for such a trivial matter.
 As he turned a corner, as if on instinct, he tilted his head to catch
 one more glance of the soldier, but the hall was already empty.
 
-\~ Page Break\~
+---
 
 For a 'small gathering', Harry didn't much see the purpose in dressing
 up, especially when he knew everyone there, but Snape had insisted and
@@ -938,7 +938,7 @@ The Dark Lord rolled his eyes.
 
 "What a perfectly muggle notion."
 
-\~ Page Break\~
+---
 
 "Here ye, here ye. I declare this the second annual meeting of the
 Anti-Betrothal Society. Has the president made any progress with the

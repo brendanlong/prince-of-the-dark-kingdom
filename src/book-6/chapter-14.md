@@ -153,7 +153,7 @@ disappeared.
 
 He turned and strode away, nearly running. She didn't dare follow him.
 
-\~ Page Break\~
+---
 
 Harry fled to Vector's office, practically shouted the password and
 ducted inside. Vector wasn't there; just a pile of books on the edge of
@@ -323,7 +323,7 @@ He wasn't *that* desperate for friends.
 
 Even if he seemed to have fewer and fewer with each passing day.
 
-\~ Page Break\~
+---
 
 Harry armed himself like he was preparing for battle before he went to
 Bristol. He donned his neglected black and silver uniform, thankful the
@@ -623,7 +623,7 @@ could afford to ignore.
 
 Which meant the raven might be his only reliable ally at the moment.
 
-\~ Page Break\~
+---
 
 Bobby didn't fly that day. He hadn't flown the day before either or the
 day before that. Aside from a little fluttering to move from branch to
@@ -871,7 +871,7 @@ perhaps something can be worked out between us as well."
 Ravens couldn't smile, but had Lucius been able to see Bobby at that
 moment, he would have seen one supremely satisfied bird.
 
-\~ Page Break\~
+---
 
 Harry had expected to spend the next however many minutes in awkward
 silence or stilted conversation with the lieutenant, but the man turned
@@ -1081,7 +1081,7 @@ man would be there to protect him after all.
 
 "Alright, then, General Malfoy. You can have your bloody alliance."
 
-\~ Page Break\~
+---
 
 Once a course of action had been decided, it only took about forty
 minutes for Lt. Stratus to select his soldiers and prepare the necessary
@@ -1305,7 +1305,7 @@ Harry knew he would have to be cautious not to trust him too much or to
 allow himself to become too attached, but it was difficult to look at
 the man and feel anything from him other than beneficent curiosity.
 
-\~ Page Break\~
+---
 
 They arrived near Aoiwig, within three hours of leaving Bristol. It was
 early afternoon, and being in the southwestern end of Ireland the

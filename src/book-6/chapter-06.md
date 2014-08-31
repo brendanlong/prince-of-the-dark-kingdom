@@ -469,7 +469,7 @@ the *right* thing. I'm proud of you."
 
 And that's all he really needed to hear.
 
-\~ Page Break\~
+---
 
 Bobby made it a point to hide when Voldemort walked into the aviary.
 This was not cowardice on his part, but at a rather childish act of
@@ -634,7 +634,7 @@ did?
 
 No one could take this away from him.
 
-\~ Page Break\~
+---
 
 It didn't take long for Narcissa to negotiate for Harry's release from
 the hospital, and within a few hours of waking he was showered, changed,
@@ -963,7 +963,7 @@ benefit. Find me when you have made up your mind."
 His message delivered, the Malfoy patriarch strode from the room,
 leaving the recipient to decide for himself.
 
-\~ Page Break\~
+---
 
 Harry did not see Malfoy Sr. after the scene in the parlor for several
 days after, but the man's presence was inescapable within the manor. His

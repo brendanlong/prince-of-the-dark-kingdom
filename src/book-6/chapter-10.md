@@ -730,7 +730,7 @@ Potter had been in real battles. Bloody, vicious, deadly battles. He had
 For all her nervous agitation, Angelina couldn't think of anyone else
 she would rather have at her side in this moment.
 
-\~ Page Break\~
+---
 
 The attack had been a mixed success, which to Mandalari meant it had
 also been a failure. A salvageable failure, but a failure nonetheless.
@@ -835,7 +835,7 @@ Italian witch and wizard there their lives.
 
 All except one.
 
-\~ Page Break\~
+---
 
 Voldemort came to Hogwarts at first light the day after the attack, but
 already the castle was swarming with activity. Sentinels and Culties
@@ -1287,7 +1287,7 @@ He should make Potter do it, just for the hell of it.
 unspoken threat. "When the press shows up, try to act appropriately
 humble and sympathetic."
 
-\~ Page Break\~
+---
 
 The remainder of the meeting did not last much longer, and afterwards
 Harry accompanied Voldemort to his office.
@@ -1402,7 +1402,7 @@ Despite his words, Harry did not look reassured.
 
 "One day, yes," he agreed. "But will I live long enough to see it?"
 
-\~ Page Break\~
+---
 
 Harry managed to catch a two hour nap (despite the coffee that morning)
 in Voldemort's office, while the man performed administrative magic with
@@ -1553,7 +1553,7 @@ The mortified Gryffindor didn't have to be told twice, and immediately
 rushed off without looking back. Harry and Natalie shared a look, and
 burst out laughing.
 
-\~ Page Break\~
+---
 
 Security Liaison turned out to be a position uniquely suited to Harry.
 He was easily recognized by military personnel, students, and civilians

@@ -418,7 +418,7 @@ shoulder as he passed him on his way to the door.
 
 "You as well, my friend."
 
-\~ Page Break\~
+---
 
 Two weeks at the manor and Hermione was already stir crazy. Narcissa had
 refused to let either Draco or her leave the manor without an adult
@@ -745,7 +745,7 @@ anyone could pull her out of this horrible situation it would be him.
 
 Together, they would find a way.
 
-\~ Page Break\~
+---
 
 "*Petrificus* *cruce afficio!*" Harry shouted, and his opponent
 hesitated, no doubt by the words that sounded like a cross between a
@@ -1343,7 +1343,7 @@ Anger was soon replaced with fear.
 
 "Kingsley…" he managed weakly, and then slipped into unconsciousness.
 
-\~ Page Break\~
+---
 
 Horace stared at the large patch of blue sky where there had once been a
 wall for several minutes. It was a very lovely sky. Lots of bright blue

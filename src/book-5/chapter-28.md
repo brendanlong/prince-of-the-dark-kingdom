@@ -254,7 +254,7 @@ Harry nodded, but he looked disturbed.
 Voldemort started at him. Apparently, the possibility hadn't occurred to
 him.
 
-\~ Page Break\~
+---
 
 For the two days of Greyback's descent into the mortal plane, Blackbone
 struggled to maintain his sanity as his pack and his beta fell under the
@@ -491,7 +491,7 @@ Rhiannon, whose hand could not be felt in these dark happenings. It was
 his responsibility to make sure nothing like this ever happened again.
 He would not fail a second time.
 
-\~ Page Break\~
+---
 
 A week after Lestrange first entered the records room, it was
 considerably cleaner than it had been and the witch herself was
@@ -543,7 +543,7 @@ McGunny stiffened and then turned. He blinked in confusion.
 
 "*Stupefy."*
 
-\~ Page Break\~
+---
 
 Voldemort stared down at Horace McGunny. Horace McGunny in turn hung
 limply in the Dark Lord's hands while his eyes rolled around in his
@@ -686,7 +686,7 @@ the name of the man who had caused it, and Tom would be celebrating his
 small victory with an expensive bottle of brandy and a female Lieutenant
 fresh out of basic.
 
-\~ Page Break\~
+---
 
 Hermione, Draco, Natalie, Clyde, Ginny, Fred, and George sat in their
 desk in the Dark Arts and Defense classroom, staring mutely at Snape who
@@ -884,7 +884,7 @@ to find ways to amuse myself with Ron over the holidays."
 
 She hid her satisfied grin her teacup at his disapproving glower.
 
-\~Page Break\~
+---
 
 "Good morning, young master!" Vicky greeted, as she opened the door to
 Harry's bedroom carrying a breakfast tray. He made an unhappy groan and
@@ -1173,7 +1173,7 @@ Many Uses by Siddhartha Sandi, translation by Ursula Norbleet*.
 "Our Lord thought you might me interested in that… *after* you catch up
 on your homework."
 
-\~ Page Break\~
+---
 
 Robert reached for his coffee cup, then stopped when he remembered it
 was empty and had been for the last hour. He debated the merits of
@@ -1237,7 +1237,7 @@ here?
 
 "Mr. Reicher, I find I am in need of a lawyer."
 
-\~ Page Break\~
+---
 
 Harry started his journey back to Hogwarts with a level of enthusiasm he
 hadn't realized he was even capable of anymore. The mob of reporters

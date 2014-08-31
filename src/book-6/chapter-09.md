@@ -108,7 +108,7 @@ handpicked himself, and he was pleased to see the resolve in their hard
 expressions and pitiless eyes. "… I believe I have found our next
 target."
 
-\~ Page Break\~
+---
 
 Tonks gripped tightly to her partner's hand, reminding him, sometimes
 painfully, that *they were not running away.* She had told him before
@@ -601,7 +601,7 @@ notice that his last barb had struck home, and Viktor's sharp black gaze
 was torn from the pages of his book to follow his irascible minion up
 the stairs.
 
-\~ Page Break\~
+---
 
 Harry liked Hogwarts. Honestly, he did. Even when it had giant killer
 snakes in the basement and madmen plotting to kill him and some
@@ -845,7 +845,7 @@ him some time.
 
 He had his own problems to sort out.
 
-\~ Page Break\~
+---
 
 Viktor made it a point to wander wizarding Paris at least once a week.
 While he had an established network of spies and observers amongst his
@@ -1034,7 +1034,7 @@ the rest of their community, but until then…
 
 He turned to the woman curled up into the duvet and smirked.
 
-\~ Page Break\~
+---
 
 Despite the halt in construction at Hogwarts and the delayed plans to
 convert the castle into a private preparatory college, Hogsmeade's real
@@ -1215,7 +1215,7 @@ whatever complications arose.
 
 The carriage ride to the castle seemed to stretch on for eternity.
 
-\~ Page Break\~
+---
 
 Harry heard about Ira's admittance to the school infirmary during lunch.
 Apparently, she had some sort of carriage accident and broke her foot.

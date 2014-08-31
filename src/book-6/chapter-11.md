@@ -91,7 +91,7 @@ lent his assistance. He may have changed his mind about helping Ron, but
 that didn't make them friends and it certainly didn't mean Harry had to
 like him.
 
-\~ Page Break\~
+---
 
 It wasn't until a few days later that Harry came up with a possible
 method of obtaining the necessary book for Ron. The Slytherin must have
@@ -305,7 +305,7 @@ something else to say, but she was struggling with it and by the time
 they reached the tapestry leading to her rooms, she had given up and let
 it go.
 
-\~ Page Break\~
+---
 
 The school was buzzing over the Dueling competition results the next
 day, and not a little of that buzzing was around Harry's own defeat by
@@ -343,7 +343,7 @@ headmaster's attention.
 
 The pranks started Saturday morning.
 
-\~ Page Break\~
+---
 
 "Sneezing powder? Honestly, you would have thought we had been invaded
 by eight year olds!" Hermione muttered, gathering up the sparkly blue
@@ -401,7 +401,7 @@ politician about to go on a campaign. A really shady politician.
 
 Voldemort would have been proud.
 
-\~ Page Break\~
+---
 
 "God never intended us to use magic, you know," Lucius slurred, leaning
 over the map of Italy. "If He did, He never would have made potions
@@ -497,7 +497,7 @@ Dark Lord's plans.
 
 Slowly, but surely, it was all coming together.
 
-\~ Page Break\~
+---
 
 The trip to France was one of Harry's better travel experiences, if a
 bit dull. Professor Slughorn and he were two of a handful of passengers
@@ -852,7 +852,7 @@ that his inquisitive and confident friend would probably *love* Paris.
 
 "I think she's more of a London, girl," he said, instead.
 
-\~ Page Break\~
+---
 
 After almost three weeks of running a school of young militants and a
 refugee camp all under the same roof, Snape did not think it was
@@ -1187,7 +1187,7 @@ He gave her a sardonic smile.
 
 "I love you."
 
-\~ Page Break\~
+---
 
 "That's a common misunderstanding," Harry explained to the small dinner
 party gathered around the dinning table. He was feeling decidedly
@@ -1994,7 +1994,7 @@ with her guards and lady-in-waiting glaring bloody murder into his back.
 *Honestly,* he thought, *she is a grown woman. She doesn't need anyone
 to guard her virtue.*
 
-\~ Page Break\~
+---
 
 Harry danced two dances with Princess Serafina. He could not say they
 were particularly memorable. She did not speak English and he did not

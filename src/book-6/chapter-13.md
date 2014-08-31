@@ -508,7 +508,7 @@ rivaled the twins in its impishness.
 
 "Oh, I wish I could see Truberville's expression when he finds out."
 
-\~ Page Break\~
+---
 
 By Thursday, the entire school knew Harry had been in France over the
 weekend, and that he had been a big hit with France's crown princess and
@@ -858,7 +858,7 @@ The Slytherin chuckled at that.
 
 "Better you than me."
 
-\~ Page Break\~
+---
 
 "Mr. Potter!"
 
@@ -1061,7 +1061,7 @@ University application committees of course."
 
 "Harry!"
 
-\~ Page Break\~
+---
 
 Harry opened the second letter by himself in the dormitory. Hermione had
 fled in a frustrated huff, possibly to research rehabilitation methods
@@ -1191,7 +1191,7 @@ That left him with only one option left.
 Unconsciously, his right hand rubbed against the invisible mark over his
 stomach.
 
-\~ Page Break\~
+---
 
 Harry never made it to History of Magic. He did not make it to Herbology
 either. He did make it to Potions, but only so he could ask Slughorn for
@@ -1353,7 +1353,7 @@ throbbing against skin.
 He took another deep breath of the fragrant air. Held it. Released it
 slowly. Then reached for the blade.
 
-\~ Page Break\~
+---
 
 Snape sent Ira back to their quarters early that night. There had been
 small happenings all day, and the rise of a harvest moon left him with a
@@ -1732,7 +1732,7 @@ anger nor fear.
 
 He felt shame.
 
-\~ Page Break\~
+---
 
 "Mr. Potter? Are you awake dear?"
 
@@ -1858,7 +1858,7 @@ The thought left him with a lonely feeling.
 
 Or maybe it was just the potions.
 
-\~ Page Break\~
+---
 
 Voldemort had almost forgotten how much he loved battles. He had been
 through a few in recent years, but he hadn't enjoyed them as much then

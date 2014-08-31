@@ -308,7 +308,7 @@ He actually had the audacity to laugh at her suggestion.
 
 "Oh, yes, that will make things much safer!"
 
-\~ Page Break\~
+---
 
 The bridal tent was full of strange women. The only ones Harry
 recognized were Victoria (who had in fact been selected as
@@ -926,7 +926,7 @@ to get Skeeter to help find Hermione a sponsor. Who knew, perhaps
 Skeeter could even *be* Hermione's sponsor. He would discuss it with her
 later, when he went to stay with the Malfoys.
 
-\~ Page Break\~
+---
 
 After his second brush with blackmail, Harry managed to enjoy a full
 thirty minutes where absolutely nothing even remotely interesting

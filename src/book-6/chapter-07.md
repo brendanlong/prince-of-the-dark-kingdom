@@ -122,7 +122,7 @@ She paused, reluctantly.
 
 Her reply was the sharp snap of the door behind her as she left.
 
-\~ Page Break\~
+---
 
 "Harry, it's wonderful to see you! Your timing is perfect," Ira greeted
 as he entered the cottage. They had apparently arrived at approximately
@@ -461,7 +461,7 @@ should do with his growing celebrity status, the next Dueling
 competition in Kent, the war, and what Voldemort was doing at the
 moment.
 
-\~ Page Break\~
+---
 
 There was no parade or cheers from an adoring crowd to greet Tom as he
 stepped off the train and on to the platform, but he nevertheless felt
@@ -520,7 +520,7 @@ He saluted the man smartly.
 
 "General Malfoy, Commander Stratus reporting for duty, sir."
 
-\~ Page Break\~
+---
 
 "Ugh! That just makes me want to *scream!*"
 
@@ -730,7 +730,7 @@ Mary's eyes quickly settled on Harry. She smirked. He smirked back.
 
 "I bet."
 
-\~ Page Break\~
+---
 
 "Stop fidgeting, you look great!" Harry laughed as Ginny tried to pull
 her skirt down another inch for the thousandth time.
@@ -1161,7 +1161,7 @@ relief.
 So, even though he didn't feel particularly happy, he managed to bury
 his anger and fear and smile for her.
 
-\~ Page Break\~
+---
 
 It was ten in the morning, when Harry stumbled into the cottage, hung
 over and cursing the already sweltering summer heat. His head throbbed
@@ -1352,7 +1352,7 @@ I'll have lunch ready for you by the time you get back."
 He nodded, distractedly. He liked it better when he was only concerned
 his ward was plotting treason.
 
-\~ Page Break\~
+---
 
 McGunny scanned his notes, debating whether he should file them under
 the chapter for the 'courtship behavior' or for the 'diet' of dragons.

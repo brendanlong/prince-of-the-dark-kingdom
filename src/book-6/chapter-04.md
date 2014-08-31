@@ -165,7 +165,7 @@ With that he tucked his wand in his belt and headed back towards the
 village, determined to hate her or forget about her, which ever meant he
 didn't have to feel as if he had just lost something.
 
-\~ Page Break\~
+---
 
 The aviary was warm and sunny in the early afternoon, echoing with the
 chirps and cries of strange birds over the splash of the garden
@@ -276,7 +276,7 @@ destiny would not keep him on the sidelines forever.
 
 He needed patience. He needed faith. Most of all, he needed his anger.
 
-\~ Page Break\~
+---
 
 "Let's walk the St. Martin Canal today," Ira said sleepily, not
 bothering to open her eyes. She didn't need them open to know exactly
@@ -486,7 +486,7 @@ the rest of the maze. He smiled wickedly.
 
 "Severus, what are you- oh! Ooohhh… oh, my…"
 
-\~ Page Break\~
+---
 
 Robert was not a deeply philosophical man. He was a lawyer after all.
 Higher concepts such as right and wrong were romantic sentiments at the
@@ -659,7 +659,7 @@ Crouch laughed.
 
 "Balls the size the mars, by god!"
 
-\~ Page Break\~
+---
 
 "So I can pick any animal?" Harry asked, skimming through an
 encyclopedia of animals. He had picked a page at random, and was
@@ -823,7 +823,7 @@ was so carefully crafting. It might be underhanded and unfair to
 Kingsley, but as far as priorities went his godfathers came before a
 stranger, no matter how nice he seemed.
 
-\~ Page Break\~
+---
 
 Ron counted his supplies and then recounted them again, moving them
 about so that they could be readily available when he needed them. He

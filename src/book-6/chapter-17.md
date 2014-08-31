@@ -168,7 +168,7 @@ it, leaving only Tom, Kingsley, and a stolid witch, whose name he had
 forgotten, untainted. From his chair, Gulandri just smiled and took a
 sip of his wine.
 
-\~ Page Break\~
+---
 
 Gulandri watches the humans break one after the other until only three
 of the seven remain steadfast. The food and drink will not transform
@@ -308,7 +308,7 @@ willing to use it against a lesser enemy.
 
 "Get me twelve of my finest hunters and have them mount up. We hunt."
 
-\~ Page Breakers\~
+---
 
 The mermaids brought the gondola to shore just as they promised,
 although the landing sight was not ideal. Voldemort scanned the marshy
@@ -373,7 +373,7 @@ disappeared.
 He calculated his options for some minutes, and decided the direct
 approach would be the best one.
 
-\~ Page Break\~
+---
 
 "*Alach jaunef e ir?*" an goblin guard called out from the gate
 entrance, as Voldemort stepped out of the trees and onto the road
@@ -720,7 +720,7 @@ looked away and nodded.
 
 "Good. You'll ride with me."
 
-\~ Page Break\~
+---
 
 Harry crouched behind a tree, Bobby nestled in his arms, unmoving. In
 the darkness he could not tell if he was breathing or not. He had no
@@ -988,7 +988,7 @@ When did he turn into such a Gryffindor?
 
 Somewhere in the forest he heard Harry screaming.
 
-\~ Page Break\~
+---
 
 Harry's sole focus had been reaching Treelafore before Gulandri or his
 minions reached them. That was the biggest threat, and therefore the

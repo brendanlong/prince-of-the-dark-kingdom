@@ -197,7 +197,7 @@ pained expression that crossed the Sentinel's face. There was little
 time after that left for talking and joking, before they reached the
 village floo.
 
-\~ Page Break\~
+---
 
 Harry followed the path to the boundary of the werewolf territory
 easily, though it was nearly invisible under the thick growth of a full,

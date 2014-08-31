@@ -89,7 +89,7 @@ over the back of his neck.
 
 Harry screamed.
 
-\~ Page Break\~
+---
 
 The Aurors were more prepared for the second attack and on the
 offensive, driving heavily into the ranks of their enemies. Several of
@@ -199,7 +199,7 @@ were gone.
 
 And so were Greyback and the werewolves.
 
-\~ Page Break\~
+---
 
 Oblitz was furious. They had two days notice, *two days!* That should
 have been plenty of time to prepare for the second invasion, but they
@@ -310,7 +310,7 @@ now.
 
 And then suddenly, the sword vanished.
 
-\~ Page Break\~
+---
 
 Teeth closed around his neck, just as his fingers closed around steel.
 Harry didn't think, didn't have time or a clear enough head to think, to
@@ -423,7 +423,7 @@ vaguely, but it was a slow and clumsy swimmer, meant for hunting on the
 muddy marshlands and shallow pools, and the sword in his hand was an
 anchor, quickly pulling him down into the cold darkness of the lake.
 
-\~ Page Break\~
+---
 
 "You know, I gave the sight in my left eye to know your name," the boy
 purred in two dissonant voices. He had acknowledged the sword's
@@ -625,7 +625,7 @@ the newest threat.
 
 It was the likely the only thing that saved his life.
 
-\~ Page Break\~
+---
 
 Snape kept his distance. He wasn't a coward, but he wasn't fool either
 and he had no intention of wading through veritable ocean of werewolves
@@ -934,7 +934,7 @@ addicted to stress and misery.* [^108-2]
 "Idiot. You're going to owe me after this," he muttered to the
 unconscious form. "Don't you dare die on me now."
 
-\~ Page Break\~
+---
 
 Voldemort sent half his troops to locate and dismantle the
 anti-apparation wards in the tunnels, while he and the rest went in
@@ -1144,7 +1144,7 @@ cared about was the man's nod of acknowledgment. With one last glance at
 his protégé, he turned to order his soldiers into formation and quickly
 stalked away to meet up with the rest of his battalion.
 
-\~ Page Breaks\~
+---
 
 Tom moved quickly passed a small squadron of soldiers, not even
 bothering to hide. They glanced at his familiar Cultie uniform and then
@@ -1393,7 +1393,7 @@ private.
 As the man swaggered closer to inspect his kill, Tom thought to himself,
 *I can work with this.*
 
-\~ Page Break\~
+---
 
 Viktor walked beside Goethe through the tunnels, leading the remainder
 of the once proud clan deeper into the underground. The survivors were a
@@ -1455,7 +1455,7 @@ He hated them. It absolutely *loathed* them, but they were his.
 
 Now, he just had to figure out what to *do* with them.
 
-\~ Page Break\~
+---
 
 "Lie still. You were badly injured," a gentle voice said softly.
 

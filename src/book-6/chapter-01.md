@@ -95,7 +95,7 @@ annoyance.
 "Yes, I do," he lied pleasantly, and got up to leave. "See you at
 dinner."
 
-\~Page Break\~
+---
 
 Instead of going back to his dormitory, Harry went in search of
 something useful to do. His housemates, while not as openly hostile as
@@ -441,7 +441,7 @@ He liked to avoid involving her if he could help it though.
 
 He sighed. Bother. He had been looking forward to a quiet summer.
 
-\~ Page Break\~
+---
 
 "And where might our Lord Chaos be off to? You look like you're up to
 something suspicious," George said, appearing at his right from out of
@@ -629,7 +629,7 @@ warning had been received and he made his way back to the castle. He
 walked as slowly as possible, soaking up as much of the sun and fresh
 air as he could.
 
-\~ Page Break\~
+---
 
 Harry made a brief attempt at finding Ron again, but gave up fairly
 quickly in favor of terrorizing the student body with Inana. It probably
@@ -712,7 +712,7 @@ it and certainly not with a lie so blatantly obvious.
 
 "I'll figure something out."
 
-\~ Page Break\~
+---
 
 *"I… Yes…I wanted to ask you if I could… if you would…tell me your
 story. Can I be your biographer?"*

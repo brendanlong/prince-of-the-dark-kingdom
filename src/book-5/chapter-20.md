@@ -55,7 +55,7 @@ It seemed he would have to take matters into his own hands.
 "I haven't dismissed you yet," the Minister warned. Oblitz ignored him
 and left pretending he hadn't even heard him.
 
-\~Page Break\~
+---
 
 Snape leaned back in the Headmistress' chair, his appearance deceptively
 calm. Inside, however, his mind was in chaos. He was now Headmaster of
@@ -217,7 +217,7 @@ conflict against powerful forces.*
 Snape threw the book across the room as if it had suddenly transfigured
 into a cobra and bit him.
 
-\~Page Break\~
+---
 
 Ron was happy Harry was gone. No one would be surprised to hear this,
 but they might be surprised about *why* he was happy his pseudo-nemesis
@@ -296,7 +296,7 @@ deadly force."
 
 He laughed, and followed her back to the castle.
 
-\~ Page Break\~
+---
 
 "You look very handsome," Voldemort commented, eying his young protégé
 critically. The Beast Brigade (a name of questionable taste, but it
@@ -365,7 +365,7 @@ Voldmort smirked, and looked ready to say something witty and probably
 mildly insulting, but then paused. His eyes widened. "I *knew* we forgot
 something."
 
-\~ Page Break\~
+---
 
 The weather was lousy for so early in November. A cold drizzle and hard
 north was dampening the enthusiasm of the crowds at they gathered for
@@ -518,7 +518,7 @@ the injured! Not… not…
 
 It wasn't himself he was worried about.
 
-\~ Page Break\~
+---
 
 1.I'm sure some of you forgot what '*primer pater'* means. In Latin, it
 translates to 'first father', and it's a term used in wizarding society

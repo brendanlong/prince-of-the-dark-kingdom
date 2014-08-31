@@ -330,7 +330,7 @@ her after such a scary display of authority against Sabbat but needing
 to run his photographs by her for approval, he was surprised to find
 Granger was actually smiling.
 
-\~ Page Break\~
+---
 
 "Would you like some of that peach schnapps, I know you're so fond of?"
 Dr. Jacobi offered as Ira stiffly went about redressing. Her patient
@@ -433,7 +433,7 @@ moment.
 
 "True enough," she said, helplessly.
 
-\~ Page Break\~
+---
 
 Harry took a train from London to Paris. It was not like the Hogwart's
 Express beautiful and whimsical at once, but a military train, black and
@@ -717,7 +717,7 @@ keenly. They had saved each other's lives, and shared a time that was
 both frantic with joy and fear. He wondered if he should keep this from
 Hermione.
 
-\~ Page Break\~
+---
 
 Beartooth was not happy with Harry when he returned to the hotel that
 night, but there was little he could do now that it was done and
@@ -816,7 +816,7 @@ him.
 Even if he did have to play nice with other soldier boys… and the
 occasional waitress.
 
-\~Page break\~
+---
 
 "Morgana! Alyssa! It's time to go!" Kyle called out for what seemed like
 the thirtieth time in ten minutes. He was tired and aggravated after
@@ -924,7 +924,7 @@ expectantly.
 
 "Oh, *now* you're in a hurry to go!"
 
-\~ Page Break\~
+---
 
 Lord Voldemort arrived in Paris two hours after Harry's departure, but
 did not overly concern himself with that. His protégé would be back in
@@ -1041,7 +1041,7 @@ without a hint of hesitation.
 
 Let her interpret that as she would.
 
-\~ Page Break\~
+---
 
 By early afternoon, the coffee had worn off and Harry was seriously
 wanting to hit someone. Beartooth had been willing enough to *ignore*
@@ -1159,7 +1159,7 @@ A knock on the door made him jump.
 
 Later, he could wonder about it later.
 
-\~ Page Break\~
+---
 
 Bobby lingered in the upper tiers of the hill lodge with the other birds
 and minor sprites, trying not to fidget too much lest he gain the
@@ -1245,7 +1245,7 @@ him outside.
 
 He had heard enough.
 
-\~ Page Break\~
+---
 
 They huddled silently in the dark of their cellar, relying on the light
 of a single candle. Their furnace had stopped working the day before,
@@ -1332,7 +1332,7 @@ investigate the tunnels tomorrow morning. We'll worry about the weapons
 when they're ready. Everyone get some sleep. It'll be a long day
 tomorrow."
 
-\~ Page Break\~
+---
 
 Katarina hunted the streets near where she had seen her prey escape
 first, but after two nights of fruitless searching, she moved deeper
@@ -1356,7 +1356,7 @@ if not the cold altogether.
 She ignored them. Let her children find them and feast. She had
 something a little more… challenging in mind.
 
-\~ Page Break\~
+---
 
 "Civilians keep coming in demanding information or for action or
 whatever," Auror Juelsvene complained to the other half dozen men around
@@ -1421,7 +1421,7 @@ dared) he wasn't going to question it himself.
 And if someone did question him, he wasn't above insuring that they
 never did so again.
 
-\~ Page Break\~
+---
 
 Crowded into the undersized mess hall, hot from the crowd of bodies and
 the warmly glowing lanterns, Harry was starting to feel a bit dizzy. He
@@ -1543,7 +1543,7 @@ What was happening? Had he been cursed?
 A familiar, unpleasant laugh rumbled in his ear, and he closed his eyes
 tight as the nightmare rolled over him.
 
-\~ Page Break\~
+---
 
 Beartooth's heart nearly stopped when Harry suddenly tilted and nearly
 pitched himself off the table. Then it nearly beat itself right out of
@@ -1569,7 +1569,7 @@ moved away except for Beartooth, who could only stare and ask in wonder.
 
 "Greyback?"
 
-\~Page Break\~
+---
 
 The Dark Lord slipped out of the Queen's chambers silently, easing the
 doors closed gently so as not to awaken her. *Pleasant dreams*, he
