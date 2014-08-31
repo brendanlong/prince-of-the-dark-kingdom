@@ -643,7 +643,3 @@ Completely naked.
 
 ---
 
-Author's note: Firstly, yes, Luna Moonshine is Luna Lovegood. With a
-name like 'Luna' I don't know how she didn't end up a werewolf in
-Rowling's stories. Secondly, no, she did not have sex with Harry. She
-just has no sense of modesty or propriety.

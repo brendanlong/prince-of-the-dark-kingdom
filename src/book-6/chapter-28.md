@@ -2173,12 +2173,3 @@ drift off.
 "I guess so," Goyle replied noncommittally, and Harry fell back to
 sleep. For now, that was all that mattered.
 
-Author's Notes:
-
-Traditionally, castles had 'arrowslits' built into them so archers could
-fire out on the enemy with minimal exposure. The idea was adapted to
-Hogwarts.
-
-A non-lethal Hex that creates a rather large sticky web when cast in a
-door or window. Notoriously difficult to tear down physically and
-magically. Potions are typically required.

@@ -802,6 +802,3 @@ if you know just mentally insert the appropriate term.
 [^17-2]: The 'Vanguard' is Voldemort's equivalent to Aurors, just as the
 'Court' is the equivalent to the Ministry.
 
-Author's note: Wow, that's my longest chapter so far. So it took so long
-to get to you, but I got a new job this week so it's been tough finding
-the time to write. I hope you enjoyed it!

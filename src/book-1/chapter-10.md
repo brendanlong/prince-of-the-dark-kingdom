@@ -313,11 +313,3 @@ had taken the train after all.
 America (can't speak for other English-speaking countries) but according
 to Ashere a fairly common word in German.
 
-Author's note:
-
-No, I'm not a Ron-basher. Like his brothers said, he's got issues, which
-unfortunately manifest themselves in bigotry. Will he be Harry's new
-arch nemesis in place of Draco? No, frankly I don't think he's savvy
-enough for that. Besides, Draco's just showed us a bit of arrogance and
-animosity we all know and love from Rowling's books. You'll just have to
-wait and see how it goes.

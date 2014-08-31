@@ -1423,13 +1423,3 @@ future.
 
 For now, however, he could forget and simply enjoy the moment.
 
-Author's Notes:
-
-Rhiannon's daughter is a special case. Even though she's called a
-goddess, she does in fact have a half-human soul. She's really the
-spirit of a demi-god. The way in which she died prevents her from taking
-on a god's mantle, so she lives in a between state, attaching herself to
-specific sorts of people.
-
-Goodfellows, like in Shakespeare's A Midsummer Night's Dream, are
-sprites that like to play tricks on humans.

@@ -916,10 +916,3 @@ pissed. Voldmort stood, moving closer, touching Harry's cheek.
 There's no strict hierarchy of Gods and Goddesses in Celtic religion,
 and most are regional and subject to name and authority changes.
 
-Author's Note: Now, don't any of you get the strange idea that Voldemort
-is some sort of 'Green Living' messiah who wants to save the Earth. He's
-more of an angry idealist, and everyone should know the dangers of
-people like that. Plus, despite the warm fuzzies Harry got during the
-ritual offering, 'Mother' isn't exactly all bunnies and unicorns. In
-fact, She EATS bunnies and unicorns regularly. Just a little food for
-thought.

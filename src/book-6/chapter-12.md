@@ -1150,8 +1150,6 @@ Harry just looked at him.
 
 "You are such an idiot."
 
-\~ Author's Notes\~
-
 [^122-1]: A certificary is the wizarding equivalent of a check, but is
 typically only used when dealing with large sums of money no one would
 carry around on their person and only with official business since it

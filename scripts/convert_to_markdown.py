@@ -29,6 +29,7 @@ NUMERALS = [
     "X"
 ]
 
+AUTHORS_NOTE_REGEX = re.compile("^(\\\~ )?Author'?s notes?(:|\\\~).*", flags=re.IGNORECASE)
 CHAPTER_REGEX = re.compile("^(Epilogue)|^(\*\*)?Chapter [0-9]+[:-]? *([^*]*)(\*\*)?$")
 FOOTNOTE_REGEX = re.compile("^([0-9]+)[.)] (.+)")
 PAGE_BREAK_REGEX = re.compile("^(\* )+\*$|^o+$|^\\\~ *Page Break(er)?s? *\\\~$", flags=re.IGNORECASE)
@@ -59,7 +60,7 @@ def write_book(output_dir, book_number, chapters):
 
     for chapter in chapters:
         with open(os.path.join(book_dir, "chapter-{:02d}.md".format(chapter.number)), "w") as f:
-            f.write("# {}\n".format(chapter.get_title()))
+            f.write("# {}\n\n".format(chapter.get_title()))
             f.write("\n".join(chapter.lines))
             f.write("\n")
 
@@ -85,6 +86,9 @@ if __name__ == "__main__":
         next_note = 1
         chapter = Chapter(chapter_number)
         lines = story_text.splitlines()
+        in_authors_note = False
+        in_footnote = False
+        skip_paragraphs = 0
         for line_number, line in enumerate(lines):
             line = line.strip().strip(chr(8203))
             if not chapter.title:
@@ -112,14 +116,28 @@ if __name__ == "__main__":
                 if len(chapter.lines) > 1 and chapter.lines[-2] == "---":
                     continue
                 chapter.lines.append("---")
-            # Don't print duplicate empty lines
-            elif not line and chapter.lines and not chapter.lines[-1]:
-                continue
+            elif AUTHORS_NOTE_REGEX.match(line):
+                # Book 6 chapter 5 has an authors note at the beginning..
+                if book_number == 6 and chapter_number == 5:
+                    skip_paragraphs = 2
+                else:
+                    in_authors_note = True
+            elif not line:
+                if skip_paragraphs:
+                    skip_paragraphs -= 1
+                if in_footnote or not (in_authors_note or skip_paragraphs):
+                    # Don't print duplicate empty lines
+                    if len(chapter.lines) and chapter.lines[-1]:
+                        chapter.lines.append(line)
+                if in_footnote:
+                    in_footnote = False
             else:
                 match = FOOTNOTE_REGEX.search(line)
                 if match is not None:
                     chapter.lines.append("[^{}-{}]: {}".format(i, match.group(1), match.group(2)))
-                else:
+                    in_footnote = True
+                    in_authors_note = True
+                elif not (in_authors_note or skip_paragraphs) or in_footnote:
                     while "\\*" in line:
                         line = line.replace("\\*", "[^{}-{}]".format(i, next_note))
                         next_note += 1

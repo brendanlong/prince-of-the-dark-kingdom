@@ -353,34 +353,3 @@ You best bet is to adopt a cat, not a little boy.
 
 [^4-2]: That's no reason to gape, you codfish.
 
-Author's note: Many of the people who are in this first book of the
-series (yes, I intend to have a series with all seven years of Harry's
-life at Hogwarts, just like Rowling) will seem superfluous since they
-don't contribute to current plot much, but almost all of them with
-reappear in later books, including several of the orphans and Kyle and
-Robert (who does regret not adopting Harry when he had the chance). Have
-a bit of patience.
-
-Also, if Harry seems a little OC, well, he would be given the
-circumstance. Rowling's Harry was raised by the Dursley's since he was
-one, but my Harry lived with his parents in Germany until he was eight
-and then lost them. So I think of him having more self confidence having
-grown up with his loving parents, and he understands his circumstances
-with the Dursley's was abnormal and not himself. His view of the
-wizarding world at the moment is that his life is better than what it
-was at the Dursley's, but not as good as the life he had with his
-parents, so he might come off as a bit cynical at times and then
-completed enchanted at others.
-
-Please review, I will reply if you have questions (that don't reveal
-plot twists or future events in the story). Sorry, though, I don't take
-request in plot. I have a definite picture of how this story will flow
-and the events that transpire are all related so they cannot be altered.
-
-P.S. For those people whom it bothers, yes there will be some yaoi
-couples like Kyle and Robert occasionally (and some lesbians every so
-often as well), but nothing explicit and most of the characters in my
-story, including Harry, are straight. There's no male pregnancy anywhere
-in the series. And in case you're worried, Voldemort is still his
-delightfully evil (albeit mellower and much less deranged) self, without
-resorting to pedofilia.

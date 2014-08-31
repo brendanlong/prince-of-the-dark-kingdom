@@ -1484,8 +1484,6 @@ of Britain once and for all."
 Silence reigned for several minutes with the announcement of this
 singularly simple yet profound statement.
 
-Author's notes:
-
 [^131-1]: The Swadhisthana is 'the Sacral Chakra' point, which is located
 around the genitals. Harry thought this is where the curse would be
 concentrated because it is generally thought to be the area that

@@ -1945,9 +1945,3 @@ mommies and daddies taking care of them to make them come true.
 
 "It's your father…"
 
-\~ Author's note\~
-
-In the fifth HP movie, the Death Eaters transform themselves into smoky
-missiles and terrorized muggles and wizards alike. I thought this was a
-very cool concept, so I'm incorporating it here even though it wasn't
-described in canon. My theory is it some sort of self-transfiguration

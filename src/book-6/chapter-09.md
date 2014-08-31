@@ -1259,8 +1259,6 @@ him leave.
 
 "She miscarried," the man said finally, and turned away.
 
-\~ Author's Note\~
-
 [^119-1]: Mandalari's understanding of 'Old Ways' is rather ignorant, in
 addition to being religiously skewed. 'Old Ways' permeate even the most
 modern of magic, it is simply that most modern witches and wizards

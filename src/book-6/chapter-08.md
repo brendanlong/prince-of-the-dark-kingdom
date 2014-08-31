@@ -1275,13 +1275,3 @@ wash my hands of you."
 And with that, he stalked away, leaving the other sitting stupefied in
 the dirt.
 
-\~ Author's Notes\~
-
-In case you haven't figured it out, Ron did try to curse Lucius Malfoy,
-and he was unknowingly successful even though it blew up in his face.
-The curse does not act directly, it's much more subtle. It manipulates
-events around the victim so that they die, in this case it would appear
-my Tom's poisoning. No one is noticing, including the Dark Lord, because
-the curse won't let them. So no, Lord V is not just being stupid or
-unobservant, he's just not immune to the curse, especially when he
-doesn't know to look for it.

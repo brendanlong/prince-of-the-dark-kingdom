@@ -1494,27 +1494,3 @@ Ira just sniffled softly.
 once again. "I'll have to perform some tests, but I think I may just be
 able to help you."
 
-\~ Author's Notes\~
-
-Just for clarification, the Brass Culties are only attacking wizarding
-Berlin. I had Oblitz state that the British had taken about 90 square
-kilometers, which would be 2/3 of wizarding Berlin. All of Berlin
-combined is about 890 square kilometers. So wizarding Berlin is about
-1/8 the size of the entire city combined. If you're wondering what
-muggle Berlin is making of all that smoke coming out of seemingly
-nowhere, I'll get into that next chapter.
-
-Now, as a friend of mine pointed out, some people might think that
-witches and wizards ability to apparate would make the geographical
-aspect of the superfluous, but that just isn't the case. Apparating may
-make it simple for individual fighters to move around quickly, but when
-it comes to moving entire armies it can't be relied upon. You can only
-apparate to places you can picture in your head, and since the British
-are not familiar with any of Germany the geography makes a huge
-difference. Additionally, you also have to factor in the supplies you
-would have to take with you for occupying a territory. Food, equiment,
-weaponry, etc. Once a city is conquered, anti-apparition wards would be
-the first order of business as well.
-
-And yes, the prophecy exists in this story and has been effecting it
-from the beginning. Does it apply to Harry? Next chapter.

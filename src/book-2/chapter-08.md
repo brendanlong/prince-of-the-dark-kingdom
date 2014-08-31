@@ -581,11 +581,3 @@ looking dead boy they had ever seen.
 
 ---
 
-Author's Note:
-
-Court Sentinal: Sort of like the Russian KGB and an auror combined.
-Their job is basically to make sure that wizards and witches behave
-themselves, but their job has some sinister implications.
-
-Questions? Leave them in the review and I should get back to you in a
-day or two.

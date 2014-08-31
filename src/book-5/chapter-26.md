@@ -1486,32 +1486,3 @@ he was. His name…his name was…
 
 "Horace. My name's Horace."
 
-\~ Author's Notes\~
-
-Voldemort's pack name is 'God Eater', and that isn't just a symbolic
-reference. He really can, and has, eaten gods. Only minor ones, but
-enough to make his body almost indestructible. That's how he survived so
-easily after the Quidditch stands collapsed on him in Book III. Anyway,
-one of the problems with eating gods is you inherit their powers, but
-also their responsibilities. Voldemort honestly doesn't want to be
-responsible for the werewolves.
-
-This is Snape Speak for 'I can't imagine the world without him.'
-
-*Pitié-Salpêtrière Hospital*is a real teaching hospital in Paris,
-France. I couldn't think of a French sounding hospital that sounded very
-impressive so I stole this one and attached the French word for wizardry
-onto it. In my story, it is supposedly the best hospital in the
-wizarding world (think Mayo Clinic for you Americans out there), so
-naturally, Voldemort will take advantage of the Queen's hospitality to
-have Harry sent there for treatment.
-
-Basically, this is latin for ' a furious exhalation of magic from the
-body'. Oblitz essentially made himself into a magical bomb.
-
-And holy mackerel, there was a lot of fighting in this chapter. I don't
-think anyone except Viktor didn't get into a fight! Which pretty much
-means, the next chapter is going to be nothing but drama. Except that
-there was a bit of drama going on with Snape and his whole inner
-conflict thingy, so next chapter will have at least one fight. Just to
-keep things balanced.

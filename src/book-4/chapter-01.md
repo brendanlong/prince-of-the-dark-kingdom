@@ -950,8 +950,3 @@ rank, the more expensive their uniform fixtures.
 'judge' in a muggle court. 'Judge' is a high ranking Court official, in
 this case rather like an ambassador. German translation is Richter.
 
-And yes, I know this wasn't a very action packed chapter, but a little
-background in what's happening in Harry's life and in the world since
-school ended is necessary. Next chapter has more action in it, I
-promise. Voldemort and pagan rituals feature prominently, which I'm sure
-makes all of you quite happy.

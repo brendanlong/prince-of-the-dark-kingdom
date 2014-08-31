@@ -775,6 +775,3 @@ parts of the fruit.
 
 [^67-3]: McGonagall.... gargle gargle... :)
 
-Extra special thanks to Swanpride for her help with the German accents!
-Otherwise I would have insulted several countries in the course of
-writing this chapter. :)

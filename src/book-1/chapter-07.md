@@ -447,6 +447,3 @@ war."
 [^7-1]: You know, you are a snob? My adoption or lack of adoption is none of
 your damn business.
 
-Author's note: Yes, Harry finally learns his parents were wizards,
-maybe, sort of, assumes so! He'll learn more as he goes along. And so
-will you all. Sit back and enjoy.

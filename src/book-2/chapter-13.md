@@ -715,8 +715,3 @@ She gave him a confused look.
 
 ---
 
-Author's notes:
-
-For those who have forgotten; DA&D stands for 'Dark Arts & Defense'.
-It's like DADA, accept it includes actual Dark Arts in the curriculum,
-not just how to defend against it.

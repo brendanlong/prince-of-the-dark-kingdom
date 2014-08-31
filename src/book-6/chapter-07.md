@@ -1447,26 +1447,3 @@ He sighed. It might be doing McGunny some good living with Hagrid, but
 he couldn't help but wonder how long it would be before a moment of
 distraction eventually resulted in his guest burning down his hutt.
 
-\~ Author's Notes\~
-
-'Uncles' is a nickname for Sentinels. Like 'cops' or 'the fuzz'.
-
-Please don't rant at me about Voldemort being the person Harry's closest
-to in the entire world. Believe me, no one knows this better than me, I
-wrote their relationship for Pete's sake. This is just Ira's impression,
-and honestly, it's not that unreasonable. Snape has been with Harry
-since he first discovered he was a wizard and has practically raised him
-since then, albeit in a rather cool and calculated way. He's saved
-Harry's life on multiple occasions, given him meaningful advice, known
-and followed him through many of his adventures, and even shared a home
-with him. Their relationship isn't typical or easy, often it's
-antagonistic but they still have a strong bond that neither is entirely
-comfortable admitting to. Ira, who lives with them and observes the
-subtle fondness in their unique dynamic, can see it more readily than
-most. Voldemort, however, just freaks her out and Harry's relationship
-with him is just baffling (and probably unhealthy).
-
-Factoid. Fang is called a boarhound in the HP books, which is not a true
-breed but a term often used for Great Danes, but sometimes other large
-hunting breeds, including the Neopolitan Mastiff, which is the breed
-used in the HP movies.

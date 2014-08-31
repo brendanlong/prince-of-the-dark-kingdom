@@ -1778,9 +1778,3 @@ ones.
 
 And there was still so much that needed to be done.
 
-Author's Notes:
-
-There seems to be some confusion about the 'Epilogue'. This is NOT the
-end of the series, only the end of the Book VI. There's still the
-entirety of Book VII to get through, and that should tie up all the
-loose ends floating around.

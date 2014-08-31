@@ -1124,16 +1124,3 @@ curly lock of hair that had managed to escape the bridal weave.
 It occurred to him that he hadn't realized Snape was in love with her
 until now either.
 
-\~ Author's Notes\~
-
-The Hogwarts Express didn't stop at London, because obviously London in
-under attack. I hadn't forgotten about that. It stopped at Liverpool
-during this trip.
-
-Yes, wizards do imbibe both booze and drugs on inappropriate occasions,
-such as weddings. They wouldn't be human otherwise.
-
-I know I probably could have written three chapters just on the wedding
-and all the traditions and symbolism, but then someone would have to
-shoot me. I can only stand so much romantic fluff before my skin starts
-to crawl.

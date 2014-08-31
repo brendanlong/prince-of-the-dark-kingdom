@@ -901,28 +901,3 @@ The cat let out a distressed yowl.
 
 Then he closed his eyes and began to recite.
 
-\~ Author's Notes\~
-
-Amniotic fluid contains stem cells, which in case you didn't know, are
-cells that can divide to become differentiated cell types such as skin
-cells or blood cells or t cells or whatever. My thought here is that
-through magic, the stem cells in amniotic fluid would become egg cells
-and incorporate DNA from Ira's white blood cells in her blood to create
-viable Ira egg cell so she wouldn't have to get a donor egg and whatever
-child she has would genetically be hers as well as Snape's.
-
-Somehow I just don't see witches and wizards studying cellular biology.
-Spellwork and potions don't work on that finite a level, and most
-non-magical techniques would only be used if they were particularly
-obvious, such as checking the pulse with the fingers or checking eyes
-for dilation for diagnosis and rarely used for treatment except in
-emergency situations where the necessary potions or equipment might not
-be available.
-
-By classes, I mean the classes of animals according to Linnaeus's
-taxonomic classification. This includes mammals, birds, reptiles,
-amphibians, fish, insects, and invertebrates (not including insects).
-Orders of animals would be like canines (which include all dog-like
-species) or equines (which include all horse-like species)
-
-Tassomancy is the practice of reading tea leaves.

@@ -1019,11 +1019,6 @@ those particular memories of misery away.
 able to stay long. With Morgan and you in attendance, someone has to
 stay at the office and run the country."
 
-\~ Author's Notes\~
-
-Just a reminder, the Weasley twins were adopted by Clyde's grandparents,
-the Stone family. Clyde is technically their adoptive nephew.
-
 [^111-2]: Yes, this is Barty Crouch Jr., alive and kicking it with a nice
 position as Head of Court Foreign Intelligence. He's as crazy and loyal
 as ever, and he's Lucius' rival. If you're wondering why you haven't

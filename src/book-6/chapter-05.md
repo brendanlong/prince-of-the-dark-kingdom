@@ -1,12 +1,5 @@
 # Warfare
 
-Author's Note: Happy (slightly belated) Birthday Yamanana and many happy
-returns! I started writing this as soon as I posted chapter 4 and wanted
-to get it done on your B-day, but it turned into this gigantosaur of a
-chapter. I think you'll like it though.
-
-And Happy Labor Day to all my fellow yankees.
-
 Harry returned to the cottage early in the afternoon on the third day of
 his visit. He was tired and sore from the days spent working and
 studying (which included everything from his animagi lessons to archery
@@ -1538,8 +1531,6 @@ animals. Horace liked people more than animals, but lately he had been
 thinking about changing his mind.
 
 "Good, lad. Say, do you happen to like dragons?"
-
-\~ Author's Notes\~
 
 [^115-1]: Animancy is a completely made up branch of magic. It refers to the
 art of making non-living things behave like living things. Think of
