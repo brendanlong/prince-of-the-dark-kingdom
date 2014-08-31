@@ -26,7 +26,7 @@ clean:
 
 .PHONY: all clean ;
 
-$(BOOK_PREFIX)%.epub: src/book-%/title.txt src/book-%/cover.svg src/style.css
+$(BOOK_PREFIX)%.epub: src/book-%/title.txt src/book-%/cover.svg src/style.css src/credits.md
 	pandoc $(PANDOC_FLAGS) -o $@ $(subst src/book-$*/cover.svg src/style.css,,$^) \
 	    --epub-cover-image=src/book-$*/cover.svg
 
