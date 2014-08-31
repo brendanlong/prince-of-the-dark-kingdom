@@ -1091,14 +1091,9 @@ spectacle one way or the other.
 
 Hey, mushrooms!
 
----
-
-German translation: Krum's father: "You shouldn't go." Krum: "Don't
+[^64-1]: German translation: Krum's father: "You shouldn't go." Krum: "Don't
 worry, papa,..."
 
-French Translation: "***Would you relax?***", "***Don't you dare make
-fun of her!", "I'm sorry, I'm sorry!"***(Okay, the las part not so much,
+[^64-2]: French Translation: "Would you relax?", "Don't you dare make
+fun of her!", "I'm sorry, I'm sorry!" (Okay, the las part not so much,
 but basically the same thing)
-
-It's back to normal Friday updates after this, but I hoped you enjoyed
-the little change in pace.

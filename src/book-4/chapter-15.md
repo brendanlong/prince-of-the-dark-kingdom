@@ -929,13 +929,13 @@ Merlin, he was going to die from thinking too much.
 
 ---
 
-In case, you're wondering, Hermione can't kiss Viktor on the mouth due
+[^77-1]: In case, you're wondering, Hermione can't kiss Viktor on the mouth due
 to a Chastity Contract. Snape mentioned it before. If she did kiss
 Viktor, he'd have the rather unpleasant experience of a severe rash...
 on and in his mouth. It's a method to discourage rape as well as
 consensual infidelity and underage sex and 'snogging'.
 
-A wizarding world movie star, yes they have movies although not as
+[^77-2]: A wizarding world movie star, yes they have movies although not as
 prevalent as with muggles, who specializes in action films. Like Jet Li,
 Jean Claude Van Dame, or Arnold Schwarzenegger in the muggle world.
 Imagine any of these people playing in the Triwizard Tournament. I did

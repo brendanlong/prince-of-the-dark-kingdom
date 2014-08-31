@@ -901,20 +901,17 @@ smile of his very own to give back to her.
 
 ---
 
-Alright, as gay as that might sound, they're not really homosexual. I
+[^66-1]: Alright, as gay as that might sound, they're not really homosexual. I
 feel it important to reiterate it at this point, since it becomes
 significant later. While I don't have anything against homosexuality, I
 didn't see Rowling's Sirius and Remus as gay (indeed they showed a clear
 preference for women), and I don't see any justifiable reason for making
 them so just for this story. Even if they do make a delightful pair. :)
 
-Honey is an ancient form of antiseptic. When it ferments, it creates
+[^66-2]: Honey is an ancient form of antiseptic. When it ferments, it creates
 hydrogen peroxide, which stings like a bitch but is a magnificent
 disinfectant. Hurray for the History Channel!
 
-Real Gaelic words, but they don't mean much by themselves. Unless one of
+[^66-3]: Real Gaelic words, but they don't mean much by themselves. Unless one of
 my readers can actually speak Gaelic and offer up a niffty translation.
 That would be awesome.
-
-Harry and company return to Hogwarts next chapter! Plus, you'll all get
-to see the nifty side-effects associated with his new tattoo.

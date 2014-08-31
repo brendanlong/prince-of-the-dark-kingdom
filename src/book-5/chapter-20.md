@@ -486,7 +486,7 @@ He was handed off to a man and a woman, who took each arm and lead him
 into a steady stream of people. After a while the air cleared a little,
 and he tried to speak again.
 
-"What *ugh [^102-3]huck[^102-3]* w-what..?"
+"What *ugh \*huck\** w-what..?"
 
 "The Brits, they finally did it. They attacked! My god there were
 *children* in the crowd!"
@@ -518,14 +518,12 @@ the injured! Not… not…
 
 It wasn't himself he was worried about.
 
----
-
-1.I'm sure some of you forgot what '*primer pater'* means. In Latin, it
+[^102-1]: I'm sure some of you forgot what '*primer pater'* means. In Latin, it
 translates to 'first father', and it's a term used in wizarding society
 to refer the first wizard to appear with a particular last name. This is
 usually in relation to a long pureblood line, and is applied
 retro-actively. Snape, however, is banking on the possibility of having
 a strong pureblood line stretching out for generations.
 
-are not the only thing Harry draws in his sketchbook, but they are the
-only things he draws repeatedly.
+[^102-2]: Female students are not the only thing Harry draws in his sketchbook,
+but they are the only things he draws repeatedly.

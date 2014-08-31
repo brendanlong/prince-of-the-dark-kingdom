@@ -696,35 +696,6 @@ He beat his wings and took to the sky. There was somewhere he was
 supposed to be and since fate had proven kind so far, who was he to defy
 it?
 
----
-
-Before anyone suggests it, no Clyde does not have a crush on Harry. The
+[^62-1]: Before anyone suggests it, no Clyde does not have a crush on Harry. The
 twins don't either, even though they have fun pretending they do. They
 aren't actually gay.
-
-If you're confused about the Tom, Pettigrew, owl, cottage thing, here it
-is in summary. Tom was never really 'dead', his soul merely moved into a
-magical coin, which the Dark Lord gave to Pettigrew to keep safely
-hidden away in the little cottage with various other magical artifacts
-(he's a collector and has several such places, and he's assigned
-Pettigrew as janitor in one since he has nothing for the over grown
-rodent to do lately). Turnis, the owl, was given Harry's letter, and
-used the magic of Harry's *intent* (which is particularly strong due to
-his dalliance into Earth magic which owls' ability to find people is
-also based on) to find Tom rather than the name or address (that Snape
-used, not knowing that both were fake. Voldemort never told him the
-truth about Tom, remember?). Tom took possession of Turnis' body without
-Pettigrew knowing it and escaped. Clear?
-
-IMPORTANT NOTICE
-
-I'm behind on my writing. I usually have three chapters written at any
-given time, but now I don't even have one, so I'm taking a break to get
-these advance chapters written. I know you don't like it, but it's
-better than me missing a week after a cliff hanger or during the middle
-of some event in the story, and this is likely to happen. I've started a
-new job, am applying to graduate school, and it's the holidays. The
-graduate school application is actually why I've fallen so far behind.
-I've been scrambling to find recommendation letters and write my
-statement of purpose. Sigh. Please be patient. The story is going to get
-crazy fast in book IV.

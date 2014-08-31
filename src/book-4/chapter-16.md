@@ -1073,27 +1073,27 @@ tore him from the world into a dark and quiet place.
 
 ---
 
-Mid-term exams, include final exams for single semester courses such as
+[^78-1]: Mid-term exams, include final exams for single semester courses such as
 Europeon History of Magic, and also regular exams for two semester
 courses that always seem to have exams at that time. I hate those.
 
-Madris is not in fact a real goddess. I created her simply because I
+[^78-2]: Madris is not in fact a real goddess. I created her simply because I
 could not find 'real' deities that would fulfill the role I required. I
 am sort of going to tell you what she's goddess of and sort of not. I'd
 like to hear your theories on the matter. Cause I like all your guys'
 theories. It's fun to discover the different ways people think of a
 single situation.
 
-The 'Chalice and the Blade' are rip offs from The Di Vinci Code
+[^78-3]: The 'Chalice and the Blade' are rip offs from The Di Vinci Code
 representing womanhood and manhood, but it was such a damn good
 symbolism I stole it, and shamelessly, because I'm a fanfiction writer
 and that what we do. Mwa ha ha.
 
-Andraste and Toutatis are war gods. The Celts had many of them. Ogmios
+[^78-4]: Andraste and Toutatis are war gods. The Celts had many of them. Ogmios
 is the god of persuasive speech, the only I've heard of. It sort of
 suggests that Celts tended to fight rather arbitrate their disputes.
 
-A Goodfellow, such as Robin Goodfellow a.k.a Puck as seen in
+[^78-5]: A Goodfellow, such as Robin Goodfellow a.k.a Puck as seen in
 Shakespeare's Midsummer Night's Dream, are fairly harmless breed of
 satyr-like fae but take delight in scaring and tricking people. They're
 also commonly known for stealing babies to make into fairies and

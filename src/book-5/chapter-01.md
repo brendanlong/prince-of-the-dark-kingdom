@@ -845,5 +845,6 @@ somewhere safe."
 
 ---
 
-Vratsa Vultures is the Bulgarian pro quidditch team. Heidelberg Harriers
-are the German team.
+[^83-1]: Vratsa Vultures is the Bulgarian pro quidditch team.
+
+[^83-2]: Heidelberg Harriers are the German team.

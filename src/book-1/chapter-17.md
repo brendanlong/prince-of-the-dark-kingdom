@@ -565,7 +565,7 @@ not by the Dark Lord himself. Suddenly, he didn't want to know.
 "And miss the best part of the trial?" Voldemort asked, looking
 genuinely surprised.
 
-"Somehow I don't think it's going to be a PG-13 show."
+"Somehow I don't think it's going to be a PG-13 show."[^17-1]
 
 Lestrange and Snape didn't seem to understand the reference, but
 Voldemort smirked wickedly.
@@ -746,7 +746,7 @@ House's not being the least among them.
 unnoticed," the professor explained. "However, you will tell no one
 about them attempting to kill you or about the werewolves or Lupin's
 impromptu rescue. Instead, you will say you were 'confounded' and
-abandoned in muggle London. The Vanguard tracked you down yesterday
+abandoned in muggle London. The Vanguard[^17-2] tracked you down yesterday
 evening at British social services, completely unharmed, and you were
 detained at the Court for questioning and returned to Hogwarts this
 morning. Don't get clever. Keep everything as vague as you can, and let

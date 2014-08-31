@@ -153,7 +153,7 @@ itself.
 he could help his cousin, and certainly not without becoming the...
 *thing's* next victim. If that happened he certainly wasn't going to get
 any help from his cousin. Another part whispered that the disgusting
-little *Stück Abfall* deserved this. That he had *wanted* this to
+little *Stück Abfall*[^1-1] deserved this. That he had *wanted* this to
 happen. That he had *made* it happen.
 
 Oh God, he *had* made it happen.

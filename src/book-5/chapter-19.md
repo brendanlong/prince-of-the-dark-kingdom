@@ -850,6 +850,4 @@ socializing, and anything else that kept anything from getting done. He
 was barely out the door before three different conversations started at
 once, and was more than happy to leave the old goat to his pawns.
 
----
-
-Linz is the capitol of Upper Austria (*Oberösterreich*) in Austria.
+[^101-1]: Linz is the capitol of Upper Austria (*Oberösterreich*) in Austria.

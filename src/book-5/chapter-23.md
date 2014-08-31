@@ -1658,11 +1658,9 @@ parties that I will be indisposed for a while, but they should expect me
 at any moment. Also, extend my apologies to her Majesty for my hasty
 departure. Given the circumstances, I am certain she will understand."
 
-\~Author's Notes\~
-
-The Lorraine's Gate and the Stroudsburg Gate are the names of the
+[^105-1]: The Lorraine's Gate and the Stroudsburg Gate are the names of the
 English forts in France near the German border.
 
-Fortifyers are professional witches and wizards who install security and
+[^105-2]: Fortifyers are professional witches and wizards who install security and
 structural reinforcement to magical homes to protect them from thieves
 or those who wish the occupants harm.

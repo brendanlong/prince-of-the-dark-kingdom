@@ -350,14 +350,12 @@ that could take off its head. He had little time to gawk before he was
 handed a white lab coat and an identity badge by the receptionist. It
 read:
 
-Harry J. Potter
-
-Research Assistant
-
+Harry J. Potter \
+Research Assistant \
 Herpetology
 
 The very adult sounding title gave him a distinct thrill. The unfamiliar
-term 'herpetology' made him feel like an idiot.
+term 'herpetology'[^42-1] made him feel like an idiot.
 
 They took the stairs to the fourth floor, Meldwich rambling distractedly
 and in no particular order about each floor, it's departments, Lanthrope

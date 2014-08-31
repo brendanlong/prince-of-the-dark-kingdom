@@ -110,7 +110,7 @@ passing it, at which point you will assigned to a trade school of my
 choosing. So if you don't want to spend the rest of your life making
 candles and polishing broomsticks I recommend you pay attention."
 
-*Yes,* Harry thought,*that was definitely a good motivation to pay
+*Yes,* Harry thought, *that was definitely a good motivation to pay
 attention.* Inside, Harry despaired his future. How could he possible
 keep up with the others in this class, when they all had at *least*
 three years more experience with the wizarding world than him?
@@ -162,7 +162,7 @@ association? Reluctantly, he stood anyway and faced the class.
 be the first to point it out!" Mr. Timbal snapped, and the chalk on the
 board flew across the board, creating an ear-splitting screech. The
 entire class cringed and fell into dead silence, and Harry thanked god
-that it was not*his* error that had brought it on. "Now, shall we
+that it was not *his* error that had brought it on. "Now, shall we
 continue. You, sir."
 
 The black haired boy stood up, looking almost as timid as Harry felt.
@@ -226,13 +226,13 @@ eventually," Clyde protested. "Did you get sick or something?"
 "Clyde Houghton, really!" Hermione objected. "Could you be anymore
 rude?"
 
-"Oh, like Ms. Know-it-all isn't dying to *know it all*too!" remarked a
+"Oh, like Ms. Know-it-all isn't dying to *know it all* too!" remarked a
 blonde girl, smirking. Harry hoped they would start a fight and he would
 be forgotten, but he had no such luck. "So what's the deal? Sickness,
 runaway, reject? Come on, we'll find out sooner or later."
 
 Harry threw her a dark scowl. "Weißt du was, du Wichtigtuer. Ob ich
-adoptiert bin oder nicht, geht dich einen Sheißdreck an."
+adoptiert bin oder nicht, geht dich einen Sheißdreck an."[^7-1]
 
 The blond looked at him with some alarm. "Did you just put a curse on
 me?"
@@ -250,7 +250,7 @@ English name," griped Natalie.
 Harry said finally, realizing things could get out of hand if he didn't
 offer some answers. "I was only picked up by WYRA about a month ago."
 
-"You're kidding? Your *that*green and they still had you sent to
+"You're kidding? Your *that* green and they still had you sent to
 Hogwarts? How did you pull that off?"
 
 Harry shrugged and tried to focus on his sandwich.

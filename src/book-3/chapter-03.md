@@ -57,7 +57,7 @@ soon."
 
 "What?"
 
-"Luna's divinity is fleeting," Remus supplied, "Once she... ah, becomes
+"Luna's divinity is fleeting", Remus supplied, "Once she... ah, becomes
 a 'woman'. Then her body becomes her own to do what she will, and the
 goddess inhabiting her body will move on. Treat her like you would any
 other girl. I imagine that's all she wants. She wants a boy, who hasn't
@@ -246,14 +246,14 @@ bough of a willow... To the *sholuen sho* of the wind of the west..."
 It was slow and peaceful and so full of affection, and Luna felt herself
 giving as well as accepting it all for once.
 
-"And the *lullo-a-lo*of the soft sea-lil-low... Sleep, baby dear...
+"And the *lullo-a-lo* of the soft sea-lil-low... Sleep, baby dear...
 Sleep without fear... Mother is here, beside your pillow..."
 
 Athena stopped for a moment, undoubtedly surprised, but a moment later
 she joined in and they sang together.
 
 "Sleep, baby dear... Sleep without fear... Mother is here, beside your
-pillow..."
+pillow..."[^44-1]
 
 This was the happiest Luna had ever felt since she'd become a werewolf
 and a goddess. In fact, it was perhaps the *only* thing she had ever

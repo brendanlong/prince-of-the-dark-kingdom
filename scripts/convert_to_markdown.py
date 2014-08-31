@@ -139,11 +139,11 @@ if __name__ == "__main__":
                     in_authors_note = True
                 elif not (in_authors_note or skip_paragraphs) or in_footnote:
                     while "\\*" in line:
-                        line = line.replace("\\*", "[^{}-{}]".format(i, next_note))
+                        line = line.replace("\\*", "[^{}-{}]".format(i, next_note), 1)
                         next_note += 1
                     while "({})".format(next_note) in line:
                         line = line.replace("({})".format(next_note),
-                            "[^{}-{}]".format(i, next_note))
+                            "[^{}-{}]".format(i, next_note), 1)
                         next_note += 1
                     chapter.lines.append(line)
         chapters.append(chapter)

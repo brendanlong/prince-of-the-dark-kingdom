@@ -1227,9 +1227,7 @@ Bobby just laughed, and told him.
 
 "It's time to go home."
 
----
-
-BIN stands for Blood Identification Network. Works like a muggle DNA
+[^88-1]: BIN stands for Blood Identification Network. Works like a muggle DNA
 database. No machines involved, but a person does have to register with
 the Network to be quickly identified, and then additional information
 can be gathered such as medical records and emergency contact
@@ -1238,10 +1236,9 @@ this registration and Snape is no exception. There are other spells and
 potions that will identify a person using their blood or hair, but
 they're less reliable or take longer.
 
-In my universe, werewolves are technically a sort of fae. They are
+[^88-2]: In my universe, werewolves are technically a sort of fae. They are
 humans who are physically altered by a fairy curse, and as a result
 become 'pagan' not by choice but by the corruption of their spirit.
 Sirius told Harry that he and Remus will never go to heaven and so
 became pagans in a previous chapter, and this why.
 
-And yes, Harry and Voldemort reunite in the next chapter.

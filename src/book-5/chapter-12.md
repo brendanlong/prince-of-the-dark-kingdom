@@ -1336,7 +1336,7 @@ will inspire others schools to do the same."
 
 ---
 
-Benjamin and Bailey is a wizarding play, the plot premise being two
+[^94-1]: Benjamin and Bailey is a wizarding play, the plot premise being two
 wizards after the same witch. Benjamin is a wicked trickster, but
 appears good and kind because of his friendly and complimentary manner,
 and Bailey is good and honest, but comes off as cruel because of his
@@ -1345,21 +1345,6 @@ the local judge's daughter, Agatha, and each pursues her in their own
 way. It's a story about character vs appearances, and it's something of
 a dark comedy.
 
-A quick reminder. Raecellos is Bobby's patron god. It's why Bobby
-explores so much and knows all these secrete routes, so that he can lead
-travelers to safely or help them find a place or take a short cut.
-Raecellos is a god in Madris' court, but sometimes it's safer to ask for
-one favor per god than two favors of one god. Also, three is a sacred
-number, and Harry's repeated use of threes adds power to the spell.
-Raecellos is not one of Harry's patron gods, merely a god he is making
-use of at the moment. This may or may not change in the future.
-
-A herd of unicorns is apparently called a blessing. I honestly didn't
+[^94-2]: A herd of unicorns is apparently called a blessing. I honestly didn't
 know this until last week.
 
-Also, Tom's attack on the house did not occur on the same night of
-Harry's ritual and Snape's date, but about a later. The clues are timing
-clues are subtle so I thought I'd clarify for those who missed them.
-
-Also a reminder, Ginny's boyfriend is Gerald St. James, and she calls
-him Gerry.

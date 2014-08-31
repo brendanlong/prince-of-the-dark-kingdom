@@ -47,7 +47,7 @@ coming."
 
 Cowed, Harry looked away. "And what position is that?"
 
-"Don't play stupid boy. You might not have contracted Lycanthrosis, but
+"Don't play stupid boy. You might not have contracted Lycanthrosis[^22-1], but
 the Dark Lord and I *both* know you've been in contact with Black and
 Lupin."
 

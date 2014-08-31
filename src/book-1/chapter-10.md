@@ -207,7 +207,7 @@ to do with re-warding the castle."
 is a muggleborn, I think. German raised too. Go ahead, spout something
 off in German!"
 
-"Das ist kein Taschenspielertrick, du Idiot!" he said, rolling his eyes.
+"Das ist kein Taschenspielertrick, du Idiot!"[^10-1] he said, rolling his eyes.
 
 "Ooooohhhh..." the twins said in unison. "Brilliant!"
 
@@ -309,7 +309,7 @@ had taken the train after all.
 ---
 
 [^10-1]: 'It's not a parlor trick, you idiot!' Actually,
-'Traschenspielertrick' means prestidigitation, an uncommon word in
+'Taschenspielertrick' means prestidigitation, an uncommon word in
 America (can't speak for other English-speaking countries) but according
 to Ashere a fairly common word in German.
 

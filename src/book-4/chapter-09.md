@@ -998,7 +998,7 @@ detoured a little towards the back for safety, and continued up until it
 had reached the bass of the neck. Thick black hair, the perfect hiding
 place, beckoned across the last and most vulnerable stretch of skin. The
 neck was sensitive, and if the BUG didn't step lightly, it would find
-itself the same bloody smear Snape's BUG had become.
+itself the same bloody smear Snape's BUG had become.[^71-2]
 
 There was a moment of hesitation before it risked a rushed hop, and
 then... SAFE!
@@ -1010,8 +1010,6 @@ little pincers, knowing its prey would feel nothing, and swallowed down
 the first droplet of blood.
 
 And promptly dropped dead.
-
----
 
 [^71-1]: Failte, I have been informed. Is the actual Gaelic term for
 'welcome'. I will be going back and replacing Taigamid with this. Just

@@ -851,11 +851,9 @@ him as he re-entered.
 left the Tylenol by the sink, if you want any. Oh… and I want my stuff
 back."
 
----
-
-A Schulich is a German form of wizarding money. The equivalent is about
+[^87-1]: A Schulich is a German form of wizarding money. The equivalent is about
 \$50, so the reward is about \$75,000.
 
-For those who don't know the 'Chunnel' (Channel Tunnel) is a
+[^87-2]: For those who don't know the 'Chunnel' (Channel Tunnel) is a
 subterranean rail system under the English Channel between France and
 England.

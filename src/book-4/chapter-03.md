@@ -960,27 +960,27 @@ What the bloody hell had Potter gotten himself into now?
 
 ---
 
-For those who don't know what owl pellets are, they are essentially owl
+[^65-2]: For those who don't know what owl pellets are, they are essentially owl
 fur balls. Any bones, fur, feathers, or whatever that an owl can't
 digest, they upchuck. Science classes often use these 'pellets' to be
 dissected in class and the skeletons inside reassembled to identify what
 was eaten. We are a strange, strange society.
 
-Camphor and opoponex are real ingredients used in some incense and are
+[^65-3]: Camphor and opoponex are real ingredients used in some incense and are
 types of tree resin, though not native to Britain. I just love their
 names.
 
-I'm not just bullshitting here. Rowling really does state that wounds
+[^65-4]: I'm not just bullshitting here. Rowling really does state that wounds
 inflicted by werewolves are cursed and don't heal properly, even with
 magic. (Book 6, ch.27)
 
-Shaman and Druid Priest are titles, not indicators of Voldemort's
+[^65-5]: Shaman and Druid Priest are titles, not indicators of Voldemort's
 religion. He qualifies to be both, but isn't sole one or the other. Just
 like a doctor can also be a pilot and an investor at the same time. He's
 a pagan without a denomination, plucking out ideas and rituals that he
 likes and using them to suit his needs and philosophies.
 
-If this situation is starting to sound familiar, well it should. Harry's
+[^65-6]: If this situation is starting to sound familiar, well it should. Harry's
 essentially replicated the same sort of magic that would have saved
 Harry's life at the expense of Lily's, if the Potters had stayed in
 Britain. This 'Old Magic' is pagan magic at its purest and most powerful

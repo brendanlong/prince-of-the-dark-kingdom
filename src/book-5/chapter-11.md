@@ -1069,9 +1069,7 @@ to talk to her, and if she kept trying now she'd only drive him further
 away. She would try again later, after they both had time to cool down.
 After all, she was nothing if not persistent.
 
----
-
-Belfax Heating Potion- a tasteless and non-toxic potion. Adding it to
+[^93-1]: Belfax Heating Potion - a tasteless and non-toxic potion. Adding it to
 water can cause it to heat up. Can be used for cooking when a fire
 cannot be built, to keep beverages hot, or for heating bathwater for
 example. Belfax is the inventor of this particular potion. There are

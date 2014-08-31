@@ -54,7 +54,7 @@ is a result of what you've been shoving into it."
 something interesting to say by then," she said dismissively, taking a
 sip from her cup.
 
-"Et tu peux le tatouer sur ton cul cet été."
+"Et tu peux le tatouer sur ton cul cet été."[^70-1]
 
 Natalie choked on her tea.
 

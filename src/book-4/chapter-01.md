@@ -252,7 +252,7 @@ designated to supervise Britain's relationship with different parts of
 the world. Below ground all these buildings were connected, but only a
 handful of individuals had the security clearance to walk those
 conjoined halls. Harry had been through them once with the Dark Lord and
-the Judge of the Department of Germanic States, Isaac Drumm, on the
+the Judge[^63-2] of the Department of Germanic States, Isaac Drumm, on the
 first day he had been assigned to work there. He had never been below
 again, but he could recall his unease walking those quiet, empty halls
 and the sense that bad things happened behind the series of locked doors
@@ -946,7 +946,7 @@ And with Harry Potter.
 are made of brass, at least for the typical foot soldier. The higher the
 rank, the more expensive their uniform fixtures.
 
-[^63-2]: Also, note, 'Judge' in Voldemort's Court isn't the same thing as a
+[^63-2]: 'Judge' in Voldemort's Court isn't the same thing as a
 'judge' in a muggle court. 'Judge' is a high ranking Court official, in
 this case rather like an ambassador. German translation is Richter.
 

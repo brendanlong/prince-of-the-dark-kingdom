@@ -1,18 +1,5 @@
 # Ancient Rites
 
-PLEASE READ: The following scene contains depictions of Celtic paganism
-and some ideas anathema to Christianity. If you're a Christian who finds
-some of these ideas offensive or a pagan who is offended by
-inaccuracies, please don't take them personally. I'm only using the
-ideas presented as a fictional prop and not as a reflection of my
-personal belief or understanding of religious custom or ideology. So
-please, PLEASE don't leave Bible quotes or links to pagan sites or angry
-missives in the review box. It's just a story.
-
-Otherwise, I hope you all enjoy the chapter!
-
----
-
 "Alright, Draco, how do I look?"
 
 Hermione spun around, her pale blue and white lace dress spreading out
@@ -493,7 +480,7 @@ If this was meant to guilt trip him, they did a wonderful job.
 
 *Well, enough parental nagging, and on to the fun stuff. We hope you
 like your present. Before you go 'oh no, not clothes!', let me assure
-you it's**way**better than an ordinary cloak. Your father had an
+you it's **way** better than an ordinary cloak. Your father had an
 invisibility cloak once upon a time, but that's still locked away
 somewhere. So until you find that one, this one should make a suitable
 stand in. It won't make you invisible, but the fur belongs to a Baluvian
@@ -506,14 +493,12 @@ didn't celebrate Christmas per se, but there was some festivities
 surrounding the New Year. There were bon fires, Song Nights, Great Hunts
 (during which Sirius had killed the Baluvian bear), Athena and Greyback
 had their third son together (and he looked more like his mother thank
-Rhiannon), and end of the year maintenance they somehow managed to turn
+Rhiannon[^38-1]), and end of the year maintenance they somehow managed to turn
 into a competition and game (trying to thatch a roof while avoiding tar
 being thrown at you was apparently a sporting event). Harry found
 himself laughing at Sirius' descriptions and longing to be there with
 them to see it all. It all sounded very coarse and even a bit brutal,
-but there was a warmth and comradery
-
-in the undertones.
+but there was a warmth and comradery in the undertones.
 
 Feeling the beginning of melancholy set in, he quickly roused himself to
 do what he had been intending to do in the first place. He explored the
@@ -662,7 +647,7 @@ himself, to question the entire experience. Weakly, he sank to his knees
 inside the pentagram and power unfurled from the earth to hold him,
 gently, caressing, singing sweetly in tones of an ocean miles away.
 
-"I am... all that Theywould deem to make of me. Priest. Warrior. King.
+"I am... all that They would deem to make of me. Priest. Warrior. King.
 God. I am the anger of this scorned land, and I am its sorrow. I am one
 of the few of the Children of the Earth who have turned back to our
 Mother and said 'thank you for your gifts, how might they serve you?' Do

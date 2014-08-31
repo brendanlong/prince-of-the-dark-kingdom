@@ -5,7 +5,7 @@ young and old. There were many rooms dedicated to many different
 interests and hobbies and the grounds were similarly designed with these
 purposes in mind. The artificial river that ran through the western end
 of the estate accommodated fishing, boating, and various magical sports
-like *Kimshi[^60-1]*and water chess[^60-1] during the summer. When the water
+like *Kimshi[^60-1]* and water chess[^60-2] during the summer. When the water
 finally froze in late November, there were many other possible
 activities but Draco and Hermione liked ice skating the best.
 
@@ -904,30 +904,11 @@ compatible pairs."
 
 "Thank you, my Lord."
 
----
-
-Kimshi is an magical sport from the orient, rather like polo only you
+[^60-1]: Kimshi is an magical sport from the orient, rather like polo only you
 ride some sort of magical animal in the water instead of a horse on land
-and it's only played between two people. Water chess is a team sport
+and it's only played between two people.
+
+[^60-2]: Water chess is a team sport
 with positions, and is played on top of water and is rather too
 complicated to explain here, but if you're not careful you can drown
-playing it. :P
-
-IMPORTANT ANNOUNCEMENT!!!! TRANSLATORS NEEDED!
-
-Book III is coming to an end in a few weeks, and I am already starting
-on book IV of the series. There is quite a bit of German and some French
-in it, and since I'm able to speak either, I am looking for some help.
-Several people have offered to help and actively helped already, and I
-am hoping for continued assistance. Before anyone agrees to anything,
-they should be aware that I will require a lot more translation than I
-did in the previous chapters and must be able to commit their time and
-effort to it and be able to respond promptly when I submit text, since I
-can not progress in writing without certain parts translated first. If
-you are fluent in German or French (or both would be nice too) and
-English, and can translate quickly and consistently, creative in your
-translation (I know what sounds natural in English doesn't always sound
-natural in another language, and vice versa, so some tweaking is to be
-expected and appreciated) and are willing to help me I would be so
-grateful! In return, you will receive updated chapters as they are
-written rather than once a week and earn my eternal gratitude!
+playing it.

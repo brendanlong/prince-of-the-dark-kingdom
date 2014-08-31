@@ -34,7 +34,7 @@ it.
 She smiled sympathetically, taking his hand and holding it closer to his
 face. He was stunned to find it covered in tiny blue spots.
 
-"See for yourself. You, young man, seem to have contracted Blue Pox."
+"See for yourself. You, young man, seem to have contracted Blue Pox."[^35-1]
 
 "What? How could I have... I was vaccinated and quarantined! How could I
 have Blue Pox?"

@@ -704,11 +704,11 @@ about helping."
 
 ---
 
-Just to be absolutely clear, when Diana was killed, the demi-goddess
+[^100-1]: Just to be absolutely clear, when Diana was killed, the demi-goddess
 possessing her jumped from Diana's body to Jane's. The Canis family was
 with another pack at the time and were safe.
 
-Frankfurt is the banking capitol of wizarding Germany, and home to the
+[^100-2]: Frankfurt is the banking capitol of wizarding Germany, and home to the
 German main branch of Gringotts. Gringotts is an international chain,
 but its British Branch is completely cut off from its other branches due
 to complex spells and laws initiated by Voldemort, so funds can't be
@@ -717,6 +717,6 @@ London Branch after they fled the country, can't pick up those funds
 anywhere else in Europe. The Gringotts Goblins do, however, have means
 of communicating with one another.
 
-In case you're thinking, 'well, that's damn convenient', it isn't. That
+[^100-3]: In case you're thinking, 'well, that's damn convenient', it isn't. That
 'young beta' was Bobby looking after his 'familiar'. Why and how, I'll
 get into later.

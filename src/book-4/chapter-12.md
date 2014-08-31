@@ -1051,13 +1051,13 @@ might come in handy."
 
 ---
 
-Anglo-Saxon word for Valkyrie. Yes, I know Harry isn't a woman and
+[^74-1]: A real, fake creature. Like an American Jackalope. It's a running joke
+in places like Bavaria. Wikipedia it.
+
+[^74-2]: Anglo-Saxon word for Valkyrie. Yes, I know Harry isn't a woman and
 suggesting he'll *protect* a warrior from death is contradictory to the
 definition. Convincing Cedric of this despite the contradictions, is
 what Moon-crazy Harry finds so funny. And yes, Cedric would know what a
 Wælcyrie is, for the same reason everyone else knows about angels and
 Buddha and Hercules. It's just one of those cultural things that shows
 up in stories and historical references and such.
-
-A real, fake creature. Like an American Jackalope. It's a running joke
-in places like Bavaria. Wikipedia it.
