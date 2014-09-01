@@ -1005,7 +1005,7 @@ Lord Voldemort had run the War.
 
 "My Lord, I-"
 
-"*Crucio!"*
+"*Crucio!*"
 
 Amelon jumped up and out of his chair, stumbling back as the headmaster
 stiffened in his chair before falling to the floor and writhing in

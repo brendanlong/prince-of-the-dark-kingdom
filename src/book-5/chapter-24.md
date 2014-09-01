@@ -404,7 +404,7 @@ blank, struggling between the sudden recognition and the seeming
 impossibility of it. Luckily, his unconscious mind was ready for the
 unexpected, and he was casting a spell without thinking.
 
-*"Stupify*."
+"*Stupify*."
 
 The spell flew true, and the raven let out startled squawk before
 falling over, its black talons clawing at the air. Voldemort snatched
@@ -412,7 +412,7 @@ the bird up off the table, examining him from head to toe, before
 realizing he was being stupid. If this was indeed who he thought it was,
 his *physical* appearance wasn't going to be what gave him away.
 
-*"Rennervate*."
+"*Rennervate*."
 
 Immediately, the raven flailed and pecked and clawed at his hand,
 attempting to escape. Voldemort flinched as it drew blood, but didn't
@@ -629,7 +629,7 @@ into the tunnel.
 
 "*Incendio!*"
 
-"Shit! *Negatus incendius!"*
+"Shit! *Negatus incendius!*"
 
 Goethe and Ramone both just barely managed to get behind Tom's
 counterspell before the wall of fire swallowed them. The fire dissipated
@@ -651,7 +651,7 @@ ordered them quietly.
 "Split up and get ahead of them. Drive them into the Bone Well if you
 can, but whatever you do, keep them from reaching topside."
 
-*"Concido!*"
+"*Concido!*"
 
 The tunnel ahead of them collapsed, but Katarina merely smirked and
 turned down another tunnel with her minions. Gradually, they started to
@@ -686,7 +686,7 @@ searched for a way to one of the other tunnels.
 
 "A bridge! We need to make a bridge!" Engel snapped, pushing him aside
 and pointing his wand to the rubble down below. "*Pon constructio de os
-et later et mortarium!"*
+et later et mortarium!*"
 
 Beneath them the rubble started to move, rolling around and shaking
 itself loose from the muck, before pulling itself together into pillars
@@ -792,7 +792,7 @@ Harry's hand, for some sort of barely started homework and at the end of
 the spiral he set his toothbrush. He stood at a short distance from the
 edge of the spiral diagram. After that, the incantation was simple.
 
-*"Patronus de Harry James Potter, ego invito protego tuus dominus."*
+"*Patronus de Harry James Potter, ego invito protego tuus dominus.*"
 
 The end of his wand glowed white to the point of blinding and he looked
 away with the rest of them. When it faded to a tolerable level he turned
@@ -1146,7 +1146,7 @@ The priest's expression shifted from mild condescension to sympathy.
 body. I dare say he's proven almost as troublesome as you. He is leading
 a battalion of werewolves to Berlin as we speak."
 
-"*What?!"*
+"*What?!*"
 
 "You know, I'm never going to finish answering your questions if you
 keep throwing in new ones."

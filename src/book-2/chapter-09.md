@@ -91,7 +91,7 @@ crowd, knocking over half a dozen others. The space his fall left was
 soon filled with more students, and Harry panicked as he realized at
 least some of them *had* to be the older boy's friends.
 
-"*Contorno parete!"*
+"*Contorno parete!*"
 
 The crowd was suddenly forced back two feet from him in all directions,
 again causing several students to fall over. Through the chaos, the
@@ -413,18 +413,18 @@ Voldemort wouldn't let him discard them, forced him to recall and
 analyze the moment in excruciating detail.
 
 "It *got her. Got her, just like the other one.*It *got them both. Got
-the annoying one twice. Tee hee hee..."*
+the annoying one twice. Tee hee hee...*"
 
 A moment later
 
-"*...King will be so happy..."*
+"*...King will be so happy...*"
 
 An earlier memory forced it's way through, this time of Inana standing
 erect on the dueling platform her hood flared in anger, but her words
 calm.
 
 "*Princeling. King's little princeling... sweet tongued child... No, no,
-little princeling would not treat Inana this way."*
+little princeling would not treat Inana this way.*"
 
 Princeling... if Harry was the princeling, then the King would have to
 be-
@@ -512,11 +512,11 @@ already dangerous tone lethal.
 
 Tom glowered back at him.
 
-"*This is NOT my doing. I would never be so careless or obvious!"*
+"*This is NOT my doing. I would never be so careless or obvious!*"
 
 Voldemort sneered.
 
-"*And I suppose you were framed? By whom? Potter?"*
+"*And I suppose you were framed? By whom? Potter?*"
 
 "Of course not! No one knows who I am to bother with framing me. But you
 have the right idea. I think who ever did this is trying to frame

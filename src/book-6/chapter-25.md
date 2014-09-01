@@ -1186,8 +1186,9 @@ No one moved.
 The Sentinel turned to see Robert now standing behind him. Natalie's
 eyes widened and narrowed suspiciously in turn.
 
-"What's my name? What's *your* name?" the man said defensively. You
-tryin to interfere with a Sentinel doing his duty?"\
+"What's my name? What's *your* name?" the man said defensively. "You
+tryin to interfere with a Sentinel doing his duty?"
+
 "My name is Robert Reicher, professional lawyer, and if your duty is
 abusing school girls then I am afraid I must interfere. Now, what is
 your name and the name of your supervising officer?"

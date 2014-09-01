@@ -295,7 +295,7 @@ like a vulture just waiting for one of them to fall.
 
 "*Sanguis acus!*" he snarled, sweeping out his arm.
 
-"*Clipeus!"* Ron shouted, throwing up a shield charm. The charm blocked
+"*Clipeus!*" Ron shouted, throwing up a shield charm. The charm blocked
 the worst of the curse, but a few barbs still managed to penetrate,
 catching the redhead in the cheek, neck, and chest. He shrieked in
 surprised pain, and hastily tore out the sewing needle sized pins. The

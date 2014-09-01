@@ -534,15 +534,15 @@ He lingered by the door.
 Behind his desk, Voldemort regarded him with his usual amused
 expression.
 
-"*Tell me, Harry,"* he said, his voice serpentine, "*What do you think
-of being a wizard?"*
+"*Tell me, Harry,*" he said, his voice serpentine, "*What do you think
+of being a wizard?*"
 
 It wasn't a question Harry had been prepared for. The man may as well
 have asked him the meaning of life. But his mouth opened, and as usual,
 he spoke without thinking.
 
 "*I don't think about being a wizard anymore than I think about
-breathing,"* he said, and with a conscious effort, continued in English.
+breathing,*" he said, and with a conscious effort, continued in English.
 "I am what I am."
 
 The Dark Lord let out a soft laugh, and gestured for Harry to sit in one

@@ -99,7 +99,7 @@ and then to the wand resting in her lap. Her eyes settled on his face
 and did not waver or blink. She may as well have been the one sitting
 for the portrait. The tension in the room quickly became oppressive.
 
-"*Cccaaww!"*
+"*Cccaaww!*"
 
 Harry and the Queen both jumped at the unexpected cry of the raven.
 Fleur and Balthus had pulled their wands on instinct as well, but when
@@ -914,7 +914,7 @@ herself. No one else seems to notice.*
 He started to rise to his feet, to do what he wasn't certain, but the
 aged woman beat him to it.
 
-"*YOU MONSTER! I WON'T LET YOU TAKE HIM AWAY FROM ME!"* she screamed and
+"*YOU MONSTER! I WON'T LET YOU TAKE HIM AWAY FROM ME!*" she screamed and
 suddenly was flying, *literally* flying, across the room and towards the
 platform where the Dark Lord stood behind his podium. Something glinted
 in her right hand, sharp and metallic and pulsing magic in a sickly
@@ -1171,7 +1171,7 @@ What was it?
 
 A befuddlement charm?
 
-A bad hit of Wormwood snuff."
+A bad hit of Wormwood snuff.
 
 Imperius?
 
@@ -1428,7 +1428,7 @@ towards the parlor. It was empty inside. A stroke of luck it seemed.
 Grabbing a handful of floo powder from the mantel, she climbed into the
 fireplace and threw it down.
 
-"*Rue Gargouille!"*
+"*Rue Gargouille!*"
 
 Ten minutes later, she had made her way from the floo station in the
 little antique shop on Rue Gargouille two streets over and right back to

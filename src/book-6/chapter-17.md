@@ -408,7 +408,7 @@ distress expression and goblin's deepening scowls he was accomplishing
 his goal of throwing them all off balance.
 
 "*Lysak siri e ir nefrete,*" the elf said, as if trying to placate him,
-"*Usur-"*
+"*Usur-*"
 
 Voldemort had no idea what he just said. His Elvish was limited to the
 most basic of travel phrases and a few random pieces he had picked up
@@ -947,7 +947,7 @@ night. Just as he prepared himself to apparate directly ahead of them,
 Lucius suddenly grabbed Harry's arm and pulled him completely off the
 road.
 
-"What is he- *oomf."*
+"What is he- *oomf.*"
 
 He was thrown to the ground, the wind knocked out of him. Stunned, the
 first thought that crossed his mind was that he had been hit by a spell.
@@ -970,7 +970,7 @@ factoring in his supine position and dropping him several feet. This had
 the benefit of knocking of the dog who was even more surprised than he
 at the sudden displacement.
 
-"*Gylikitus."*
+"*Gylikitus.*"
 
 The dog yelped in surprise, then fell dead. Snape climbed to his feet
 cautiously, testing his weight on his injured leg. It hurt, but his

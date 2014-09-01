@@ -28,16 +28,16 @@ slithered out of it and into his welcoming arms, curling about his
 shoulders.
 
 "*Why mussst humansss be sssooo unpleasssant?* *You left me to take a
-nap, and I'm put in a jar. It'ssss*very*rude."*
+nap, and I'm put in a jar. It'ssss*very*rude.*"
 
 "*I'm sssorry, your majesssty. I'll will try my bessst to have you
-sssent home as sssoon asss possssible."*
+sssent home as sssoon asss possssible.*"
 
 "*You're welcome to join me, princeling. The other humansss don't ssseem
-to treat you any bettersss,"* she offered. Harry smiled.
+to treat you any bettersss,*" she offered. Harry smiled.
 
 "*Perhapsss when I am a bit older I will come to visssit you, my Queen.
-For now I have to deal with the rude people."*
+For now I have to deal with the rude people.*"
 
 He set her on the bed as he changed out of his hospital pajamas, and
 into a fresh set of clothes that had been placed on a chair by his bed.
@@ -407,7 +407,7 @@ her to visit him up in Gryffindor tower than it would him visiting her
 in the girl's lavatory. There was enough gossip flying around about him
 as it was.
 
-"*Stupid little girl..."*
+"*Stupid little girl...*"
 
 Ok, he wouldn't go *that* far. She was just...
 

@@ -569,7 +569,7 @@ some teachers."
 "That's why I can't leave Angelina alone. She's can't defend herself
 like this."
 
-"But *Harry!"*
+"But *Harry!*"
 
 "*Go!* The faster you get someone the better."
 

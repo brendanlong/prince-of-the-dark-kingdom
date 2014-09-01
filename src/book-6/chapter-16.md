@@ -1,6 +1,6 @@
 # Tales and Wings I
 
-"*Fikysher sisk."*
+"*Fikysher sisk.*"
 
 *Enerviate* had nothing on the spell that coursed through Harry, pulling
 him from the disjointed dreams he had presumed was his afterlife with
@@ -429,7 +429,7 @@ himself. It was a matter of self-preservation. I am sure he felt just
 Harry was starting to feel dizzy. Voldemort... had killed his own
 father? He had killed Carrigan? Had killed Harry himself in a past life?
 How was he supposed to feel about that? Should he feel anything at all?
-How could he be certain Gulandri was telling him the truth?"
+How could he be certain Gulandri was telling him the truth?
 
 "Why are you telling me this?"
 
@@ -1649,9 +1649,9 @@ She stroked the falcon's feathers admiringly, hissing softly in her
 native tongue.
 
 "*I hope this kindness will instill some genuine affection in place of
-faerie charms and trickery."* she said, and Harry bobbed his head
+faerie charms and trickery.*" she said, and Harry bobbed his head
 eagerly, making her smile. "*One day I will come for that kiss you
-denied. Will you give it to me then?"*
+denied. Will you give it to me then?*"
 
 Harry tilted his head in a birdy curiosity or possible consideration,
 but after a moment bobbed again with a touch more solemnity. Her smile

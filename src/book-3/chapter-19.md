@@ -196,7 +196,7 @@ stairs, convincing them that they were all going to die. Sirius pulled
 Harry underneath him and pulled Remus close, huddling them all together
 tightly as the world came apart around them in a deafening roar. Crushed
 between them, Harry closed his eyes tight and whispered over and over
-again, "*Protect us, protect us, protect us..."*
+again, "*Protect us, protect us, protect us...*"
 
 It felt like eternity, but could only have lasted a few seconds, and as
 the world stopped shaking and thundering around them they were still
@@ -358,7 +358,7 @@ Below them Moody was shaking too, but he didn't look anywhere near ready
 to give up. In fact, he only looked more and more excited, licking his
 lips and shifting about. Harry buried his face into Sirius' shoulder.
 
-"I"m so sorry. This is all my fault. You shouldn't have to die here. I'm
+"I'm so sorry. This is all my fault. You shouldn't have to die here. I'm
 sorry. I'm sorry."
 
 "Hush, Prongslet," Sirius said. "We've no regrets."

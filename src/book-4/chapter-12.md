@@ -137,7 +137,7 @@ and the forest, not the dragon itself. Just so everyone understands what
 is going to happen, I am going to go over it with you," she said, and
 turned to the announcement to read.
 
-'To win the challenge, a champion must locate the sleeping dragon, slay
+"To win the challenge, a champion must locate the sleeping dragon, slay
 it, and return to the castle with some part of the dragon as proof. The
 dragon is located within the Forbidden Forest. A ten square mile area
 has been blocked off with a special ward that will prevent anyone except
@@ -148,28 +148,28 @@ she had their full attention.
 
 "Now, here are the rules, which I expect *all* of you to respect.'
 
-'Rule \#1, only a school champion may hold in their possession a
+"Rule \#1, only a school champion may hold in their possession a
 champion's badge. They can not be given or lent to another person, for
 any reason. Anyone found in possession of a champion's badge, and not
 themselves a champion, will be severely punished, regardless of age,
-rank, or station.'
+rank, or station."
 
-'Rule \#2, there is no time limit to the challenge, and a champion may
+"Rule \#2, there is no time limit to the challenge, and a champion may
 spend unrestricted time searching within the Forbidden Forest, including
 after hours and during classes. However, if not within the Forbidden
 Forest, champions are expected to attend classes and keep curfew, and
-any missed classes can only be made up on their teacher's discretion.'
+any missed classes can only be made up on their teacher's discretion."
 
-'Rule \#3, a champion may make use of any items within the school to aid
+"Rule \#3, a champion may make use of any items within the school to aid
 them in their quest, including library books, weaponry, brooms, food,
 etc, but may not accept gifts from other students, teachers, or outside
 sources. A champion cannot purchase or send for additional resources to
 aid in the challenge, with the exception of nonmagical clothing. A
 champion caught breaking this rule will be withheld from searching for
 three days for each offense and suspended from the challenge after three
-offenses. The second party will face severe punishment.'
+offenses. The second party will face severe punishment."
 
-'Now, any questions?"
+"Now, any questions?"
 
 Several hands shot up, including Harry's. Toure pointed towards him
 first.

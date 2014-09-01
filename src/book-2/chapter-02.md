@@ -190,7 +190,7 @@ the land no matter what, so I thought I'd just lay another one, but the
 man became agitated and demanded I pick up the fallen post and lay
 *that* one. I got frightened, and I started to walk away.'
 
-'He followed me. He kept yelling at me to pick up the post. Over and
+"He followed me. He kept yelling at me to pick up the post. Over and
 over he kept yelling that. I started to run. He chased me. He caught my
 cloak, and jerked me onto his side of the property. I slipped out of my
 cloak and started running again. I tried to grab hold of my emergency

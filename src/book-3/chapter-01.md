@@ -118,7 +118,7 @@ This clearly wasn't the right thing to say for Snape's expression turned
 from suspicious to down right livid.
 
 "This," he hissed, pointing to Harry as if he were a malfunctioning
-house elf, " is not my son."
+house elf, "is not my son."
 
 She looked flustered and a bit confused. After her absurd suggestion
 that he was related to Snape, Harry didn't feel the least bit

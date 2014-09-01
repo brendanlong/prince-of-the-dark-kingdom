@@ -386,7 +386,7 @@ The door opened in front of him.
 from the doorway.
 
 "Ah..." Well, he might as well just ask him for directions and then
-leave him be. "I... I"m sorry to disturb you, but I'm afraid I've gotten
+leave him be. "I... I'm sorry to disturb you, but I'm afraid I've gotten
 lost. You wouldn't happen to know where Walburton Square is?"
 
 Robert blinked, then nodded. "Yes, I know where that is. Come inside,

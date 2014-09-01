@@ -358,7 +358,7 @@ can't help but wonder what would have happened if I hadn't been more
 like my sister. If I hadn't accepted what others told me were my
 limits.'
 
-'I know it may sound too Gryffindor for your tastes, but I don't think
+"I know it may sound too Gryffindor for your tastes, but I don't think
 you should give up on Ira. You're a fighter, Severus, you always have
 been. If you truly know what you want, than do what you have to to get
 it. Experiment, question, argue, curse someone if you have to, but don't
@@ -755,7 +755,7 @@ contradict him. The Head Alpha wisely did not.
 
 Voldmort opened his mouth to argue.
 
-"*NONNEGOTIABLE!"*
+"*NONNEGOTIABLE!*"
 
 The Dark Lord quickly shut it.
 
@@ -824,7 +824,7 @@ broke out, "I believe it is time for a change in regime. What ever Ivers
 faults, I do believe he'll try to do what is best for his country. That
 is something I can work with.'
 
-'Viktor, I want you in Berlin during the election, rallying for Ivers.
+"Viktor, I want you in Berlin during the election, rallying for Ivers.
 You might not be able to vote yourself, but your presence may be what is
 needed to convince the public that Ivers won't simply pander to the Dark
 Lord whims. Fredricks, I want you to do what you can from within the

@@ -486,7 +486,7 @@ and narrow. No more detentions for me. We'll win the Cup again for
 sure."
 
 "No! Say it isn't so!" Fred cried, rushing from his shower with only a
-towel on, still covered in suds. "Our Lord of Chaos can't *retire!"*
+towel on, still covered in suds. "Our Lord of Chaos can't *retire!*"
 
 "What's going on, Fred?" George asked, wandering over damp and still
 shirtless from his shower.
@@ -788,13 +788,13 @@ importantly he taught Harry several spells that allowed him to protect
 himself. Besides, he has the most experience in dealing with him, and I
 trust his judgement."
 
-"*You should have let him stay with me."*
+"*You should have let him stay with me.*"
 
 Voldemort laughed, loud and mocking.
 
 "With you? Oh, Tom I'm afraid that's impossible."
 
-"*Why? Who would question it?"*
+"*Why? Who would question it?*"
 
 Voldemort smirked and stood, walking up to his younger counterpart. The
 boy took a surprised step back. They never touched, never got close

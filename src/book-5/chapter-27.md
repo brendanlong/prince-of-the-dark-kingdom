@@ -100,7 +100,7 @@ dying… dying all over again…
 trying to anchor him, bring him back to himself, but he couldn't breath.
 He was coughing and gasping, but there wasn't anything but water and the
 agony in his body as he struggled against it. Snape was shouting again,
-but it wasn't at him. "NURSE! NURSE! GET A MEDI-WIZARD!*"*
+but it wasn't at him. "NURSE! NURSE! GET A MEDI-WIZARD!"
 
 The potions master pulled away, but his hands were immediately replaced
 by a dozen others, holding him down and pulling open his clothes and his
@@ -228,14 +228,14 @@ his nose.
 "You keep your *filthy* hands away from my sister, you third class piece
 of trash," Draco snarled.
 
-*"Draco!"* his sister snapped, too horrified and shocked to say anything
+"*Draco!*" his sister snapped, too horrified and shocked to say anything
 else.
 
 Ron looked down at his hand, a trickle of blood smeared across this
 fingers and then up at the Malfoy heir. Draco couldn't read his
 expression. If he had been able to, he might have been able to dodge.
 
-*"Pertundo!*"
+"*Pertundo!*"
 
 The Punching Hex sent Draco flying backwards into a suit of armor,
 knocking it over, filling the entire hall with a deafening racket.
@@ -732,7 +732,7 @@ Draco, very slowly, nodded. His father sneered.
 Hermione jumped from her chair and whirled on him, her face contorted
 with absolute hatred and her eyes brimming with tears.
 
-"*Drop dead!"*
+"*Drop dead!*"
 
 Magic smashed into him, throwing him backwards from his chair and in an
 undignified heap on the floor. His wife let out a startled cry and

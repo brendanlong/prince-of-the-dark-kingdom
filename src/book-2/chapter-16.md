@@ -600,14 +600,14 @@ Voldemort snorted. He found himself a chair and slid into it, regarding
 Harry thoughtfully.
 
 "*You are more than a mere orphan, Harry. You are my protégé*,"he
-hissed. *"You will dress to a standard*I*find befitting."*
+hissed. "*You will dress to a standard*I*find befitting.*"
 
 Protégé. Draco had called him that once. Natalie had tossed it around
 like flower petals. A few students had murmured it in the halls of
 Hogwarts. But Hermione had never said it. Snape had never said it. He
 had trusted that they would tell him if it were true.
 
-"*Why? I'm nothing but a trouble-maker."*
+"*Why? I'm nothing but a trouble-maker.*"
 
 Voldemort smiled, a sort of fondness in his expression he'd never seen
 before. It looked familiar somehow.
@@ -615,12 +615,12 @@ before. It looked familiar somehow.
 "*We are two of a kind, Harry. Parselmouths, orphans, and brother wands
 make up only a small fraction of what we have in common. Even our
 differences strengthen us. We can do great things together. We*will*do
-great things together."*
+great things together.*"
 
 Uh-oh, might have frightened the boy that time, if the sudden shift from
 pink to white was any indicator.
 
-"*Even if you are skinny and have silly hair."*
+"*Even if you are skinny and have silly hair.*"
 
 Oh good, the pink was back.
 

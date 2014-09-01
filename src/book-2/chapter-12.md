@@ -1,6 +1,6 @@
 # The Hunt
 
-"*Expelliarmus!"*
+"*Expelliarmus!*"
 
 "*Refutia!*Knock it off, Weasley. You're going to hit Angelina!" Harry
 snapped, after fending off the third disarming spell Ron had thrown at

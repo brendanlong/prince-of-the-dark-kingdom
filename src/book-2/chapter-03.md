@@ -127,7 +127,7 @@ so he went back to the letter.
 
 *I apologize in advance for the deception. Smuggling letters, let alone
 packages, from outside of Britian is a tricky business these days, but I
-think this worth the risk."*
+think this worth the risk.*
 
 Uh-oh. At this point, Harry knew he should stop reading and hand
 everything over to the proper authorities. He was in enough trouble as

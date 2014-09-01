@@ -40,7 +40,7 @@ second strike. The Dark Lord turned his wand to them, sparing them only
 enough attention as he dared in order to destroy them before they became
 a nuisance.
 
-"*Desuri flueh hey miasfithr. Suris fumatis sati'e ei'et."* Gulandri's
+"*Desuri flueh hey miasfithr. Suris fumatis sati'e ei'et.*" Gulandri's
 voice sounded from the concealing cloud, drawing back his opponent's
 attention. The voice was soon joined by a silhouette, and then by the
 man himself. The elven king was coated in a fine layer of dust and his
@@ -546,7 +546,7 @@ labored, filling his lungs with blood rapidly.
 "I *know*, Potter! *Purus pulmo!*" And then he could breathe again,
 painfully but easily. "*Corsigno*!" His heart stopped completely for a
 moment then resumed, this time without the tearing sensation of before.
-" *Sisto sanguis.*That should stop the worst of the bleeding for now."
+"*Sisto sanguis.* That should stop the worst of the bleeding for now."
 
 "Professor, his arm. He's been bitten by a naga."
 
@@ -650,7 +650,7 @@ eventually," he said, as if explaining something to an imbecile. Harry's
 clever reply was to ignore him completely, which was more insulting than
 any retort he could have thought up.
 
-"*Expecto patronum."*
+"*Expecto patronum.*"
 
 His patronus appeared, its ghostly visage even more eery in the
 surrounding devastation. It regarded him with some curiosity, as if

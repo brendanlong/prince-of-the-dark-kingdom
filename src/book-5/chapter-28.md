@@ -150,7 +150,7 @@ difficult by the second as he struggled to lift himself higher in the
 man's grasp.
 
 "*Ssshhh…be still. I'm here. I have ssstolen you from the jaws of death
-more than once, remember?"*he hissed in parseltongue, and with it the
+more than once, remember?*" he hissed in parseltongue, and with it the
 sensation of the Dark Lord's magic. Harry immediately felt himself go
 limp, sinking into it, felt it cradle him in coils that could crush a
 man. With out realizing it, he had closed his eyes, and when he opened
@@ -162,11 +162,11 @@ eyes.
 
 "*Cheater*."
 
-"*And completely unrepentant. Are you ssstill afraid?"*
+"*And completely unrepentant. Are you ssstill afraid?*"
 
-"*Don't let me go."*
+"*Don't let me go.*"
 
-"*Never."*
+"*Never.*"
 
 Harry shivered at the layers of meaning behind that simple word, despite
 the warmth of the water. The pain in his body was starting to retreat,
@@ -176,7 +176,7 @@ aloft he was able to forget for a moment how utterly vulnerable he was.
 
 "*Tell me what you sssaw when Greyback took your body. You told Sssnape
 that you had no memory of what he did, which meanss he musst have ssent
-you sssomewhere."*
+you sssomewhere.*"
 
 Harry wondered why the man wanted to know. Simple curiosity? Did it
 matter? He didn't dare lie in his current position. So he told him about
@@ -184,26 +184,26 @@ the spirit realm, about the silence and the seasons that changed
 according to distance, about the creek and the lake, and about the mist
 and the monsters. He told him about the guide he had met, but not his
 name and the Dark Lord did not bother to ask. He did look rather
-thoughtful though. Once Harry had finished, he spoke again."
+thoughtful though. Once Harry had finished, he spoke again.
 
 "*I have read of ssuch placess, but I have never ssseen mine. It may be
-that I do not have one. Quite fasscinating, really."*
+that I do not have one. Quite fasscinating, really.*"
 
-"*What do you mean, 'seen yoursss'? You have your own limbo?"*
+"*What do you mean, 'seen yoursss'? You have your own limbo?*"
 
 Voldemort smirked.
 
 "*Maybe. Mosst humanss do. The particular realm you walked in wasss your
 own private sssoul ssspace. Everyone'ss isss different. Everything in it
 iss sssymbolic, from the sssky to the lake to your guide. They all had
-personal meaningsss to you. Like a dream."*
+personal meaningsss to you. Like a dream.*"
 
 Harry frowned.
 
-"*The monstersss…"*
+"*The monstersss…*"
 
 "*Greyback'sss. Hisss possession of your body gave him enough accesss to
-your sssoul to plant trapsss."*
+your sssoul to plant trapsss.*"
 
 Then what about Carrigan, Harry wondered. He couldn't imagine the man
 being a trap or one of Greyback's creations. Could he have been a
@@ -226,8 +226,8 @@ something more intimately intertwined with Voldemort's past than his
 own? How would the spirit have gotten into his 'soul space' if what his
 mentor said was true?
 
-"*It'sss time to get out,"* the Dark Lord said, pulling him from his
-thoughts. "*You're ssstarting to prune."*
+"*It'sss time to get out,*" the Dark Lord said, pulling him from his
+thoughts. "*You're ssstarting to prune.*"
 
 Harry blinked, then nodded. Slowly, he dropped his legs and placed them
 underneath him. He stood and found the water only reached his naval. His

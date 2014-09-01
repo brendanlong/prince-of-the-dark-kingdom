@@ -793,7 +793,7 @@ marvelous? No, Sirius. No freak'n way."
 
 "Sit down, Harry," Sirius said calmly, as if he was being the rational
 one in this situation. The young wizard crossed his arms and glared at
-him stubbornly. Sirius' eyes hardened at his defiance. "*Sit."*
+him stubbornly. Sirius' eyes hardened at his defiance. "*Sit.*"
 
 And Harry immediately did, stiffly, and some distance away from the
 alpha. Sirius closed his eyes and sighed.

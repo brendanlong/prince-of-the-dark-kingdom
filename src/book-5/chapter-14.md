@@ -990,7 +990,7 @@ grabbed Harry, and made a run for it.
 
 ---
 
-*"Hasta sangius!*"
+"*Hasta sangius!*"
 
 Lucius smiled in grim satisfaction at the scream the signified his aim
 had been true, and watched as the cloaked figure plummeted two hundred

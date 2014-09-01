@@ -123,7 +123,7 @@ strangers or accepting gifts from people you don't know, and you'll
 probably be fine. Probably."
 
 His last words held a touch of his old humor. The raven made a little
-hop and glided away with a cheerful '*wwweee!!!"* Harry shook his head
+hop and glided away with a cheerful "*wwweee!!!*" Harry shook his head
 and watched as his friend disappeared into the Forbidden Forest.
 
 Yet another things to worry about on top of everything else.

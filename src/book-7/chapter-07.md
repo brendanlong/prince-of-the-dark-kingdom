@@ -316,8 +316,8 @@ disbelief.
 "Horace McGunny?" she whispered and slowly moved away to collapse into
 the chair Ira had been sitting in.
 
-"Minvera, what is it? You know this person? Oh for the love of…!
-*Finitum incantatem"*'
+"Minvera, what is it? You know this person? Oh for the love of…
+*Finitum incantatem*!"
 
 Ron, who had still been searching his pockets for a weapon, leaped back
 and drew his wand as if expecting the now free McGunny to fly out at
@@ -1459,7 +1459,7 @@ But apparently, she was willing to settle for a murder.
 "*Harry!*" Vicki cried, and he swung around. Amsel had pulled her wand,
 a curse already on her lips.
 
-"*Selitus!"*
+"*Selitus!*"
 
 His wand was in his hand in an instant, but it was already too late. If
 it had been pointed at him, he would have been forced to dodge it, but
@@ -1477,7 +1477,7 @@ He sucked in a shaking breath. It was a mortal wound.
 
 He pressed his wand to her chest.
 
-"*Corpusalitaris!"* he cast. His magic poured into the wand and from the
+"*Corpusalitaris!*" he cast. His magic poured into the wand and from the
 wand into the wound, but no sooner than it seemed to close than it
 hesitated and fell back open. Vicki wheezed painfully, her left hand
 twitched and grasped at the air. In her right hand was a wand he had

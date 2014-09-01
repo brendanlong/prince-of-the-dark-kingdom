@@ -279,7 +279,7 @@ released Harry and followed suit, Larousse right behind him. Harry
 stayed where he was, unsure if his presence would be needed or welcomed
 at the moment, but close enough to hear most of what was said.
 
-""Bella, I want you and Larousse to go ahead to the school and check for
+"Bella, I want you and Larousse to go ahead to the school and check for
 any curses or traps that may have been laid. I doubt anyone could get
 passed the castle's defenses, but I don't want to take any chances.
 Severus, I want you and the rest of the Hogwarts' staff to gather up the

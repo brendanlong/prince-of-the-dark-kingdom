@@ -35,7 +35,7 @@ I might be of use to you? An experienced soldier should not be wasted."
 
 Snape glared at her. He suspected if she got her way she would make
 herself a nuisance to him at every opportunity. "Madam, you don't even
-know what is going on," he pointed out."
+know what is going on," he pointed out.
 
 She smirked at him.
 

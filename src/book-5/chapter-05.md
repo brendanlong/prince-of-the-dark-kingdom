@@ -820,7 +820,7 @@ smashed into his face.
 
 "*Expelliarmus!*" The wand of Crooked Nose flew into his hand, and
 knocked the man into the wall. With his newly acquired wand, he swept it
-towards Stephen. "*Rennervate."*
+towards Stephen. "*Rennervate.*"
 
 The man was on his feet just as quickly as Harry had been, and he went
 immediately for the first Auror who had been tending Harry, just

@@ -397,7 +397,7 @@ seeking shelter.
 
 Harry held out his arms to it.
 
-" Tagaimid."
+"Tagaimid."
 
 ---
 

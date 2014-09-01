@@ -481,7 +481,7 @@ glowed darkest red as it hurtled toward Greyback, who cast a simple
 each other, hissed like water thrown in boiling grease and dissolved
 each other.
 
-"*Expelliarmus!"*Greyback countered, not expecting anything to come of
+"*Expelliarmus!*"Greyback countered, not expecting anything to come of
 it, but using the time Oblitz spent blocking it to further close the
 distance between them. He had no intention of ending this with magic.
 When he killed the wizard it was going to be with bare hands and bare
@@ -528,7 +528,7 @@ injuries. There was no pain from the curse he had received or the
 resulting injury, but he had heard a disconcerting *pop*, and touching
 side revealed it was now gushing blood.
 
-"*Sanguis restrictus,"* he growled. The bleeding instantly stopped, but
+"*Sanguis restrictus,*" he growled. The bleeding instantly stopped, but
 the countercurse was ironically more painful than the curse itself. He
 grunted, ignoring the pain as turned back to his prey to finish it.
 Continuing the fight any longer on this plane was likely to destroy this
@@ -754,7 +754,7 @@ come down due to the explosion, and a broken pipe was pouring a steady
 waterfall over a pile of rubble almost as tall as he was. Could someone
 be alive under there? Impossible.
 
-"He..ahh..help!....*HELP!"*
+"He..ahh..help!....*HELP!*"
 
 There was no mistaking the voice now, not even with it so distorted with
 pain. He moved closer to the pile of broken bricks and mud, scanning it
@@ -1340,7 +1340,7 @@ despite what everyone said, but anything over twenty feet was likely to
 kill you. As this wasn't even his body, he wasn't overly concerned. He
 laughed darkly. Things just weren't going as planned these days.
 
-"*Incendio."*
+"*Incendio.*"
 
 It was a simple spell that required little magic to do, but once it got
 started it could turn into a real monster. Within moments the front door
@@ -1377,7 +1377,7 @@ inside, there came a terrified shriek.
 
 "Bloody hell! Who's in there?!" the soldier shouted. "Goddamn, saboteur!
 Thought we would be too stupid to figure it out what you was up to?
-*Caedo corpus!"*
+*Caedo corpus!*"
 
 Tom tried to leap out of the way, but he was already exhausted, and
 caught the Cutting curse in the back. There was a moment of

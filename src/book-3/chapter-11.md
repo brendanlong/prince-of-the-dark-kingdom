@@ -213,7 +213,7 @@ from across the sea. He's just a child. Without family to look after him
 he is vulnerable to manipulations from others, particularly for someone
 as skilled at manipulating as Voldemort.'
 
-'But I have hope for him. His parents were very good people, I knew them
+"But I have hope for him. His parents were very good people, I knew them
 well, and as he was sorted into Gryffindor I would say he is inclined to
 resist corruption where he sees it. It's a gamble, but even so that boy
 cannot remain in Britain. He's already being used shamelessly to gain
@@ -611,7 +611,7 @@ paper's worth to begin with!"
 
 "It's a Hogsmeade weekend! I've got Christmas shopping to do!"
 
-"Why don't we just drag Potter in here and get the interview *now?"*
+"Why don't we just drag Potter in here and get the interview *now?*"
 
 "But what about my interviews?"
 

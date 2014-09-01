@@ -680,7 +680,7 @@ he seized her by the arm and pulled her over and on top of him. The two
 standing Death Eaters jumped back and pointed their wands, but their
 compatriot was now a living shield atop him. They hesitated.
 
-"*Avada kedavra!"* he snarled, pointing the woman's wand at the man. The
+"*Avada kedavra!*" he snarled, pointing the woman's wand at the man. The
 curse erupted from the wand, reluctant and confused, but still deadly.
 The first Death Eater dropped. The second overcame his reluctance and
 fired off a Cutting Curse. The woman screamed in agony, and Amelon felt
@@ -1925,7 +1925,7 @@ roar of his own breathing in his ears. Amsel's wand flew up, hurling her
 first spell towards him. He didn't recognize the words, but he was
 already throwing out his own spell before she finished.
 
-"*Ductimio![^147-1]"*
+"*Ductimio![^147-1]*"
 
 His curse crushed her orange-tinted spell and kept hurling towards her
 in a glimmer of pale lavender. She jumped and rolled out of its way, and
@@ -2070,7 +2070,7 @@ Amsel clambered back, kicking at him blindly. He grunted when the
 strikes hit, but kept going until he was on top of her, reaching for the
 knife. She screamed again and pointed her wand at him.
 
-"*Incendio!"*
+"*Incendio!*"
 
 He rolled off her before she could curse him and circled around on all
 fours before she could get a good shot. She heard him moving and pointed
@@ -2115,7 +2115,7 @@ fear she would hear him.
 
 "*Crucio!*" she screamed suddenly. Harry tensed to dodge, but she was
 pointed the wrong way. The spell hit a wall and sent the room rippling
-with light. He froze, not daring to breathe. "*Crucio!"* she tried again
+with light. He froze, not daring to breathe. "*Crucio!*" she tried again
 casting even further off course.
 
 She was panicking.

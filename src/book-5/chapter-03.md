@@ -436,7 +436,7 @@ Dumbledore had defeated him. He could recall one of Toure's lectures,
 her voice softened by the odd euphoria that seemed to come over her when
 she talked of Dark Lords.
 
-*"Grindelwald turned the world on its head. No one had done the sort of
+"*Grindelwald turned the world on its head. No one had done the sort of
 magics he did, not for hundreds of years at least, and he was so
 very*young*! Officially, his reign of terror didn't start until he was
 twenty, but others believe it truly began with his expulsion from
@@ -447,7 +447,7 @@ is that his eventual destroyer was in fact also his next door neighbor
 while in England. It has been a matter of some speculation as to whether
 Dumbledore and Grindelwald ever spoke to one another prior to their
 fateful battle. Considering their styles of magic, I myself wouldn't be
-surprised if they hadn't done more than just discussed the weather."*
+surprised if they hadn't done more than just discussed the weather.*"
 
 So Toure had been right. They had been friends, fellow explorers,
 lovers? And then it had all come apart. They had tried to destroy each
@@ -734,7 +734,7 @@ into him again, but was killed by an overzealous young Death Eater.
 Carrigan's body was peacefully surrendered to his clan for proper rites,
 but they only ever found pieces of young Ms. Nominy.'
 
-'It was a bad time for the Druids after that. Carrigan had been their
+"It was a bad time for the Druids after that. Carrigan had been their
 unspoken leader and barrier between his people and the war, but with his
 death the Ministry proceeded to persecute them as dark wizards and
 Voldemort refused to help them without their sworn allegiance, which
@@ -799,7 +799,7 @@ could easily surpass Carrigan in say... fifty or so years."
 
 ".... swell."
 
-" I think the next stop is the one we want."
+"I think the next stop is the one we want."
 
 The bus rolled to a stop and they climbed off. It was another six blocks
 taken in silence, as Harry tried to process everything that he had been

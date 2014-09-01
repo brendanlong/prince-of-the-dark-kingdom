@@ -351,13 +351,13 @@ The uneasy feeling did not leave him, and as he passed another black
 barrier to a little used wing near the portrait of the Fat Lady, he felt
 himself begin to shake.
 
-"*Here?"*
+"*Here?*"
 
 Harry dropped his books, and still being charmed they floated
 soundlessly to the floor. He spun around, searching the hall, but it was
 still completely deserted
 
-"*I heard him... this way? That way? Otherway? Hhhhmmmm..."*
+"*I heard him... this way? That way? Otherway? Hhhhmmmm...*"
 
 Harry waited and listened, but nothing else was said and he had the
 impression that whoever had been there had left.
@@ -456,7 +456,7 @@ application... Oh fine, I'll*think* about it."
 
 ---
 
-"*Too many. Too many. Must wait... wait... wait..."*
+"*Too many. Too many. Must wait... wait... wait...*"
 
 Harry paused amidst the group of Gryffindors heading towards the
 potion's class to look behind him. The only one there was Percy Weasley,
@@ -663,7 +663,7 @@ of your worries."
 To emphasize his point, he grabbed Ron by his robe and pulled him closer
 with a single sharp jerk and hiss parseltongue into his ear.
 
-"*You are beneath me."*
+"*You are beneath me.*"
 
 "Harry, come on," Hermione said, grabbing onto his arm and pulling him
 off the stunned Weasley. "He's not worth it."
@@ -700,7 +700,7 @@ whom he assumed trusted him?
 "I'll try not to..."
 
 "*There, there, there. I can hear them both... still too many... too
-many. No way out here. No way out there. Where, where, where?"*
+many. No way out here. No way out there. Where, where, where?*"
 
 Harry stopped cold. It was that voice again, this time closer than he
 had ever heard it and then gradually fading into the distance.

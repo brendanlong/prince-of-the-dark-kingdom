@@ -325,8 +325,8 @@ physical strength. They both smiled at Harry as he entered.
 
 "Guten Tag, junger Mann. Wie lief dein Wettkampf?" the Judge asked.
 
-"Ganz gut, dankeschön***.***Hogwarts hat sich in diesem Wettkampf sehr
-gut gemacht. *."*
+"Ganz gut, dankeschön. Hogwarts hat sich in diesem Wettkampf sehr
+gut gemacht."
 
 "Excellent news. Do you think you'll make it to nationals this year?"
 

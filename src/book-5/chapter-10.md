@@ -148,9 +148,9 @@ a King Cobra as it hissed and made a mock strike at Horace's
 outstretched wand. He didn't seem the least bit alarmed, and even
 pocketed his wand.
 
-*"Assskuuu ssstisss muisss,*" he hissed, and immediately the snake's
+"*Assskuuu ssstisss muisss,*" he hissed, and immediately the snake's
 hood collapsed. The boy held out his hand, the unprotected flesh mere
-inches from death. "*Kissshhh ne sssisss inusss."*
+inches from death. "*Kissshhh ne sssisss inusss.*"
 
 The snake immediately curled around his outstretched arm, and made its
 way over him and into his lap, where it curled up like an affectionate

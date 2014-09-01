@@ -493,7 +493,7 @@ crescent shaped wound on the delicate skin between his thumb and
 forefinger. He turned his wide eyes to Harry, the child's teeth bared
 and stained with blood. *His* blood.
 
-"*Prince or pauper, your pawn either way,"*Harry hissed.
+"*Prince or pauper, your pawn either way,*" Harry hissed.
 
 Already unbalanced by the retaliation, and again by Harry's savage look
 and words, he was unable to rouse himself to action quick enough for

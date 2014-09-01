@@ -565,7 +565,7 @@ her lips. The smile remained as she looked down at her pupil.
 
 "Congratulations, Mr. Potter. You are now Gryffindor's new Seeker."
 
-"*Huh?"*
+"*Huh?*"
 
 ---
 

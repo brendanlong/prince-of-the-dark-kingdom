@@ -293,7 +293,7 @@ back just as quickly, but the man caught his wrist before he could truly
 escape. His right was still free, however, and a flick of his wrist
 brought it to hand.
 
-"*Expell-"*
+"*Expell-*"
 
 Voldemort jerked him around roughly, unbalancing him enough to undo the
 spellwork and twisting his arm behind his back. Harry let out a pained
@@ -310,7 +310,7 @@ was his totem, squeezing the air out of him.
 Parseltongue, furthering the snake allusion in Harry's panicking mind.
 The tone was soft, but the grip told the truth of the man's anger,
 threatening to pull his arm clean out of its socket if he didn't
-asphyxiate him first. *"Perhaps I can help?"*
+asphyxiate him first. "*Perhaps I can help?*"
 
 The hand at his throat loosened, enough for Harry to make a desperate
 gasp for air before a new sensation stole it away again. It wasn't
@@ -379,9 +379,9 @@ would all be over and done with. It could take weeks to restore his
 magic.
 
 "We will talk again when you are feeling more rested," Voldemort said,
-magnanimously. In Parseltongue, he added, *"And if you can behave
+magnanimously. In Parseltongue, he added, "*And if you can behave
 yourself, perhaps I'll even give you back some of the magic you so
-carelessly fling about."*
+carelessly fling about.*"
 
 Harry cursed at him silently, but even in his head it sounded feeble. In
 addition to his magic, the man had stolen most of his fight as well.
@@ -499,7 +499,7 @@ Tom broke eye contact with her and shoved her away in disgust. Useless!
 She knew nothing! Didn't want to know anything! She had barely made a
 splash before he flung out his wand, snarling out a curse.
 
-"*Opprimo!"*
+"*Opprimo!*"
 
 The woman died quietly, namelessly, her internal organs all but
 liquefied. Tom wasn't satisfied. Frustrated, he snarled out a half a
@@ -556,17 +556,17 @@ hurting them both. Harry did stir now, just a little, sighing softly and
 turning his head into the Dark Lord's hand, seeking out the magic he had
 so recently been deprived of.
 
-*"Hhmm, you're making me soft. I should kill you, and do us both a
-mercy,"* Voldemort hissed softly in parseltongue. *"But what's the point
+"*Hhmm, you're making me soft. I should kill you, and do us both a
+mercy,*" Voldemort hissed softly in parseltongue. "*But what's the point
 of holding the world in your hand if there's no one worth showing it off
-to?"*
+to?*"
 
 When most of Harry's magic was finally returned, he pulled his hand
 away. There were no further signs of stirring, and if anything his
 protégé appeared to sink deeper into dreams.
 
-*"Sleep well, young prince. There are yet still more dragons for you to
-slay when you awake."*
+"*Sleep well, young prince. There are yet still more dragons for you to
+slay when you awake.*"
 
 He left as silently as he had come, and when his formidable presence had
 finally vanished, Harry opened his eyes and stared up at the ceiling. He
@@ -1060,14 +1060,14 @@ Narcissa nearly gasped, but decided that would be a bit too plebian.
 Lucius couldn't stop grinning. "What do you think? They had to carry him
 to the infirmary."
 
-"She shook her head, but couldn't hide her own smile at his
+She shook her head, but couldn't hide her own smile at his
 childishness. "You're taking far too much pleasure out of that boy's
 pain."
 
 "Nonsense. It's not his pain I find so amusing, it's his stupidity.
 'Fuck you', I mean honestly."
 
-She chuckled behind her win glass. It *was*pretty damn funny. She
+She chuckled behind her win glass. It *was* pretty damn funny. She
 wondered what other nonsense those two got into together when no one was
 looking. Hopefully, he wasn't teaching those troublemaking habits to her
 children.

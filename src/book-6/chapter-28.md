@@ -535,7 +535,7 @@ Carefully, he lied down on the stone floor, and gripping his wand with
 both hands, he aimed it through the crack. The scars on his palm began
 to grow hot.
 
-"*CONFRINGO!"*
+"*CONFRINGO!*"
 
 Magic surged through his scar and into his wand, adding more magical
 force than he had thought he could manage and more than he had wanted.
@@ -1097,7 +1097,7 @@ dim students. "He's here in the castle. That's why you're all dead."
 
 "Would I be this calm if I were?"
 
-" . . . Why are you bleeding?"
+"... Why are you bleeding?"
 
 Snape just continued to smile, the answer a secret he would gladly
 torment him with until his dying breath. Mandalari lifted his wand
@@ -1803,7 +1803,7 @@ for a nap.
 
 "And you . . . I know you, don't I?"
 
-"*Exsanguinus!"*
+"*Exsanguinus!*"
 
 "*Nulta neuro calmea!*An Italian? Ah, I remember now. You're Mandalari,
 the leader of those Catholic vermin we drowned in the lake. Still alive?
@@ -1840,7 +1840,7 @@ wanted to. He really wanted to get away from the screaming.
 
 "I've got nothing left."
 
-"*Ennervate lasca!"*
+"*Ennervate lasca!*"
 
 Harry's body spasmed uncomfortably, waking him physically and mentally
 from the sensory shock. Shaking, he rolled over onto his hands and
@@ -2058,7 +2058,7 @@ Harry's mind had flown to pieces with the pain and the panic. Now he
 frantically tried to pick out the pieces, looking for a spell, any spell
 to get rid of the magic threatening to tear him apart.
 
-"*Reparo."*
+"*Reparo.*"
 
 The magic went out like a wave, not through Harry's wand, but through
 his feet and back into the castle, and Harry suddenly felt himself
@@ -2082,7 +2082,7 @@ The Rain Spell. Sprout taught them in Herbology. So convenient for
 watering the garden. She would be absolutely horrified with him later,
 he thought vaguely.
 
-"*Nimbosio et nimbosio et nimbosio . . ."*
+"*Nimbosio et nimbosio et nimbosio . . .*"
 
 His mind flowed back into the castle, back into the stones, and out
 again through the chimneys and the broken windows and rain spouts as a
@@ -2102,10 +2102,10 @@ to destroy him. Angrily, he threw his magic back with a roar and a crack
 and a flash of light that swallowed their spells and threw them from the
 air like children's toys.
 
-"*And hail. Grandonio."*
+"*And hail. Grandonio.*"
 
-*"Et tonirtio et grandonio et nimbosio et grandonio et tonitrio et
-nimbosio et . . ."*
+"*Et tonirtio et grandonio et nimbosio et grandonio et tonitrio et
+nimbosio et . . .*"
 
 From the ground, the witches and wizards threw up more shields, more
 counter-curses, more magic and desperation that struck him, scattering
@@ -2114,10 +2114,10 @@ gathered himself into an army and armored himself in ice, flinging
 himself in marbles and snitches and bludgers, and shattered them as they
 had tried to shatter him.
 
-*"And wind. Flabraborio."*
+"*And wind. Flabraborio.*"
 
-*"Et flabraborio et grandonio et nimbosio et flabraborio et tonirtio et
-nimbosio . . . ."*
+"*Et flabraborio et grandonio et nimbosio et flabraborio et tonirtio et
+nimbosio . . . .*"
 
 The wind blew up, but he had no control of it. Wind was a part of him
 and yet outside himself, shapeless and restless and everywhere. It came
@@ -2127,14 +2127,14 @@ the hail. It pushed him and threw him and spun him around. It smashed
 him through windows, tore up his shingles, and shook him like it wished
 to tear him apart.
 
-*"More, Harry. More."*
+"*More, Harry. More.*"
 
 There was screaming now, pain and terror, and the wind swallowed it and
 laughed.
 
-*"Too much."*
+"*Too much.*"
 
-*"Too late. Let it go."*
+"*Too late. Let it go.*"
 
 And Harry fell one last time.
 

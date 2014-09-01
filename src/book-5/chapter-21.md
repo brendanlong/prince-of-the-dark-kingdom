@@ -307,7 +307,7 @@ The captain shrugged. "Burn it down."
 
 The soldiers nodded and lifted their wands.
 
-"*Oprimo viscera!"*
+"*Oprimo viscera!*"
 
 Viktor's curse caught the closest soldier squarely. The result was a
 shrieking scream, followed by burst of blood from his mouth, and then
@@ -1329,7 +1329,7 @@ She gaped at him. "You're shameless!"
 
 "You don't need to be nervous. I'll go with you."
 
-*"Oh god!"*
+"*Oh god!*"
 
 It took considerably more cajoling, arguing, and charming abhorrence to
 finally convince Ira to go. Snape was supremely thankful that Morgan was

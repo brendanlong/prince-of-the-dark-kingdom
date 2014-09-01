@@ -1,8 +1,8 @@
 # The Prince and the Dragon
 
-"…*Now, your name."*
+"…*Now, your name.*"
 
-"*Harold James Potter."*
+"*Harold James Potter.*"
 
 *A strangely sardonic look came across the professor's face, and his
 scowl twisted up in a mockery of a smile. "Of course it is."*

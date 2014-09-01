@@ -389,7 +389,7 @@ compelled his broom to leap into his hand with a simple *'UP!'*. He
 reached out his hand, the one not clutching to the Snitch, to his
 hovering broom and released a command.
 
-"*Come!"*
+"*Come!*"
 
 And it obeyed. In a flash the broom flew the fifty feet that had
 separated them to smack painfully into his hand. He gripping it as

@@ -53,7 +53,7 @@ Another lieutenant lemming shot into the room as briskly as the first.
 
 "Are you ill-"
 
-"*Now!"*
+"*Now!*"
 
 ---
 
@@ -379,7 +379,7 @@ more.
 
 "I'm sorry, Viktor, I *can't*!"
 
-"*Somnebus!"*
+"*Somnebus!*"
 
 Hermione went limp, slumping bonelessly over her desk. Viktor snarled at
 McGunny, but he snarled right back.
@@ -512,7 +512,7 @@ Harry just blinked at him again, and Viktor despaired of him ever
 reaching a decision. They were both spared the act, but Brennan who
 pointed his wand at Harry.
 
-"*Imperio!"*
+"*Imperio!*"
 
 Viktor flinched away at the spell, his own wand raised to ward off the
 perceived attack, but Brennan was already pocketing his wand again. He
@@ -660,7 +660,7 @@ out. We're leaving NOW!"
 "Elsa and Sabrina are in their own room. I'll get them!" one boy
 shouted, and rushed out.
 
-"I'll get your trunk! " another called after him. "*Reducto!"*
+"I'll get your trunk! " another called after him. "*Reducto!*"
 
 "Oblitz isn't here!"
 

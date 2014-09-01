@@ -47,8 +47,8 @@ The basilisk made a pained hiss and shuddered, twitching uncomfortably
 and nearly bumping into the woman, who inched away with a belied
 nervousness.
 
-"*It*hurts*!"*the masculine hiss cried, *"Theysss burned me! I can't
-sssee! I can't sssee! Heal me!"*
+"*It* hurts*!*" the masculine hiss cried, "*Theysss burned me! I can't
+sssee! I can't sssee! Heal me!*"
 
 Umbridge cast a cautious look at her servant, and indeed it appeared the
 trap spell Snape had laid had done great damage. The head of the serpent
@@ -65,8 +65,8 @@ like nothing more than a child's kazoo made of silver. It's purpose
 became clear, when Umbridge put it to her mouth and started to speak...
 in Parseltongue.
 
-"*There, there, darling. Soon, I will fix you,"* she cajoled,before
-speaking to Harry again in English.*"*Really, your arrival is most
+"*There, there, darling. Soon, I will fix you,*" she cajoled,before
+speaking to Harry again in English. "Really, your arrival is most
 convenient. I was going to leave you out of this, but when You-Know-Who
 finds your mutilated corpse he won't just fire Lestrange, he'll kill
 her. Oh, yes, this is most convenient. And then, in a few days, I'll
@@ -92,7 +92,7 @@ Quick as lightening, Umbridge brought up a shield charm to block the
 curse and readied one of her own, but Harry had ducked into the open
 mouth of the statue and into a small antechamber.
 
-"*Kill him! He's the one who hurt you!"*he heard Umbridge hiss, and
+"*Kill him! He's the one who hurt you!*" he heard Umbridge hiss, and
 quickly ran deeper inside. The antechamber, unlike the rest of the
 Chamber, was not cold, but hot and humid, the floor layered with plant
 debris, old snake skins, and animal bones. The ceiling was lower, making
@@ -119,7 +119,7 @@ the now too narrow tunnel. Now distanced and relatively safe, he tried
 to reason with it.
 
 "*Stop! Stop! I'm not your enemy! I didn't do this to you! That woman is
-a liar!"*
+a liar!*"
 
 Yet the snake did not seem to hear or perhaps didn't care. Thrashing
 about madly, Muchalinda tried to move forward and then finally backwards
@@ -145,8 +145,8 @@ towards the exit. He was only half way to the exit when the basilisk
 re-emerged from another tunnel, and froze. The snake luckily, had paused
 as well. It flickered its tongue, tasting the air curiously.
 
-"*What hasss it done?"* the snake questioned itself, "*I can't
-sssee*or*hear itsss now. But ohhh... I can tassste itsss!"*
+"*What hasss it done?*" the snake questioned itself, "*I can't
+sssee* or *hear itsss now. But ohhh... I can tassste itsss!*"
 
 Harry rushed to one side of the nest, crouching behind an egg, hoping it
 would move on again. If he cast a spell in here and it wasn't strong
@@ -876,7 +876,7 @@ regarding him with unusual patience.
 "*What are you doing here, Harry*?" he hissed in Parseltongue.
 
 "*I... I don't know. I just figured... I didn't want to wait for you to
-summon me."*
+summon me.*"
 
 Voldemort stared intently into Harry's wide green eyes. They were puffy,
 likely from crying, bruised, and haunted. Why was the child so sad? Had

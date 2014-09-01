@@ -593,7 +593,7 @@ shook him, and he stumbled but kept to his feet. He tried a medium
 Blasting Hex, but the wand gesture was too complicated and he fumbled
 his wand, but recovered fast enough to spit out yet another spell.
 
-"*Expecto patronum!"*
+"*Expecto patronum!*"
 
 The white, ghostly stag leaped from his wand gracefully, knocking aside
 two spells with a wave of his ethereal antlers. St. James and Sabbat
@@ -678,7 +678,7 @@ silently communicating his thanks before dismissing him back to his own
 plane of existence. When he turned his attention back to the Slytherin,
 he was straddling Gerry's chest.
 
-"*Innervate."*
+"*Innervate.*"
 
 Instantly, Gerry started to struggle violently, kicking his feet and
 wiggling his trapped arms. He was getting nowhere fast. Draco's position
@@ -703,7 +703,7 @@ however.
 
 Harry jumped, startled.
 
-"Merlin, Draco! *Silencio encumbante!"*
+"Merlin, Draco! *Silencio encumbante!*"
 
 A dome of silence rose up around them, holding Gerry's scream, which was
 now becoming gurgled as blood surged into his nostrils. Draco gave Harry

@@ -66,7 +66,8 @@ definitely looked like he wished he were as Lorelei nattered at him.
 They entered the hotel lobby and could already see there were people on
 the stairs and along the hall gossiping.
 
-*"Something's* definitely happened," she said to Enid.\
+"*Something's* definitely happened," she said to Enid.
+
 "Do you think it's true, then? They say once the war is over, Britain
 will open its borders and we can go back home. I've relatives in the
 Cotswolds I haven't seen since I was little."
@@ -200,7 +201,7 @@ anyone who would think to look twice at her. He blinked at her in
 surprise.
 
 "Um... Heloise... maybe you shouldn't... uh... you know... *Vampire?*"
-her roommate stammered. "*Teeth."*
+her roommate stammered. "*Teeth.*"
 
 She was suddenly aware of his lips. His very cold lips she could feel
 smiling even through her gloves. She jerked her hand back. He barked out
@@ -592,7 +593,8 @@ Malfoy, that is, for coming to his aid. The Headmaster was... tortured
 to be blunt, and he refused to betray the school. If it weren't for
 Draco and his friends, I don't think he would be here now."
 
-"Draco Malfoy... he is the late General Malfoy's son, yes?"\
+"Draco Malfoy... he is the late General Malfoy's son, yes?"
+
 "Yes, and Headmaster Snape's godson."
 
 "A friend of yours?"
@@ -604,7 +606,7 @@ Draco and his friends, I don't think he would be here now."
 "Everyone who was there that day was very brave. Not all of those brave
 people walked away unscathed, I'm afraid."
 
-"There are many who are saying it is *you*who was very brave. They're
+"There are many who are saying it is *you* who was very brave. They're
 calling you a hero."
 
 Harry shook his head.

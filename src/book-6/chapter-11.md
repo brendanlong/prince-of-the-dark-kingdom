@@ -530,7 +530,7 @@ returned the hug enthusiastically. Somewhere in the crowd he heard
 cameras flashing. Flushing in embarrassment, he pulled away to a more
 respectable distance.
 
-"Hey,' he greeted. Her laugh was in the curve of her lips as she smiled
+"Hey," he greeted. Her laugh was in the curve of her lips as she smiled
 back at him. She was wearing civilian clothes, but still managed to look
 official. She wore a dark grey business suit with skirt and a maroon
 robe left open acting as a sort of jacket. Her shoes were black lace and

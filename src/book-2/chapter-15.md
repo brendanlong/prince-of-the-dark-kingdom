@@ -691,7 +691,7 @@ I'm very convincing, aren't I?"
 Yes, he was definitely that, he thought hazily. But there wasn't much he
 had to convince Harry of after all, was there? Why spend Christmas alone
 when he could spend it with a friend he both liked and admired? One who
-shared his interest in the-"
+shared his interest in the-
 
 A familiar surge of foreign magic welled up, spilling out into violent
 coughing, breaking the connection Tom had made to his mind. The

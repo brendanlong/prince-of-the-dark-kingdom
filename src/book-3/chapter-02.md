@@ -497,14 +497,14 @@ These instincts came naturally, from out of no where, and as Harry
 finally had a quiet moment to think about it, he though it might be due
 to Luna.
 
-*"Do you think she... I dunno... blessed me?"* he asked Inana, as he
+"*Do you think she... I dunno... blessed me?*" he asked Inana, as he
 washed, knee deep in the creek. The cobra was sunning herself on a near
 by rock, and hadn't paid much attention to him after his meeting with
 Luna.
 
-*"Probably,"* came the disinterested reply.
+"*Probably,*" came the disinterested reply.
 
-*"Am I her boyfriend now?"*
+"*Am I her boyfriend now?*"
 
 Inana snorted. Feeling stupid for asking, he concentrated on his washing
 for a long time. The mud came off easily, but the paint remained

@@ -290,21 +290,21 @@ probably be bored to tears."
 Natalie didn't look convinced, and he didn't blame her. To distract her,
 he turned to Inana and spoke in parseltongue.
 
-*"Ssso how are you getting along with my friend Natalie? Ssshe ssseems
-quite taken with you,"* he said.
+"*Ssso how are you getting along with my friend Natalie? Ssshe ssseems
+quite taken with you,*" he said.
 
-*"Sshe isss... tolerable,*" Inana admitted reluctantly. *"At leassst,
-sshe does not ignore me for weeks on end."*
+"*Sshe isss... tolerable,*" Inana admitted reluctantly. "*At leassst,
+sshe does not ignore me for weeks on end.*"
 
-*"I'm very sssorry. I haven't given you the attention you deserve. I'll
+"*I'm very sssorry. I haven't given you the attention you deserve. I'll
 be ssseventeen thisss sssummer. We will return to the Nile together
-then, and you can ssshow me your kingdom."*
+then, and you can ssshow me your kingdom.*"
 
-*"Yess. My kingdom. I will ssshow you the sssacred places, where the
-godsss sssleep and the Nile isss born,"*she said, her sibilant voice
+"*Yess. My kingdom. I will ssshow you the sssacred places, where the
+godsss sssleep and the Nile isss born,*" she said, her sibilant voice
 reverent with awe and longing.
 
-*"Sssoon,"* he promised.
+"*Sssoon,*" he promised.
 
 "What did she say?" Natalie asked jealously. Harry grinned at her.
 

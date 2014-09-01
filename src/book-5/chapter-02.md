@@ -183,7 +183,7 @@ tell me that you have some experience working in an office."
 Harry blinked. That wasn't what he had been expecting. Inquiries about
 his affiliation with Voldemort, questions about dangerous magics he had
 performed, and even his thoughts on the Minister of Magic, but not about
-a job. He *was* talking about a job, wasn't he?"
+a job. He *was* talking about a job, wasn't he?
 
 "I don't... what?"
 
@@ -872,12 +872,12 @@ else... just because you could."*
 
 *"It is my right."*
 
-*"But it *isn't *right."*
+*"But it *isn't* right."*
 
 *"You're one to talk about morality after what you've done."*
 
 *"Fine, I'm Mr. Kettle and your Mr. Pot, and we're both too black to
-criticize each other. I still  didn't tell him anything."*
+criticize each other. I still didn't tell him anything."*
 
 *Voldemort let out an irritated snort. "Are you with him now?"*
 

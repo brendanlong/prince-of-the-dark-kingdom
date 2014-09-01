@@ -274,7 +274,7 @@ the class once I'd tested with a high magical aptitude. Good thing too,
 since I couldn't tell the difference between a ward and owlry before
 that."
 
-"Hmm..." Krum said, looking at him directly for the first time, " Tell
+"Hmm..." Krum said, looking at him directly for the first time, "Tell
 me, have you..."
 
 Whatever he was going to ask faded on his tongue, and Harry looked over

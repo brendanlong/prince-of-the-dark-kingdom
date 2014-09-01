@@ -1387,7 +1387,7 @@ Oswald stepped forward to pull the cage of the elevator open, and with
 his back turned he didn't immediately see his prisoner suddenly press
 the head of his cane to Renee's ribs. He did, however, hear the spell.
 
-"*Ligananimus![^145-1]"*
+"*Ligananimus![^145-1]*"
 
 Oswald swung around, fangs bared even as Renee collapsed to the ground
 without a mark on her. There was no room and no time to get off another
@@ -1396,7 +1396,7 @@ block the remaining vampire, and it caught on the sides of the cramped
 elevator, momentarily saving him from being crushed as he was thrown
 into the corner.
 
-"*Ignatus lumina![^145-2],"*
+"*Ignatus lumina![^145-2],*"
 
 The tiny elevator exploded in hot, white light and a deafening bang.
 Panicked and blind, Oswald shrieked and threw himself through the open

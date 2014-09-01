@@ -166,7 +166,7 @@ exactly were he was going. They were just climbing an unfamiliar
 staircase when they ran into their first castle occupant. Or rather,
 said castle occupant ran *after* them.
 
-"*You!"* came the scandalized voice. "What are *you* doing here? You're
+"*You!*" came the scandalized voice. "What are *you* doing here? You're
 violating your probation!"
 
 Remus looked down at the harried potions master, his expression
@@ -688,7 +688,7 @@ were under some strange curse himself. Finally, he could stand it no
 more and covering his ears to block out the sound, he let out a scream
 of his own.
 
-"*IT'S ENOUGH!"*
+"*IT'S ENOUGH!*"
 
 His concentration broken, Voldemort turned sharply to the shivering
 Gryffindor, his anger still hot and shining through his eyes like

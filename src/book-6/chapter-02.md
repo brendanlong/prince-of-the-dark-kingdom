@@ -9,7 +9,7 @@ hour ago and was reading a newspaper, looking up every so often so see
 if they were *still* stuck on the same topic. "It's not safe. You know
 it. I know it. *Everyone* knows it. After what happened the last time-"
 
-"*Don't,"* he bit out, warning her against *that* particular subject.
+"*Don't,*" he bit out, warning her against *that* particular subject.
 She had only heard one side of the story of what had happened with the
 Du'on nadi and the possession, and it certainly hadn't been his. That
 was more his fault than hers, but he didn't want to get into it now.
@@ -880,7 +880,7 @@ the flute still littering the ground. "I've just been trying to remember
 the spell to fix it. I know it's a really obvious one. I just feel
 stupid that I can't-"
 
-"*Reparo."*
+"*Reparo.*"
 
 Instantly, the glass fixed itself and the woman handed it back to him.
 He smiled at her sheepishly.
@@ -999,25 +999,25 @@ the moment, even if he didn't understand all the rules.
 The Dark Lord tilted his head curiously and when he spoke again it was
 in parseltongue.
 
-"*I hope you have not been feeling neglected."*
+"*I hope you have not been feeling neglected.*"
 
-*"No. I underssstand. I've been enjoying the quiet… while it
-lassstsss."*
+"*No. I underssstand. I've been enjoying the quiet… while it
+lassstsss.*"
 
 Voldemort nodded in acknowledgement. He would not keep Harry out of the
 world for much longer.
 
-*"I wishhhed to ssspeak to you about Ssiriusss and the otherss,"*he
-continued*. "He ssent me a ssummonss."*
+"*I wishhhed to ssspeak to you about Ssiriusss and the otherss,*" he
+continued. "*He ssent me a ssummonss.*"
 
-*"Yesss, I know."*
+"*Yesss, I know.*"
 
-*"Do you know what it'ss about?"*
+"*Do you know what it'ss about?*"
 
-*"No. Blackbone iss... unpredictable at the moment. He hass been
+"*No. Blackbone iss... unpredictable at the moment. He hass been
 reorganizing the coloniess in wayss I do not fully undersstand. He iss
 not asss you remember him. He iss aggresssive, driven, tyrannical. As
-viciouss asss Greyback ever wass."*
+viciouss asss Greyback ever wass.*"
 
 Harry tried to imagine what Voldemort was saying, and for a few moments
 he thought he could see it. Blackbone could indeed be vicious and a
@@ -1045,7 +1045,7 @@ affectionately. Harry felt his face flush in embarrassment. The entire
 
 "*I will make arrangementss. Be ready in three dayss. You might not
 think you need me, but you will not go unprotected. You have not sseen
-what I have sseen."*
+what I have sseen.*"
 
 Having nothing more to say, he merely ducked his head and said quietly,
 "*Thank you, my Lord*."

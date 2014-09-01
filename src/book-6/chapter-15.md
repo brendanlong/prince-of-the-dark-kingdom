@@ -957,7 +957,7 @@ before rolling back into a concealing sheet.
 
 "*Oohh... sushu ri ne nasis!*"
 
-*"Celoxis!*"
+"*Celoxis!*"
 
 The curse missed, and the shadow retreated. It laughed, but Tom didn't
 waste another spell.
@@ -2134,7 +2134,7 @@ and to what ends? What future did you see for yourself?"
 "*The ssame future I sssee now... only with you dead at my feet,*" he
 cursed in parseltongue.
 
-*"Wicked child indeed,*" the naga hissed softly, and he turned sharply
+"*Wicked child indeed,*" the naga hissed softly, and he turned sharply
 to her. He had forgotten her, and forgotten that nagas were serpents
 with human-ish forms. His surprise was compounded when Harry stopped
 squirming for a moment and spoke softly in the same hissing tones.
@@ -2252,7 +2252,7 @@ moved on."
 Gulandri nodded.
 
 "Thank you," he said, with all the gravity of having been passed a roll
-at the dinner table. "*Gugis fen!"*
+at the dinner table. "*Gugis fen!*"
 
 The gnomes from before entered the room yet again, carrying a new length
 of rope with them. Gulandri gave them further instructions in Milesian,

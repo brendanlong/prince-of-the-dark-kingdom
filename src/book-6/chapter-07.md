@@ -269,7 +269,7 @@ his wand drawn.
 
 Robert and Kyle both jumped back, equally as surprised as he had been.
 
-"Merlin, you're fast!' Kyle blurted out, looking from the wand to
+"Merlin, you're fast!" Kyle blurted out, looking from the wand to
 Harry's stunned expression. "I knew you had a reputation as a duelist,
 but my goodness!"
 
@@ -1112,7 +1112,8 @@ to stop again. Natalie grinned.
 "It was. A little bit more exciting than I had anticipated, but… yeah.
 Overall, I think it was a raving success. Thanks in large part to our
 two rather sour looking heroes. Lighten up, boys, you saved the
-damsels-\
+damsels-"
+
 "Hey! I found the exit!" Clyde protested. "And I'm not a damsel."
 
 "-and we all had a great time there for a while. Don't say you didn't."

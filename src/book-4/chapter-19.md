@@ -523,13 +523,13 @@ There was guilt in Harry's expression now, and Viktor was suddenly
 reminded of what he had overheard in the Gryffindor dormitory.
 Everything had been so chaotic he hadn't had time to think of it before.
 
-*"I didn't want that to happen. He nearly died!"*
+"*I didn't want that to happen. He nearly died!*"
 
-*"But he did not, and you have what you wanted,"*
+"*But he did not, and you have what you wanted,*"
 
-*"He's going to kill me."*
+"*He's going to kill me.*"
 
-*"You knew that might happen too."*
+"*You knew that might happen too.*"
 
 "Oh Merlin, you did it," Viktor blurted, realizing now exactly what they
 had been talking about. "You're the one who attacked the Dark Lord!

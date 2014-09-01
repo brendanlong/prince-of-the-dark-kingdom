@@ -25,7 +25,7 @@ suddenly the distant sound of many voices could be heard.
 Yet there was one voice much closer that drew Harry's attention.
 
 "*Run, run, run, little mousey. Nagini knows every tunnel. Nagini knows
-every hole. Run, run, run, because you can not hide..."*
+every hole. Run, run, run, because you can not hide...*"
 
 Harry looked around, seeing if anyone else was wondering about it. By
 all accounts it did not appear as if anyone had heard. Which seemed
@@ -35,7 +35,7 @@ ticking of his pocket watch.
 And hadn't he heard the name Nagini somewhere before?
 
 "*Crunch, crunch, crunch, grinding bones on which to munch. Come, come,
-come, little mousey,"*it continued to sing in a syllabant hiss.
+come, little mousey,*" it continued to sing in a syllabant hiss.
 
 He fell back from the others, taking a moment to peek down a hallway the
 voice seemed to be coming from. At first he saw nothing. Then he spotted
@@ -59,20 +59,20 @@ that thought before he found himself staring face to face with the
 snake, who reared up to stand taller than Harry. They stared at one
 another, wide emerald eyes to glowing slitted yellow.
 
-"*Give it here, boy,"* the snake commanded. *"Give it to Nagini."*
+"*Give it here, boy,*" the snake commanded. "*Give it to Nagini.*"
 
 Oh. So that's where the voice was coming from. A talking snake. Sure.
 Why not? Was it any stranger than the bathroom mirror that told him his
 hair looked silly in the Sleuw's house?
 
-"*Er... what?"*
+"*Er... what?*"
 
 The snake looked startled- how he could tell, Harry wasn't sure- then,
 angry again.
 
 "*The mousey. Give Nagini her little mousey. It is Nagini's to play
-with. Master gave it to Nagini. It is Master's present! Give it here or
-Nagini will play with*you*instead!"*
+with. Master gave it to Nagini. It is Master's present! Give it her or
+Nagini will play with* you *instead!*"
 
 Harry didn't even consider giving the rat over. Not that he thought the
 rat's life was worth more than his own (he'd killed several over the
@@ -132,7 +132,7 @@ they would collapse at any moment.
 
 He flinched, but didn't turn away.
 
-"*Crucio!"*
+"*Crucio!*"
 
 A sudden, excruciating pain flared through his entire body. It was like
 nothing he had ever felt. Not the localized pain of a broken bone nor
@@ -168,7 +168,7 @@ attention.
 
 "Abbott, Hannah!" A rather plump girl with blond pigtails climbed onto
 the provided stool and McGonagall placed the singing hat on her head. It
-was barely there for two seconds before it shouted out "*Hufflepuff!"*
+was barely there for two seconds before it shouted out "*Hufflepuff!*"
 
 The girl quickly skipped off to join a table of cheering students. It
 followed that routine for all the gathered students. Some went to
@@ -286,7 +286,7 @@ theirs.
 Through the din of panicked voices, Harry could hear another softer
 voice.
 
-"*Where is my little mousey? Bring it to me, now, now, now!"*
+"*Where is my little mousey? Bring it to me, now, now, now!*"
 
 "Oh, bloody hell, not her again," he moaned.
 
@@ -396,18 +396,18 @@ the Welcoming Feast has been disturbed. Perhaps the very first time that
 it has been disturbed twice by the very same person!"
 
 "Hey, I had nothing to do with the second one! They weren't running and
-screaming from *me!"*
+screaming from *me!*"
 
 "*Just keep talking, silly man-child. It will only make your punishment
-that much more amusing to watch," hissed Nagini.*
+that much more amusing to watch,*" hissed Nagini.
 
-"*Go choke on your rat!"* he snarled back at her.
+"*Go choke on your rat!*" he snarled back at her.
 
 Suddenly, everyone was looking at him with even more interest. Even
 Voldemort, who had been ignoring him in favor of stroking the portion of
 Nagini's tail resting in his lap, looked straight at him.
 
-"*What did you say?"*
+"*What did you say?*"
 
 Harry froze. Oh, Bloody hell, he was such an idiot! As if he wasn't in
 enough trouble with the most dangerous man in the entirety of Wizarding
@@ -419,9 +419,9 @@ Britain, he had to go off an insult his familiar too!
 
 "Um..."
 
-"*Mr. Potter!"*
+"*Mr. Potter!*"
 
-"*I'm sorry, I'm sorry! I didn't mean it!"*
+"*I'm sorry, I'm sorry! I didn't mean it!*"
 
 A dead silence followed. And Harry who had been cringing, expecting to
 be cursed at any moment, opened his eyes to peek at what had stopped the
@@ -436,7 +436,7 @@ Snape let out an amused huff of air, and muttered 'idiot boy'. This
 seemed to snap everyone else out of their surprise as well.
 
 "Mr. Potter... *Harry, are you telling me it has never come to your
-attention that you are a Parselmouth?"* Voldemort asked.
+attention that you are a Parselmouth?*" Voldemort asked.
 
 Harry just blinked at him and then frowned. "That's impossible. Only a
 descendant of Slytherin can speak Parseltongue. You're the only one in

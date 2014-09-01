@@ -268,7 +268,7 @@ ear... or somethin' like that, anyway. Perhaps it'll make'm appreciate
 me more when I'm not around. See how he does tak'n care of three headed
 dogs and*bandywols* and *tubberdewiggins.*"
 
-"Harry frowned. "Are they mistreating you, Hargrid?"
+Harry frowned. "Are they mistreating you, Hagrid?"
 
 The half giant waved it off. "Nah. 'Course not. Things 'ave jus been a
 bit tight. All these university brains coming up, want'n bigger

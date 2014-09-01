@@ -113,7 +113,7 @@ you to be one of the dueling pairs."
 "Oh, believe me, Mr. Potter, I'm not worried about that. I suspect he'll
 defeat you with his own skills. After all, I've been tutoring him."
 
-"*What?!"*
+"*What?!*"
 
 ---
 
@@ -190,7 +190,7 @@ it was worth investigating and how much was just idle gossip.
 
 "*And now he keeps looking around as if he expects someone to hex him at
 any moment. Plus I must have seen him turn around at least three times
-saying he heard something, today alone."*
+saying he heard something, today alone.*"
 
 Was Harry being paranoid or was he really hearing something. Something
 only Harry... and perhaps another parselmouth might hear? If that were
@@ -426,13 +426,13 @@ for his inability to recognize it.
 
 "*Suffuco sentenia!*"
 
-"*Oculus obligo!"*
+"*Oculus obligo!*"
 
 The two hexes smashes into each other simultaneously, evaporating into
 nothingness. The voices had barely stopped echoing through the hall
 before the duelists were set to attacking again.
 
-"*Sterneo!"*cried Ron, gesturing violently with his wand. Harry simply
+"*Sterneo!*" cried Ron, gesturing violently with his wand. Harry simply
 move sideways to avoid, shouting out a Wind Curse. Ron blocked it with a
 shield charm, but the charm was meant to block elemental curses and not
 the Stinging Hex that followed. Turning sideways, the redhead caught it
@@ -488,7 +488,7 @@ Harry's magic wavered yet again, preventing him from casting the final
 blow before Ron managed to scramble back to his feet, blood seeping from
 a gash on his forehead.
 
-"*Blood. Oh, I smell it! I smell it!"* came an unfortunately familiar
+"*Blood. Oh, I smell it! I smell it!*" came an unfortunately familiar
 voice. A feeling of dread that had nothing to do with Ron's previous
 curse settled into Harry's stomach. He had thought 'the voice' gone,
 certain it was a cursed induced hallucination that had finally faded
@@ -546,7 +546,7 @@ sprinted in a random direction, but the voice followed him, growing
 impatient in its hunger.
 
 "*I can sssmell it, ssso clossse, so clossse.* *Ssso hungry. Houssse
-elvesss are too musty to sssatisssfy."*
+elvesss are too musty to sssatisssfy.*"
 
 He found the stars and rushed down them, barely keeping himself from
 plummeting down them head first. When he reached the bottom, he paused a
@@ -560,7 +560,7 @@ minute he clung to the rail at the bottom of the stairs, trying to think
 when all his mind wanted was for him to flee and all his body wanted was
 for him to rest.
 
-"*There! I found you!"*
+"*There! I found you!*"
 
 Harry let out a startled scream, spinning around and finding no one, but
 unable to keep himself from running away nonetheless. He didn't know
@@ -576,7 +576,7 @@ pounding at the door with already bloodied fist.
 
 "Let me out!"
 
-"*Sssmellsss like fear. Deliciousss."*
+"*Sssmellsss like fear. Deliciousss.*"
 
 "LET ME OUT!"
 

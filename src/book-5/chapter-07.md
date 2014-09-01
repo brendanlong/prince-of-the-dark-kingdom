@@ -327,25 +327,25 @@ shout into it.
 
 "Hello?"
 
-"*Good afternoon."*
+"*Good afternoon.*"
 
 Morgan stiffened, instantly recognizing the voice on the other line.
 
 "Mr. Potter."
 
 "… *Chief Sentinel Morgan, isn't it? I would have thought someone else
-would be manning the Court phones."*
+would be manning the Court phones.*"
 
 "How did you get this number?"
 
 "*A mutual friend. He's here with me now if you want to speak to him,
 but I'm afraid we don't have much time to spare. I only had enough
-change for a five minute call."*
+change for a five minute call.*"
 
 "Where are you?"
 
 "*Some place I won't be in about five minutes. I only called to tell you
-I'm on my way. I'll leave it to you to inform all relevant parties."*
+I'm on my way. I'll leave it to you to inform all relevant parties.*"
 
 Morgan couldn't help but be surprised. The boy intended to return on his
 own? He wanted to ask why, but then thought better of it.
@@ -353,13 +353,13 @@ own? He wanted to ask why, but then thought better of it.
 "Do you require any assistance?"
 
 "*Just tell me how to get back into the country. I'll take care of the
-res myselft."*
+res myselft.*"
 
 If only his own men were so efficient.
 
 "Are you familiar with the 'Chunnel'?"
 
-"*Yes."*
+"*Yes.*"
 
 "That's your best bet. It's the only way you can get directly into
 Britain from the mainland. Otherwise, you'll have to take a boat to
@@ -386,7 +386,7 @@ Shut up, Bobby...*" Who else was there? There replies were too far away
 to make out. When Potter spoke again it was directed at Morgan. "*That
 may be a bit problematic. We're essentially broke here. Don't suppose I
 could borrow a couple hundred Euros? No, never mind. We'll figure
-something out. I'll contact you again later."*
+something out. I'll contact you again later.*"
 
 "Potter-"
 

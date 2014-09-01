@@ -648,7 +648,7 @@ Voldemort sneered. "*Don't get self-righteous. A child-murderer deserves
 to die, and you're letting your own weakness get in the way of that.*"
 
 "*He nearly died because of what you did. He wasn't thinking clearly.
-It's not like the situation will ever repeat itself."*
+It's not like the situation will ever repeat itself.*"
 
 "I'm not pandering to your asinine notions of right and wrong,"
 Voldemort continued in English. "You have to till the count of three or

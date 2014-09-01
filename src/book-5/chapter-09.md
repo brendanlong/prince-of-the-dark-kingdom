@@ -67,13 +67,13 @@ mistaken.
 Inana turned her pointed head towards him, flicked her tongue and
 finally seemed to recognize him.
 
-*"Where have you been? I haven't ssseen you in agesss."*
+"*Where have you been? I haven't ssseen you in agesss.*"
 
-*"Sssorry. I was kidnapped, and I only got back a few daysss ago. Are
-you alright? What are you doing with Natalie?"*
+"*Sssorry. I was kidnapped, and I only got back a few daysss ago. Are
+you alright? What are you doing with Natalie?*"
 
-*"Isss that her name? I don't know. When you didn't ssshow up, ssshe
-ssstarted visiting. She isss tolerable… for a human."*
+"*Isss that her name? I don't know. When you didn't ssshow up, ssshe
+ssstarted visiting. She isss tolerable… for a human.*"
 
 "What did she say?" Natalie asked, gently stroking the top of the
 serpents' scaly head.
@@ -1123,7 +1123,7 @@ compensation. By all accounts, I probably shouldn't bother asking at
 all, and if I didn't know a few things I wouldn't. But I do know some
 things.'
 
-'What I know is that our nation has integrity. I know that you want to
+"What I know is that our nation has integrity. I know that you want to
 do the right thing the right way for the right reasons. Even when it's
 scary, even when its hard, even when others say it's wrong."
 

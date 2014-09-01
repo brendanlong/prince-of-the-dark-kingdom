@@ -848,7 +848,7 @@ violently, it immediately reared up before Harry and flared her hood.
 
 "*What's this? What's this? I*kill*you for treating me this way.
 How*dare*I be treated this way. Queen of the Nile I am, not
-fucking*confetti*to be tossed around. I kill you all!"*
+fucking*confetti*to be tossed around. I kill you all!*"
 
 Harry stared at the agitated serpent in surprise. He had not spoken to
 another snake since his trip to Moaning Mytrle's bathroom last year, and
@@ -856,23 +856,23 @@ he had forgotten how bad tempered snakes were. She slithered towards
 him, the one closest to her and thus the likely source of her ill
 treatment, and made to strike him.
 
-"*Wait!"* he cried, falling into parseltongue without conscious thought,
-*"I'm sorry. I'm sorry you were thrown so carelessly, but I didn't do
-it. I would never- I would never disrespect the Queen of the Nile!"*
+"*Wait!*" he cried, falling into parseltongue without conscious thought,
+"*I'm sorry. I'm sorry you were thrown so carelessly, but I didn't do
+it. I would never- I would never disrespect the Queen of the Nile!*"
 
 The cobra stopped, she hovered over him a moment as if uncertain.
 
-"*Princeling,"* she said, finally*, "King's little princeling... sweet
+"*Princeling,*" she said, finally, "*King's little princeling... sweet
 tongued child... No, no, little princeling would not treat Inana this
-way."*
+way.*"
 
 She spun around to face the crowd of students at the platform's edge,
 hissing angrily.
 
-"*Who is it? Who must Inana kill?"*
+"*Who is it? Who must Inana kill?*"
 
-"*There,"* Harry hissed, pointing his wand at McNair, staring stunned at
-them both. *"There is the enemy of Inana*."
+"*There,*" Harry hissed, pointing his wand at McNair, staring stunned at
+them both. "*There is the enemy of Inana*."
 
 She was after the man in a flash. At almost eight feet long, she could
 not only reach him before he could lift his wand, but raise her body up
@@ -884,7 +884,7 @@ serpent from the man's attack.
 
 "Potter, get out of the way!"
 
-"*Don't! Leave her alone! She didn't ask to come here!"*
+"*Don't! Leave her alone! She didn't ask to come here!*"
 
 "Potter, you're speaking gibberish! Move out of the way!"
 
@@ -893,7 +893,7 @@ all, he pocketed his wand and pulled her gently towards him. She did not
 resist, curling around his uninjured arm and around his neck and
 shoulders.
 
-"*It still moves,"* she hissed angrily, indicating McNair struggling to
+"*It still moves,*" she hissed angrily, indicating McNair struggling to
 shout out yet another curse while his air way began to slowly constrict.
 
 Harry stood, Inana tangled around him and his bloody, useless arm

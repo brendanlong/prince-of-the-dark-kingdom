@@ -339,7 +339,7 @@ surreptitiously up at her.
 
 "Harry asked me, of course."
 
-"*Really?"* This time, Natalie's curious gaze turned to Harry. It felt
+"*Really?*" This time, Natalie's curious gaze turned to Harry. It felt
 strangely accusatory, though Harry couldn't fathom why she be imply he'd
 done something devious.
 
@@ -353,7 +353,7 @@ while now. Harry couldn't help but feel a bit smug with his answer.
 
 "Punishment," he said.
 
-"*Punishment?"* asked the three Slytherins. Hermione, who had learned of
+"*Punishment?*" asked the three Slytherins. Hermione, who had learned of
 it all from the twins and then from Harry directly, shared an amused
 look with her troublesome friend.
 

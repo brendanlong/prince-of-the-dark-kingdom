@@ -347,16 +347,16 @@ He glowered at the lot of them, but dutifully approached the sink. He
 leaned in close, studying the immobile fixture and briefly wondered what
 it was doing in the girl's bathroom anyway.
 
-"*Hey,"* he hissed. This close, Harry could see it's tiny silver eye
+"*Hey,*" he hissed. This close, Harry could see it's tiny silver eye
 open and turn to him. It's tongue flickered out to show he was
 listening.
 
 "*Did you see what happened to the girl over there? Did you see who
-killed her?"*
+killed her?*"
 
 Behind him, he heard a gasp, and figured it was Mallory.
 
-"*Which girl?"*
+"*Which girl?*"
 
 Harry's eyes widened in horror. Which girl? There was more than one?
 
@@ -369,10 +369,10 @@ No one said anything, and after a moment he was able to collect himself
 enough to continue.
 
 "*The Hufflepuff girl who was laying on the floor. Did you see what
-happened to her?"*
+happened to her?*"
 
-"It*got her,"* replied the snake. *"*It*got her, just like the other
-one.*It *got them both. Got the annoying one twice. Tee hee hee..."*
+"It *got her,*" replied the snake. "It *got her, just like the other
+one.* It *got them both. Got the annoying one twice. Tee hee hee...*"
 
 Harry didn't understand what it meant. How could you *get* someone
 twice. Assuming *get* meant what he thought it mean. The only way you
@@ -381,7 +381,7 @@ or...
 
 "Myrtle..."
 
-"*The King will be so pleased,"* the faucet hissed as an afterthought,
+"*The King will be so pleased,*" the faucet hissed as an afterthought,
 falling into it's own version of laughter. It sounded a bit like it was
 choking.
 
