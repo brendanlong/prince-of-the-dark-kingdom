@@ -16,3 +16,7 @@ h1 {
     font-family: "Lumos";
     font-variant: small-caps;
 }
+
+ol {
+    margin-left: 1em;
+}
