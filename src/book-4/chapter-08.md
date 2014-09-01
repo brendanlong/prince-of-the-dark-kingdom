@@ -877,7 +877,5 @@ He knew the best way to find out. McGunny was *good* at this sort of
 thing, after all. Plus, it might get him out of the trouble for blowing
 his last two articles. Yeah. This could be fun.
 
----
-
 [^70-1]: For those who are wondering, she said "And you can tattoo it across
 your ass over the summer"

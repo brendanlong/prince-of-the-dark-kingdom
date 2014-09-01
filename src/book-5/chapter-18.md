@@ -702,8 +702,6 @@ ground, and followed Sirius as he walked away.
 "I promised my godson I wouldn't hurt him, but I never said anything
 about helping."
 
----
-
 [^100-1]: Just to be absolutely clear, when Diana was killed, the demi-goddess
 possessing her jumped from Diana's body to Jane's. The Canis family was
 with another pack at the time and were safe.

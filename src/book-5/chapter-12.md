@@ -1334,8 +1334,6 @@ things that will save tax payers billions in the long run and create an
 air of patriotism amongst the students. Establishing such programs here
 will inspire others schools to do the same."
 
----
-
 [^94-1]: Benjamin and Bailey is a wizarding play, the plot premise being two
 wizards after the same witch. Benjamin is a wicked trickster, but
 appears good and kind because of his friendly and complimentary manner,

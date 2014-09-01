@@ -306,8 +306,6 @@ Bartolome Suigi, Horace Slugworth, and Hedwig Vance.
 By the time their arrival at Hogsmeade was announced, Harry was glad he
 had taken the train after all.
 
----
-
 [^10-1]: 'It's not a parlor trick, you idiot!' Actually,
 'Taschenspielertrick' means prestidigitation, an uncommon word in
 America (can't speak for other English-speaking countries) but according

@@ -1190,7 +1190,5 @@ eyes tight and hugged her pillow, summoning up dreams of her parents
 wrapping her in their arms and of a future where the monsters stayed in
 their hills and village was more than just burnt up sticks and mortar.
 
----
-
 [^96-1]: Hillsides are commonly the homes of fairies, particularly hollow
 hills or hills with unusual shape or characteristics.

@@ -1071,8 +1071,6 @@ intrusion, focusing on the glory he had been promised and revenge he
 would exact for this humiliation, but magic greater than his won out and
 tore him from the world into a dark and quiet place.
 
----
-
 [^78-1]: Mid-term exams, include final exams for single semester courses such as
 Europeon History of Magic, and also regular exams for two semester
 courses that always seem to have exams at that time. I hate those.

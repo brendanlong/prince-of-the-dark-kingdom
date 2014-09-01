@@ -787,8 +787,6 @@ that, it's up to the Dark Lord. Happy Holidays."
 
 "If only I were so lucky. The Headmistress is returning on Friday."
 
----
-
 [^35-1]: Remember Blue Pox? I mentioned it in the first book. It's a common
 illness of young wizard. Sneezing commonly results in the lights
 flickering on or off, and other odd little things happening.

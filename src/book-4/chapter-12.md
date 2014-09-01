@@ -1049,8 +1049,6 @@ battle.
 "Not exactly what I was looking for," Harry mused to himself. "But it
 might come in handy."
 
----
-
 [^74-1]: A real, fake creature. Like an American Jackalope. It's a running joke
 in places like Bavaria. Wikipedia it.
 

@@ -708,8 +708,6 @@ Curiosity turned to annoyance.
 
 He left.
 
----
-
 [^69-1]: A butterbrot (at least as I understand it) is German equivalent of a
 sandwich, except they're not really the same thing. Different sort of
 bread, different types of ingredients (although sandwiches are pretty

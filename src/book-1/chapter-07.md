@@ -442,8 +442,6 @@ of him from crazy into sheer genius.
 "You know, Harry. A lot of wizarding families fled to Europe during the
 war."
 
----
-
 [^7-1]: You know, you are a snob? My adoption or lack of adoption is none of
 your damn business.
 

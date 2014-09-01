@@ -631,7 +631,5 @@ only lead him away from the wizarding world but also back into it.
 
 Where would their secrets take him next?
 
----
-
 [^42-1]: Herpetology is the study of reptiles and amphibians. Serpentology is
 the study of snakes specifically.

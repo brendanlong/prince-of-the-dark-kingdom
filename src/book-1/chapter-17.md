@@ -794,8 +794,6 @@ Reluctantly, he looked back over his shoulder.
 "Congratulations on not doing something cliché, like dying. Hogwarts
 hasn't had this much entertainment in *years*."
 
----
-
 [^17-1]: I don't know the English rating system for movies and television, so
 if you know just mentally insert the appropriate term.
 

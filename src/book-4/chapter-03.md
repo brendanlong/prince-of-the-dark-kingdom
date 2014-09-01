@@ -958,8 +958,6 @@ Parchment'.
 
 What the bloody hell had Potter gotten himself into now?
 
----
-
 [^65-2]: For those who don't know what owl pellets are, they are essentially owl
 fur balls. Any bones, fur, feathers, or whatever that an owl can't
 digest, they upchuck. Science classes often use these 'pellets' to be

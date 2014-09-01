@@ -451,6 +451,4 @@ people on completely different levels. Now, your name."
 A strangely sardonic look came across the professor's face, and his
 scowl twisted up in a mockery of a smile. "Of course it is."
 
----
-
 [^1-1]: Piece of trash

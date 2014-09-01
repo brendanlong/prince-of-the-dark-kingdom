@@ -765,8 +765,6 @@ laugh.
 they like to zelebrate Halloween early here. I've never seen so much
 orange in my live."
 
----
-
 [^67-1]: Wallaple is like an apple, only the core has a nut similar to a
 walnut. Both nut and pulp are edible, and most recipes include both
 parts of the fruit.

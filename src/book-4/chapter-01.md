@@ -938,8 +938,6 @@ It was a matter he desperately needed to discuss with Voldemort.
 
 And with Harry Potter.
 
----
-
 [^63-1]: For those who forgot, the Brass Cult is Voldemort's new army.
 **Br**itish **Ass**embly for **Cult**ural Preservation and Defense -
 **BrAss Cult**. Also named because their uniform buttons and insignia

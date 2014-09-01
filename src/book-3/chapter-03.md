@@ -792,7 +792,5 @@ happened to sound like the bane of his existence. He hesitated in the
 doorway just long enough to hear Draco's question and Harry's answer,
 before turning around again in search of the liquor cabinet.
 
----
-
 [^44-1]: This is a real lullaby, called An Irish Lullaby with words by Alfred
 Perceval Graves and music by Charles Villier Stanford.

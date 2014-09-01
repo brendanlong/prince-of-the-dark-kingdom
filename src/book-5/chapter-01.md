@@ -843,8 +843,6 @@ wanted to say.
 "If he escapes... I hope he doesn't come back here. I hope he finds
 somewhere safe."
 
----
-
 [^83-1]: Vratsa Vultures is the Bulgarian pro quidditch team.
 
 [^83-2]: Heidelberg Harriers are the German team.

@@ -480,8 +480,6 @@ settled in and his fingers had started to cramp. He wrote until finally,
 magically and emotionally drained he collapsed out of his chair and fell
 unconscious.
 
----
-
 [^22-1]: Lycanthrosis is related to lycanthropy. It's caused by being bitten,
 having sex, or exchanging blood with a werewolf who wasn't transformed
 at the time. Symptoms include growth of fangs and/or claws, increased

@@ -895,8 +895,6 @@ pissed. Voldmort stood, moving closer, touching Harry's cheek.
 
 "It's not me I'm worried about."
 
----
-
 [^38-1]: Celtic Goddess of the Moon and Inspiration. One of them anyway.
 There's no strict hierarchy of Gods and Goddesses in Celtic religion,
 and most are regional and subject to name and authority changes.

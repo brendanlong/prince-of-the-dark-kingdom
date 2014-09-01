@@ -967,8 +967,6 @@ just their follower, but soon realized the truth. The figure was
 shrouded in black, not blue, and from within in the hood he could
 clearly make out the bone mask of a Death Eater.
 
----
-
 [^85-1]: Before anyone starts shouting down hellfire on me for adding more
 gay couples, I feel I should clarify somethings. One, Carrigan and
 Voldemort were never in a romantic relationship. It wasn't all that

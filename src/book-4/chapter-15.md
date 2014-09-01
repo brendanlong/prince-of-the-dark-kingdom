@@ -927,8 +927,6 @@ faint as his world began crushing down on him.
 
 Merlin, he was going to die from thinking too much.
 
----
-
 [^77-1]: In case, you're wondering, Hermione can't kiss Viktor on the mouth due
 to a Chastity Contract. Snape mentioned it before. If she did kiss
 Viktor, he'd have the rather unpleasant experience of a severe rash...

@@ -668,8 +668,6 @@ and turning her nose into the crook of his neck.
 Snape sat in the uncomfortable infirmary chair in the corner, watched it
 all, and said nothing.
 
----
-
 [^98-1]: Prisoner: "Ah, the traitor in person. I feel so honored."
 
     Prisoner: "What's the matter? Nothing to say, traitor? Aren't you angry?
