@@ -15,10 +15,10 @@ He took a deep breath, grimaced at the bitter taste of bile and potions,
 and then took another. He was having a hard time catching his breath.
 Exhaustion or the beginnings of another panic attack? This wasn't the
 time or the place to indulge in either. Hermione was danger. She was in
-danger, and he was the one who had put her there. He had to find her . .
+danger, and he was the one who had put her there. He had to find her ..
 . no, he couldn't. They would be expecting that. Wasn't that just what
 he had always done? Run off at the first hint that someone he cared
-about was in trouble? Someone might follow him right to her . . . if he
+about was in trouble? Someone might follow him right to her ... if he
 had any idea where she was exactly. By the Goddess, he had told them she
 was probably in London. How could he have been so *stupid*?
 
@@ -31,15 +31,15 @@ Sirius stood there, the trademark manic fury suddenly absent and only a
 terrible stillness remained. Harry could not recall ever seeing the look
 his godfather was giving him now.
 
-"They said you were dead . . ."
+"They said you were dead ..."
 
 Harry's throat tightened. Thoughts of Hermione and whatever danger she
 might be in suddenly vanished, and the there and then suddenly became
 painfully real. Coal black eyes swallowed him in, trying to take in a
 truth he hadn't dared believe possible.
 
-"I prayed . . ." Sirius said. "I never believed the gods answered
-prayers, but I did it anyway and . . . and here you are."
+"I prayed ..." Sirius said. "I never believed the gods answered
+prayers, but I did it anyway and ... and here you are."
 
 "I'm sorry," Harry whispered, his eyes suddenly wet. "I'm sorry."
 
@@ -47,13 +47,12 @@ He hadn't meant to scare them. He hadn't meant to make them grieve for
 him. But his intentions had always had a way of twisting in on
 themselves and hurting rather than helping. Hermione, Vesper Larousse,
 the Goddess Colony, Stephen, even Voldemort, and now Sirius and Remus .
-. . all had suffered at his attempts to help them or others. Why? Why
+.. all had suffered at his attempts to help them or others. Why? Why
 did this happen? Was he cursed?
 
 Sirius pulled him closer and rested his forehead on Harry's.
 
-"You're the closest thing I'll ever have to a son, Harry. After James .
-. ."
+"You're the closest thing I'll ever have to a son, Harry. After James..."
 
 Sirius trailed off, not knowing what to say after that. Harry didn't
 know what to say either so he tried another 'I'm sorry'.
@@ -104,13 +103,12 @@ understand the importance of what he needed to do? Remus might
 understand, but he wouldn't defy Sirius unless it was absolutely
 necessary, and Sirius could be as pig-headed as the Dark Lord when it
 came to caring for his godson. There wasn't a lot that would override
-his possessive protectiveness. Except . . . except perhaps one thing . .
-.
+his possessive protectiveness. Except ... except perhaps one thing...
 
-"Sirius, please . . . She's . . . Hermione . . . she's what my father
+"Sirius, please ... She's ... Hermione . . . she's what my father
 was to you. She was the first person I could look to and think 'family'
 after my parents died. And now she's in trouble, and it's *my*fault, and
-I . . . If there's even the slightest chance I can save her . . .
+I ... If there's even the slightest chance I can save her ...
 Please, just give me ten minutes. I just need ten minutes."
 
 His godfather was momentarily taken aback by the comparison, but as
@@ -122,7 +120,7 @@ back to watching the mouth of alley for any potential eavesdroppers.
 
 After an intense, but brief silence, Sirius finally spoke.
 
-"If we do this . . . help you do this, you will return to the Goddess
+"If we do this ... help you do this, you will return to the Goddess
 Colony without another argument, is that clear?"
 
 Harry nodded quickly. Anything, he'd do anything.
@@ -334,7 +332,7 @@ of murdering your father."
 
 Draco stared at him.
 
-"He's using her as a scapegoat. He doesn't . . . he doesn't want anyone
+"He's using her as a scapegoat. He doesn't ... he doesn't want anyone
 thinking that his people don't know what happened or that—"
 
 Harry ducked as a teacup was hurled in his direction. It shattered on
@@ -386,7 +384,7 @@ you holding up?"
 The Malfoy heir was caught completely off guard. By all logic, she
 should have gone to Harry first, hugged him first, asked over his well
 being first. He was the one she was not so secretly in love with after
-all. Even Harry looked a bit surprised . . . and maybe a little put out.
+all. Even Harry looked a bit surprised ... and maybe a little put out.
 Draco's anger suddenly evaporated into nothing, leaving him feeling like
 a fool.
 
@@ -395,7 +393,7 @@ a fool.
 He gestured towards Harry, who took the hint and explained what had
 happened, adding a few extra details for everyone else's benefit.
 
-" . . . I'm being sent to the werewolf colonies to be kept out of the
+"... I'm being sent to the werewolf colonies to be kept out of the
 way. There's not much I'll be able to do for Hermione—"
 
 "You've done enough," Draco said, trying for cold but it only came out
@@ -423,8 +421,8 @@ question."
 
 "Even from Kyle?" Harry couldn't help but ask.
 
-"There are some things I keep even from Kyle, despite what he thinks . .
-. I'd thank you not to tell him I said so. I don't believe this is a
+"There are some things I keep even from Kyle, despite what he thinks ...
+I'd thank you not to tell him I said so. I don't believe this is a
 matter that requires his attention, regardless."
 
 Harry reached instinctively for his watch to check the time, but of
@@ -604,18 +602,18 @@ for her trouble, landing them both in a graceless heap on the floor.
 she supposed it was a rather interesting response. Not very good for a
 quote though. She hauled Hermione's dead weight up and over to the cot
 in the corner of the room and dropped her on it. The girl didn't even
-stir. Nor did she stir when Skeeter slapped her lightly on the cheek . .
-. and then not so lightly. The rennervate charm worked a little better.
+stir. Nor did she stir when Skeeter slapped her lightly on the cheek ...
+and then not so lightly. The rennervate charm worked a little better.
 
-"Ooohhh . . ." she moaned.
+"Ooohhh ..." she moaned.
 
 "Hermione? Hermione, can you hear me? Tell me what you're feeling."
 
-"Nnn . . ."
+"Nnn ..."
 
 "How does Harry's death make you feel?" she said more loudly.
 
-"Uhnnn . . ."
+"Uhnnn ..."
 
 Entirely useless. Her rennervate wasn't the best, and unfortunately she
 didn't know anything stronger. Perhaps that old crone downstairs had
@@ -685,7 +683,7 @@ Some request you would like to make?"
 Snape turned from the window to the Dark Lord. His expression was blank,
 his eyes a legilimens' nightmare.
 
-"My Lord . . . do you mean to spite every Death Eater that's ever served
+"My Lord ... do you mean to spite every Death Eater that's ever served
 you?"
 
 Voldemort was too surprised for a moment to speak.
@@ -693,9 +691,9 @@ Voldemort was too surprised for a moment to speak.
 "You had already thrown half of the surviving members to the dogs by the
 end of the war and rebuffed or punished half of those that remained in
 your service after that. You've managed to spite everyone left after
-that on a more personal level since then . . . Lestrange and her removal
+that on a more personal level since then ... Lestrange and her removal
 from Hogwarts, MacNair and Umbridge, whatever happened to them, Lucius
-and that silly rivalry with Potter, and now . . . now you mean to turn
+and that silly rivalry with Potter, and now ... now you mean to turn
 your attention on me, then?"
 
 Voldemort let out a huff of disbelief and threw up his hands in disgust.
@@ -752,7 +750,7 @@ decided to put Lestrange in Lucius' position."
 
 Snape didn't bother to hide his grimace.
 
-"That is . . . unfortunate."
+"That is ... unfortunate."
 
 Voldemort smirked.
 
@@ -780,7 +778,7 @@ precisely?"
 the best stopgap there is."
 
 "True, but counting sickles is not how I pictured my career going. And
-the politics . . . I have never enjoyed it."
+the politics ... I have never enjoyed it."
 
 "But you were very good at it during those first few years you helped to
 rebuild. The hours are shorter and the income is better than what you
@@ -810,7 +808,7 @@ Or maybe he was just too damn tired to care.
 "That leaves one final matter to discuss," Voldemort said. "Do you wish
 to surrender guardianship of Harry?"
 
-" . . . I'm not sure I understand."
+"... I'm not sure I understand."
 
 "Your friend is dead. Your goddaughter is a wanted fugitive. Harry
 Potter is at least partially at fault. If you believe yourself to be
@@ -1024,7 +1022,7 @@ might turn you in if the reward is high enough."
 Reward? Reward for what?
 
 "What are you talking about? What's going on? Is this about Harry? Is he
-. . . is he . . ."
+... is he ..."
 
 She didn't want to say it out loud. Not if she didn't have to. Natalie
 suddenly stopped and just looked at couldn't even begin to describe her
@@ -1035,7 +1033,7 @@ and ears, alone in a burnt out husk of a building.
 
 "What have you heard?" Natalie asked first.
 
-"Only . . . Harry . . ."
+"Only ... Harry ..."
 
 She bit her lip.
 
@@ -1046,7 +1044,7 @@ Hermione looked at her. Something in the girl's expression softened.
 "He's fine," she promised. "I saw him less than an hour ago. He's weak
 and in pain, but he'll be okay."
 
-"Oh . . ." She tried to say something else. There was so much to say, so
+"Oh ..." She tried to say something else. There was so much to say, so
 much to ask, but as hard as she tried all she could manage was another
 little 'oh' and a little laugh and another round of tears, this time
 from relief. She didn't think she had ever cried so much in her life.
@@ -1061,7 +1059,7 @@ speak again.
 
 "And Draco? And Narcissa?"
 
-"Both fine . . . well, as fine as they can be under the circumstances."
+"Both fine ... well, as fine as they can be under the circumstances."
 
 "And what are the circumstances? I don't know what's happened. I was
 about ready to go home and then Skeeter just showed up and told me Harry
@@ -1080,7 +1078,7 @@ have done him in."
 
 She didn't know if she should have felt relieved or not. Obviously it
 hadn't been a fun experience for Harry, but if it had only been an
-accident then . . .
+accident then ...
 
 "Or Lucius pushed him, depending on who you talk too. I don't think
 we'll ever really know. Harry's doesn't remember it, and Lucius
@@ -1195,7 +1193,7 @@ your name and the name of your supervising officer?"
 
 The Sentinel's eyes widened, and he looked around nervously.
 
-"I . . . I don't have to tell you that!"
+"I ... I don't have to tell you that!"
 
 "Technically, Flaske, you do, you great idiot," a new voice interrupted
 from the stairway at the corner of the tavern. It was yet another
@@ -1267,7 +1265,7 @@ he was luring her into a false sense of security so she would lead
 others back to Hermione. Oh, Merlin, who was she kidding? If Reicher had
 betrayed them, all he would have had to do was tell them he saw Natalie
 with Hermione earlier and they would have Hermione's location out of her
-quick enough whether she willed it or no. She . . . maybe . . . owed him
+quick enough whether she willed it or no. She ... maybe ... owed him
 an apology, but it wasn't going to be given in a pub surrounded by
 Sentinels and eavesdropping customers. Not after what had just happened.
 
@@ -1322,8 +1320,8 @@ Hermione ducked her head guiltily. Of course Draco would want comfort,
 *deserved* comfort, and if circumstances were different she would
 probably be giving it to him herself right now.
 
-"It still doesn't feel real. It's just . . . I don't know. I should feel
-scared or sad or angry . . . *something,*but I don't. I can't. It didn't
+"It still doesn't feel real. It's just ... I don't know. I should feel
+scared or sad or angry ... *something,* but I don't. I can't. It didn't
 even occur to me that Draco would feel sad about Lucius. God, what's
 going to happen to Draco?"
 
@@ -1455,7 +1453,7 @@ them and I would never know."
 
 Ron gave her a startled look, then looked away.
 
-"I could probably find out," he said. "I mean . . . they keep
+"I could probably find out," he said. "I mean ... they keep
 everybody's name in giant books where anybody can find them. It couldn't
 be that hard to look them up."
 
@@ -1479,7 +1477,7 @@ would bother you for traveling alone. This is about fifty galleons worth
 of Francs. They use muggle money even in the wizarding parts of France.
 This is Fred and George's little instruction manual for traveling around
 muggles. You'll have two and a half hours to read through that. Explains
-things like money, transport, muggle customs, things like that . . ."
+things like money, transport, muggle customs, things like that ..."
 
 "Where did you get all this? How do you even know about it?"
 
@@ -1498,7 +1496,7 @@ something novel and illegal. It's not like it hurts anybody."
 
 "Unless you get caught."
 
-"Yeah . . ." he agreed, his smile fading. Hermione frowned thoughtfully.
+"Yeah ..." he agreed, his smile fading. Hermione frowned thoughtfully.
 "Anyway, Harry had them put a kit together for you a while back, just in
 case. So when Natalie showed up at the tavern, I knew what she was there
 for."
@@ -1510,7 +1508,7 @@ was rather a leap in logic for him to have assumed Natalie showing up at
 the Red Weasel meant Hermione had to leave the country. He didn't
 answer.
 
-"Ron . . . how come Fred and George aren't here?"
+"Ron ... how come Fred and George aren't here?"
 
 "Don't worry about it," he said. "They'll be okay. It's probably best I
 got this out of their office, or they really might have gotten in
@@ -1602,7 +1600,7 @@ a challenge."
 
 Her mouth twitched a bit, but settled again.
 
-"Better the danger you know . . ." she said. "Besides, I had Draco and
+"Better the danger you know ..." she said. "Besides, I had Draco and
 my friends then."
 
 He snorted. "Yeah, I think you might have done better on your own."
@@ -1631,7 +1629,7 @@ had described what a beautiful and strange city it really was.
 Sometimes, when she was depressed, she would imagine what it would have
 been like to run to Beauxbatons, hide away in the catacomb libraries,
 wander the museums and galleries, steal into the lectures at the city
-universities . . . just any number of little things. When Harry and
+universities ... just any number of little things. When Harry and
 Draco came or she could finally come home, she would have so much to
 tell them. Her own little adventure.
 

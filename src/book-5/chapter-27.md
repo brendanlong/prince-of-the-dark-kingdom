@@ -491,7 +491,7 @@ did he quickly jumped to his feet to salute Major Leeds. The typical
 military dignity was compromised somewhat as he had been in the middle
 of cleaning and repairing his uniform when the woman had marched into
 the barracks. She smirked, no doubt amused to have come in while he was
-only in his shirt and boxers. .
+only in his shirt and boxers..
 
 "At ease, Lieutenant."
 

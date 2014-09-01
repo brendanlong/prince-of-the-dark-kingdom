@@ -88,7 +88,7 @@ Sometimes he would stay up at night thinking about, a network of
 different pasts leading down paths to different futures, too many to
 calculate. And sometimes it all seemed so trivial. Harry Potter was
 Harry Potter, and he was a wizard. The past couldn't change it, and the
-present didn't want to. .
+present didn't want to..
 
 He was enjoying himself so much that when August 1st arrived, he had
 completely overlooked the fact that he was now eleven. Hermione,

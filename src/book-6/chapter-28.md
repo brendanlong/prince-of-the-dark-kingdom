@@ -61,13 +61,13 @@ Dark Lord could ask.
 
 "Is there any way in or out of there without deactivating the wards?"
 
-"No . . . but—"
+"No ... but—"
 
 "There's another dozen coming through the portcullis. They've already
 torn down the wards there," Amelon interrupted. For the first time, his
-excitement had taken on a nervous edge. "More inside . . . no, they're
-on the roof of the South Wing. The courtyard . . . another tower on the
-east end . . . more crossing the moat . . . they just keep coming!"
+excitement had taken on a nervous edge. "More inside ... no, they're
+on the roof of the South Wing. The courtyard ... another tower on the
+east end ... more crossing the moat ... they just keep coming!"
 
 "Where are the staff and students?" the Headmaster demanded, stumbling
 back towards the map. The little red, green, yellow, blue, and orange
@@ -77,10 +77,10 @@ keep track of individually, but the flowing swirl of color they made as
 they moved through the castle gave Snape a general impression of what
 was happening.
 
-"Good . . . they're moving into position to defend the castle."
+"Good ... they're moving into position to defend the castle."
 
 "Severus," Voldemort said, calling back his attention. "The Astronomy
-Tower . . . ?"
+Tower ... ?"
 
 The Headmaster nodded without looking away from the map.
 
@@ -90,7 +90,7 @@ should be able to get to him. Hinky!"
 The house elf appeared in the room in a frantic flailing of gangly
 limbs.
 
-"M-m-master! The c-castle! It's-it's-it's . . . Eeekk! Headmaster, sir,
+"M-m-master! The c-castle! It's-it's-it's ... Eeekk! Headmaster, sir,
 you's is bleeding!"
 
 "I am aware of the situation, Hinky. Mr. Potter is in the Astronomy
@@ -175,7 +175,7 @@ The alarm went off in Bristol just as Tom was pouring his second cup of
 coffee for the night and flirting with one of the mail room censors in
 the break room. Lestrange had gone home for the evening, leaving him
 behind to 'tidy up' the office. He'd handed the job off to one of the
-secretaries and used the opportunity to . . . make friends, as it were.
+secretaries and used the opportunity to ... make friends, as it were.
 
 Tonight, it was Mindy the mail room censor, who was just bursting with
 gossip she wasn't allowed to talk about except of course to those of
@@ -322,8 +322,8 @@ given. He had to be mistaken.
 "Get a hold of yourself, Helden. Where are they? How did you count
 them?"
 
-"They're out over the castle, sir! I think . . . I think half are on
-brooms and half are on the ground. They . . . they're . . . They're
+"They're out over the castle, sir! I think ... I think half are on
+brooms and half are on the ground. They ... they're ... They're
 trying to storm the place! You can see the lights when their spells go
 off!"
 
@@ -428,7 +428,7 @@ propped up the heaviest of the debris. He touched his exposed skin and
 tested all his limbs. Everything seemed to be fine. He couldn't find so
 much as a splinter.
 
-"Bloody hell . . . how bad is he?"
+"Bloody hell ... how bad is he?"
 
 At this, Hinky fell very quiet. It was as good an answer as any.
 
@@ -554,7 +554,7 @@ the wall large enough to fit a small dragon through. The upside was that
 none of the Germans seemed to be alive to take advantage of it, and the
 wall itself was starting to close up on itself.
 
-"Shit, shit, shit . . . Hinky! Get him inside!" Harry yelled, struggling
+"Shit, shit, shit ... Hinky! Get him inside!" Harry yelled, struggling
 to climb out of the hole. The tower shook, throwing him off balance and
 back into the crawl space. A flash of bright green light flared above
 him, and he felt the sharp burn of dark magic brush against his skin.
@@ -631,7 +631,7 @@ Everyone was dressed in black robes. So was he, the lighting was bad,
 and she hadn't had time to look at him closely before catching him in
 mid-air.
 
-Well, that was . . . lucky?
+Well, that was ... lucky?
 
 "Are you awake back there? Now is not the time to space off, buddy."
 
@@ -880,7 +880,7 @@ above him at the fire burning above him through the distorted haze of
 lake water. He continued to stare as hesaml quickly to the bottom until
 his back and head touched the muddy bottom below.
 
-He nearly gasped in lake water when he realized he might drown . . .
+He nearly gasped in lake water when he realized he might drown ...
 again. He floundered for a moment to pull himself upright and struggle
 back towards the surface. He stuck his wand, amazingly still clutched in
 a death grip in his hand, in his mouth and swam as hard as he could for
@@ -954,7 +954,7 @@ our direction with every intention of breaking down the door and killing
 me. I likely will not have the opportunity to ask again. You likely will
 not have the opportunity to look."
 
-" . . . I don't know whether you're being a pessimist or a romantic."
+"... I don't know whether you're being a pessimist or a romantic."
 
 Snape didn't reply, but Amelon was already looking. Fortunately, there
 were only a few violet dots to sort through.
@@ -1051,7 +1051,7 @@ Snape let out a snort.
 "You're dead, Mandalari. All of your people are dead, just like the last
 time you tried to take this school."
 
-" . . . *Obstringo!*"
+"... *Obstringo!*"
 
 "*Nigerimortus vitis*!"
 
@@ -1120,13 +1120,13 @@ wards. I'm sure you'll manage to figure out something."
 
 "You can't take the Dark Lord on your own!"
 
-"I'm never alone . . ." he said, his free hand finding the crucifix and
+"I'm never alone ..." he said, his free hand finding the crucifix and
 squeezing it gently. The witched wasn't impressed, but didn't bother
 arguing. There was no point arguing with fanatics.
 
 "What about the Headmaster?" she asked instead.
 
-"If you can't make him cooperate . . . kill him."
+"If you can't make him cooperate ... kill him."
 
 ---
 
@@ -1161,11 +1161,11 @@ Merlin, he was tired.
 He closed his eyes and rested his forehead against the stones of the
 castle.
 
-"I'm sorry. I don't know what to do. I'm sorry . . ."
+"I'm sorry. I don't know what to do. I'm sorry ..."
 
 Beneath his hands the castle suddenly felt warm.
 
-Oh . . . *oh!* The castle was alive. The castle had always been alive.
+Oh ... *oh!* The castle was alive. The castle had always been alive.
 He knew this. He had known this for years, had sensed it from the day he
 first saw it. It had been alive, but he had never felt it *stirring*like
 this before. He could feel its magic beating like heart, filled with so
@@ -1368,7 +1368,7 @@ with holding the front entrance.
 
 "We've held on well so far, but we can't hold out for much longer,"
 Flitwick agreed solemnly. "There's just too many of them, and they know
-what they're doing. We're trapped here. There's no . . . Wait! Harry?!"
+what they're doing. We're trapped here. There's no ... Wait! Harry?!"
 
 The dwarfish professor abandoned his charms in order to turn to Harry,
 seizing him by his robes and practically pulling him down to his level
@@ -1378,7 +1378,7 @@ on his knees.
 
 "How did you get out of the castle that day Lestrange locked it down?"
 
-"Um . . . I . . ." He felt a natural reluctance to discuss the Chamber
+"Um ... I ..." He felt a natural reluctance to discuss the Chamber
 of Secrets, which as its name implied seemed best left just that. A
 secret. However, when Harry realized what Flitwick was getting at, his
 eyes widened and he felt some of his former energy returning. "There is
@@ -1390,7 +1390,7 @@ Transfiguration professor went back to casting spells on the ice dam.
 
 "Do you think you could lead the castle residents out?" Flitwick asked.
 
-"I . . . yes. I think so." Yet even as he said it, something felt wrong.
+"I ... yes. I think so." Yet even as he said it, something felt wrong.
 The entrance to the chamber might be reluctant to allow so many people
 inside, and the basilisk inside might not be too pleased either. She had
 grown significantly between his visits, and after all the time that had
@@ -1398,7 +1398,7 @@ passed since he last saw her, she might well be bigger than him now and
 considerably more lethal. But what else could he do? This might be their
 only chance to get everyone out safely. They had to give it a try.
 
-"Everyone is scattered around the castle . . . and then there's the
+"Everyone is scattered around the castle ... and then there's the
 injured," Flitwick said, mostly to himself. "We can probably get most of
 them out, but not all. There isn't enough time."
 
@@ -1550,7 +1550,7 @@ His interrogator looked startled, then suspicious.
 
 "Even if I told you, it wouldn't work for you. The spell is tied to me.
 Only I can cast the counter-spell. If you'd like to give me my wand—no?
-Well, then the clock is ticking for your friend . . ."
+Well, then the clock is ticking for your friend ..."
 
 The wizard's expression twisted from its previous congeniality into a
 hateful sneer. He bit out a Punching Hex that left Snape's jaw aching
@@ -1625,7 +1625,7 @@ The dungeons are a very long ways away, Snape thought to himself.
 "I'm sorry, Draco," Snape said, his vision starting to go. "I'm so
 sorry."
 
-"Severus, don't . . . you can apologize later . . . when I know what the
+"Severus, don't ... you can apologize later ... when I know what the
 hell you're talking about."
 
 "He's going into shock, Draco," another voice came, female this time. It
@@ -1801,14 +1801,14 @@ Harry had never been so happy to see him.
 Harry just grinned and closed his eyes. Now seemed as good a time as any
 for a nap.
 
-"And you . . . I know you, don't I?"
+"And you ... I know you, don't I?"
 
 "*Exsanguinus!*"
 
 "*Nulta neuro calmea!*An Italian? Ah, I remember now. You're Mandalari,
 the leader of those Catholic vermin we drowned in the lake. Still alive?
 I suppose your god isn't entirely useless then. One out of two hundred
-was it? Not a bad score . . . for Him, at least."
+was it? Not a bad score ... for Him, at least."
 
 Mandalari screamed in rage and let out a stream of curses, each more
 vicious than the last. Maggy trembled next to Harry, and despite his
@@ -2023,8 +2023,8 @@ pressed their palms together, and Harry closed his eyes tightly and
 shuddered. Magic, *his* magic, flowed back into him, and with it blood
 that wasn't his.
 
-"Ah... nn . . . uh, this is unpleasant," Harry gritted, his veins
-burning at the touch of the foreign something. "Bloody hell . . . are
+"Ah... nn ... uh, this is unpleasant," Harry gritted, his veins
+burning at the touch of the foreign something. "Bloody hell ... are
 you sure this is safe?"
 
 "If it were anyone other than you, they would already be dead. Since the
@@ -2068,13 +2068,13 @@ He felt parts of himself missing, lost with the fallen towers and
 spires, its statues and armors shattered, the windows cracked, the
 dormitories burning. The spell released, pushing broken doors back into
 places, smothering the fires, putting back the fallen stone and mortar,
-mending up the torn tapestries, fixing itself . . . healing.
+mending up the torn tapestries, fixing itself ... healing.
 
 "*Wrong spell, Harry*,"Voldemort hissed angrily in parseltongue, drawing
 him back into his body. It was more bearable now that the magic was
 flowing *through*him and not collecting inside, but his heart still felt
 like it was trying to escape his ribs. What spell had he needed to cast?
-A weather spell . . . he knew two. What were they?
+A weather spell ... he knew two. What were they?
 
 "*Concentrate*."
 
@@ -2082,7 +2082,7 @@ The Rain Spell. Sprout taught them in Herbology. So convenient for
 watering the garden. She would be absolutely horrified with him later,
 he thought vaguely.
 
-"*Nimbosio et nimbosio et nimbosio . . .*"
+"*Nimbosio et nimbosio et nimbosio ...*"
 
 His mind flowed back into the castle, back into the stones, and out
 again through the chimneys and the broken windows and rain spouts as a
@@ -2091,10 +2091,10 @@ droplets. He thickened and condensed until the air became too full and
 too heavy, and he fell. A thousand times he fell and then million and
 billion and then so much he could not be called rain but a waterfall.
 
-"*And thunder. Tonitrio . . . ,*" Voldemort goaded, his hissing tones
+"*And thunder. Tonitrio ... ,*" Voldemort goaded, his hissing tones
 echoing through him.
 
-"*Et tonirtio et nimbosio et tonitrio et nimbosio et . . .*"
+"*Et tonirtio et nimbosio et tonitrio et nimbosio et ...*"
 
 Hundreds of the wizards and witches, not of himself, enemies, pierced
 him, magic flung to cast him off, to shield themselves, to dry him up,
@@ -2105,7 +2105,7 @@ air like children's toys.
 "*And hail. Grandonio.*"
 
 "*Et tonirtio et grandonio et nimbosio et grandonio et tonitrio et
-nimbosio et . . .*"
+nimbosio et ...*"
 
 From the ground, the witches and wizards threw up more shields, more
 counter-curses, more magic and desperation that struck him, scattering
@@ -2117,7 +2117,7 @@ had tried to shatter him.
 "*And wind. Flabraborio.*"
 
 "*Et flabraborio et grandonio et nimbosio et flabraborio et tonirtio et
-nimbosio . . . .*"
+nimbosio ....*"
 
 The wind blew up, but he had no control of it. Wind was a part of him
 and yet outside himself, shapeless and restless and everywhere. It came
@@ -2157,7 +2157,7 @@ drifted away.
 Minutes, maybe hours later, the sound of crying drew him back to
 consciousness. The broad back he was resting against began to tremble.
 
-"Sshhh . . . keep moving. It's alright, just keep going. It isn't much
+"Sshhh ... keep moving. It's alright, just keep going. It isn't much
 further," McGonagall urged, her voice drifting closer and then further
 away. He opened his eyes and peered blearily over the shoulder of the
 one carrying him.

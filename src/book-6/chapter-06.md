@@ -41,7 +41,7 @@ other man clearly.
 The honeymoon had been doing the caustic man some good he noted. His
 normally sallow complexion was flush with beginnings of a tan and the
 shadows under his eyes had receded, leaving him looking, if not exactly
-handsome, at least younger. .
+handsome, at least younger..
 
 Harry wondered how long it would last.
 
