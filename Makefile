@@ -14,7 +14,7 @@ MOBIS := $(subst .epub,.mobi,$(EPUBS))
 
 KINDLEGEN_FLAGS := -c2
 PANDOC_FLAGS := --toc --toc-depth=1 --chapters --epub-stylesheet=src/style.css \
-    --epub-embed-font=src/fonts/lumos/lumos.ttf
+    --epub-embed-font=src/fonts/lumos/lumos.ttf --smart
 
 all: $(EPUBS) $(MOBIS) ;
 epub: $(EPUBS) ;
