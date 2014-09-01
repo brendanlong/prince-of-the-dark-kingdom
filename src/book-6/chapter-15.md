@@ -2108,7 +2108,7 @@ The elf smiled and pushed himself out of his chair with a languid grace.
 
 "You truly are an arrogant creature. Do I or my court appear so fragile,
 so terrified of your 'Dark Magic'? We are not the idle Tuatha de Danann
-or the broken Mag Morians. We are *Milesians*. We were made for war. Our
+or the broken Mag Morians. We are *Milesians*[^125-5]. We were made for war. Our
 numbers have never been greater nor our strength. We will not be undone
 by the Dark Lord or his puny army. We will be made stronger by them."
 
@@ -2785,8 +2785,14 @@ Maybe it was something more insidious.
 Either way, he had to retrieve Harry, whether it was a trap or not. It
 was, at this point, he mused humorlessly, a matter of habit.
 
-Finally! Finally, it's done! This chapter just didn't want to cooperate,
-no matter how much I wanted to write it! I think this is actually my
-longest chapter yet. And then my basement flooded! And I live in the
-basement! Argh!
+[^125-1]: Okay, so I've been a bit inspired by Norse mythology since the Thor movie came out, even though I haven't seen it yet, and it just occurred to me as I was researching it... gee, this would make a sort of sense if the Aesir were just a sort of faerie race. So yeah, in my universe that's what they are. In Norse Mythology, the god Balder is made nearly indestructible through sorcery in order to save him from his prophesied death, but he still kicks the bucket when Loki (who would be a sort of conjurer in this case), tricks Balder's blind brother into shooting him with a arrow made of mistletoe and killing him. This inspired the idea of mistletoe arrows having the capability of penetrating shield charms, since that is essentially what it did in Balder's case. So ha! That idea was not pulled out of a plot hole!
 
+[^125-2]: Remember, when the Sword of Gryffindor shattered in Harry's hand, it's magic was transferred to Harry. His hand is very much like the sword, and to a certain extent he has mithral running in his blood.
+
+[^125-3]: Literally means 'Autumn Realm' in Norse. I wanted to do Twilight or Sunset realm, but I couldn't find the translation.
+
+[^125-4]: This is an actual type of fairie known for living in Scottish marshes. I took some liberty with her appearance.
+
+[^125-5]: A velorisp is a type of bird similar to a cassowary, and twice as mean. Typically only found in fairy realms, or forests where fairies are in high numbers.
+
+[^125-6]: Milesians were the tribe who supposedly drove the Tuatha de Denann, a powerful court of fairies, out of their homes and into distant lands. The Tuatha de Denann are the original inhabitants of Ireland and the surrounding isles. In my version, they are are also themselves fae. I gathered from research that there are lot of different fairy tribes and they are often at war with one another.

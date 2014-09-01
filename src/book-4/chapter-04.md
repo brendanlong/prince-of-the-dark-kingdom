@@ -783,7 +783,7 @@ alive was so important.
 He needed to be more careful with his actions, since he wasn't the only
 one affected by them.
 
-Voldemort was still a \#& [^66-4]\#&\$! , and deserved to die horribly, but
+Voldemort was still a \#&\*\#&\$!, and deserved to die horribly, but
 he wasn't going to be the one to bring it about.
 
 And speak of the devil, there's the giant snake now, slithering out of
@@ -898,8 +898,6 @@ it. Thank you."
 
 Slowly, it dawned on him what she was saying, and gradually, he found a
 smile of his very own to give back to her.
-
----
 
 [^66-1]: Alright, as gay as that might sound, they're not really homosexual. I
 feel it important to reiterate it at this point, since it becomes

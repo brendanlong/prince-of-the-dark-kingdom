@@ -1407,11 +1407,7 @@ good to learn some humility early in his immortality.
 
 "Do you have an address?"
 
----
-
-Notes:
-
-Wessicle: A bit like tennis played on brooms, only with a cricket bat,
+[^143-1]: Wessicle: A bit like tennis played on brooms, only with a cricket bat,
 and for every hit missed the charmed ball (called a wessicle) can fly
 further away from the player (making it harder to hit). Miss too many
 shots and the wessicle flies into the crowd and the game is over.

@@ -1969,10 +1969,4 @@ His discomfort took on a sharper edge of wariness.
 "Weeellll... I was wondering if I could ask a teeny tiny, itsy bitsy
 little favor..."
 
----
-
-Necrotist: a wizarding medical examiner/mortician.
-
-P.S. Special thanks again to Arwen and FiveofDiamonds for betaing.
-Particularly, FiveofDiamonds who had so much on her plate already! Best
-of luck with your studies!
+[^132-1]: Necrotist: a wizarding medical examiner/mortician.

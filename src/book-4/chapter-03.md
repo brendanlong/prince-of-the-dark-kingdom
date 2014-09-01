@@ -104,7 +104,7 @@ Voldemort looked away from the spirit and down at Harry, seeming to
 contemplate his inquiry or more specifically why it had been asked.
 Finding nothing more than childish curiosity, he answered.
 
-"I was promised a millennium about fifteen years ago[^65-1]. So...
+"I was promised a millennium about fifteen years ago. So...
 nine-hundred and eighty five years to go."
 
 Harry gaped. The life span of the earth seemed like a long time, but

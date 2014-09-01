@@ -1,6 +1,6 @@
 # The Final Battle of Hogwarts
 
-"They wouldn't dare try the same thing twice . . ." Voldemort said,
+"They wouldn't dare try the same thing twice ..." Voldemort said,
 marveling at the very notion. At his feet, Snape was struggling to get
 up, and this time the Dark Lord let him and moved to the nearest window.
 He had better night vision than most, but his eyes weren't adjusted, and
@@ -17,12 +17,12 @@ fingerprints trailed wherever he touched.
 
 "How many this time?" Voldemort asked.
 
-"I don't know . . . they won't show up until they're within at least a
+"I don't know ... they won't show up until they're within at least a
 hundred feet of the castle," Snape said breathlessly and closed his eyes
 tightly for a moment to clear his thoughts. Amelon, who was already
 studying the map, continued for him.
 
-"If the black dots are the attackers . . . we already have some in the
+"If the black dots are the attackers ... we already have some in the
 high towers. A little less than a dozen."
 
 "The towers will all seal against intruders once the wards are
@@ -2172,4 +2172,8 @@ drift off.
 
 "I guess so," Goyle replied noncommittally, and Harry fell back to
 sleep. For now, that was all that mattered.
+
+[^138-1]: Traditionally, castles had 'arrowslits' built into them so archers could fire out on the enemy with minimal exposure. The idea was adapted to Hogwarts.
+
+[^138-2]: A non-lethal Hex that creates a rather large sticky web when cast in a door or window. Notoriously difficult to tear down physically and magically. Potions are typically required.
 

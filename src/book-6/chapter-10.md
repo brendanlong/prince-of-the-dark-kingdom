@@ -1793,3 +1793,16 @@ generous, he smiled back at her.
 
 "Yes, I can see that now."
 
+[^120-1]: Ira's miscarriage was the result of minor infection unrelated to her pregnancy causing complication in her pregnancy, primarily a fever and a hormonal imbalance.
+
+[^120-2]: A diving winnow is a swallow-like bird that dives for its dinner in Scottish lakes. Once it hits the water is swells with water to the size of a small penguin (and acts much like one) and can't fly again until its feather dry out- forty minutes to six hours later depending on the weather. They have long legs and sharp claws, however, and can run or climb trees if faced with predators.
+
+[^120-3]: Fresh water hydras are related to jellyfish, not the multi-headed dragon thing.
+
+[^120-4]: Arrowslits are real castle features, and as the name implies they were used for shooting arrows out at the enemy while minimizing exposure to the archer. I thought the same feature would work well for wizards.
+
+[^120-5]: Hoardings were wooden constructs that projected beyond the wall, allowing defenders to shoot at, or drop objects on attackers at the base of the wall without having to lean perilously over the crenellations, thereby exposing themselves to retaliatory fire. (Wikipedia; "castle")
+
+[^120-6]: The Italians apparated over the Serpentine in Hyde Park, London.
+
+[^120-7]: Merton Graves is an actual member of the canon Weird Sisters.

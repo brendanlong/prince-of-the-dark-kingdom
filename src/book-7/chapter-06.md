@@ -1577,13 +1577,11 @@ That shocked another laugh out of Sirius.
 
 "Don't tell Luna that. She might get ideas."
 
----
-
-[^145-3]'Ligananimus' is a spell used to turn the heart to wood. It's a
+[^145-1]: 'Ligananimus' is a spell used to turn the heart to wood. It's a
 transfiguration spell most often used in defense against vampires, as
 'avada kedavra' has no effect on vampires. Better than even a staking.
 It's just as effective against regular people, of course, but easily
 blocked by various shield spells and magical pendants.
 
-[^145-4]'Ignatus lumina' is a fireworks spell. It's more flash than bang and
+[^145-2]: 'Ignatus lumina' is a fireworks spell. It's more flash than bang and
 relatively harmless, but damn frightful if you're not expecting it.

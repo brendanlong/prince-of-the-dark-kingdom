@@ -354,7 +354,7 @@ trying not to laugh, but only just managed it.
 
 "It's to prevent my body from rejecting the egg. The *magical* egg. She
 makes it out of human amniotic fluid[^114-1] and some of my blood. It'll make
-an egg with all my DNA[^114-2], but then she'll induce meiosis so there will
+an egg with all my DNA, but then she'll induce meiosis so there will
 be two unfertilized eggs. She can make dozens of them, and save the
 spares for later use. It's sort of based off of cloning techniques only
 with meiosis at the end. But it's all done magically so there's magical
@@ -364,7 +364,7 @@ weeks."
 He only understood about half of what she had said. He knew what an egg
 was of course, and amniotic fluid was used in some potions (what most
 would consider very *dark* potions), but the rest of it was only so much
-medical jargon. What on earth was cloning?[^114-3] It might have sounded very
+medical jargon. What on earth was cloning?[^114-2] It might have sounded very
 interesting under different circumstances, but at the moment it just
 sounded experimental and dangerous and not something he wanted perform
 on his new wife.
@@ -707,7 +707,7 @@ end."
 Harry looked up from his article on king penguins. "No way! That'll take
 forever!"
 
-Remus shrugged. "It will take a while. We'll start at classes[^114-4]; you
+Remus shrugged. "It will take a while. We'll start at classes[^114-3]; you
 know birds, reptiles, mammals, etc. I've never heard of anyone being
 able to move between classes; which will leave us with a lot of orders
 we'll have to wade through."
@@ -738,7 +738,7 @@ for in his trunk, and handed it to Harry that it even seemed remotely
 plausible.
 
 *Babylonia's Compendium of Practical Tassomancy; Theory, Techniques, and
-Recipes[^114-5].* It was thick and heavy, and when he opened it he found the
+Recipes[^114-4].* It was thick and heavy, and when he opened it he found the
 writing miniscule and compacted.
 
 "Geh."
@@ -900,4 +900,12 @@ The cat let out a distressed yowl.
 "Sorry, fella," he said, grimacing in sympathy. "It's nothing personal."
 
 Then he closed his eyes and began to recite.
+
+[^114-1]: Amniotic fluid contains stem cells, which in case you didn't know, are cells that can divide to become differentiated cell types such as skin cells or blood cells or t cells or whatever. My thought here is that through magic, the stem cells in amniotic fluid would become egg cells and incorporate DNA from Ira's white blood cells in her blood to create viable Ira egg cell so she wouldn't have to get a donor egg and whatever child she has would genetically be hers as well as Snape's.
+
+[^114-2]: Somehow I just don't see witches and wizards studying cellular biology. Spellwork and potions don't work on that finite a level, and most non-magical techniques would only be used if they were particularly obvious, such as checking the pulse with the fingers or checking eyes for dilation for diagnosis and rarely used for treatment except in emergency situations where the necessary potions or equipment might not be available.
+
+[^114-3]: By classes, I mean the classes of animals according to Linnaeus's taxonomic classification. This includes mammals, birds, reptiles, amphibians, fish, insects, and invertebrates (not including insects). Orders of animals would be like canines (which include all dog-like species) or equines (which include all horse-like species)
+
+[^114-4]: Tassomancy is the practice of reading tea leaves.
 

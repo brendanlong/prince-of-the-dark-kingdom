@@ -703,7 +703,7 @@ merely stared at him pityingly and confused.
 what's wrong first," she begged. Her promise of absolution, however,
 left him looking more anguished than ever.
 
-"I…I can't…" he struggled.
+"I… I can't…" he struggled.
 
 "If this is because I sold Blaise some girl's lacey knickers and said
 they were your sister's, I swear they were just a transfigured sock."
@@ -770,10 +770,10 @@ as something he would grow out of when he entered Hogwarts, but away
 from the manor where Lucius could curb any outrageous behavior the girl
 was now fostering ridiculous notions of chivalry and impulsiveness.
 
-And she had *hit*him! Her own foster father. A *pureblood* wizard! He
+And she had *hit* him! Her own foster father. A *pureblood* wizard! He
 had pulled her out of that orphanage and given her a beautiful home and
 beautiful clothing and the best education money could buy, and this is
-how she repaid him? With a '*drop dead'* and an honest attempt to do
+how she repaid him? With a *'drop dead'* and an honest attempt to do
 just that!
 
 It was intolerable.
@@ -826,7 +826,7 @@ close enough that he wouldn't be shouting *that* particular tidbit down
 the hall.
 
 "Of course not," she hissed, not even turning to look at him, "It was
-just a *sock*. Not that *he*knows that. Who gives a damn that you've
+just a *sock*. Not that *he* knows that. Who gives a damn that you've
 just sold my reputation and my dignity with a *lie*. I'm just a mudblood
 after all. I don't have anything to proud about to begin-"
 
@@ -889,7 +889,7 @@ didn't other her during the day, and she actually quite enjoyed the
 quiet solitude, but at night…and right now.
 
 Well, she was a little alarmed that the knock hadn't come from her
-*front*door, but rather her *bedroom* door.
+*front* door, but rather her *bedroom* door.
 
 "Who is it?" she asked cautiously.
 
@@ -953,7 +953,7 @@ what to say next, he poured them each a cup of tea. It was very dark,
 almost black, and he sipped the hot brew and grimaced. Then took another
 sip and answered the unspoken.
 
-"He'll live. It was…is…very bad, but he will live."
+"He'll live. It was… is… very bad, but he will live."
 
 "What happened?"
 
@@ -1443,3 +1443,31 @@ in horror.
 
 "Oh Merlin…"
 
+[^109-1]: No, potions can't fix EVERYTHING. Even some things that muggle
+medicine can. I've seen no evidence that wizarding kind is particularly
+superior to muggles in any way outside of magic. For some, that's more than
+enough. Although, really we don't get to see a lot of the wizarding world in
+Cannon either when you stop to think about it.
+
+[^109-2]: A spectrecat is completely made up animal, based off the old wives
+tale that if you let a cat sleep in the cradle of a new born, it will steal
+their breath and kill them. My spectrecats really do that, except they do it
+to anyone too weak to fend them off. They look just like regular cats except
+they're white and can squeeze themselves through tiny spaces to get inside
+homes or in this case, hospitals, not unlike lethifolds. Gargoyles in the
+wizarding world, serve the very real purpose of fending off evil spirits and
+beings like lethifolds and spectrecats. The pigeons and rats just supplement
+their diet.
+
+[^109-3]: The one think I don't really like about the terms medi-witch and
+medi-wizard is trying to pick the plural form when both genders are
+represented. It's rather chauvinist, but I'm adopting the term medi-wizards
+when referring to a group of them, but be aware that there is a mix.
+
+[^109-4]: Despite Snape's many dubious character traits, he has a rather
+romanticized idea about marriage and family. He might not find anything wrong
+with buying a hooker (so long as he's not married or affianced to anyone), but
+he would never consider having sex with Ira before their wedding night. He
+would view it as demeaning to her, and lower her respectability. Afterwards
+they'll probably go at it like bunnies. Assuming I don't have her killed or
+some how break off their wedding.

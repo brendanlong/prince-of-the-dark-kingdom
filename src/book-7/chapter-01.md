@@ -1792,5 +1792,19 @@ sort of love.
 Her roommate's reply to this was to lock the window, close the curtains,
 and hang her cross on the door handle.
 
----
+[^140-1]: Juno is the goddess of State, and is a national symbol in France.
+She is also the model for the Statue of Liberty in New York, an American-French
+collaboration.
 
+[^140-2]: The MCSA is short for the Muggle Cultural Segregation Agency, which
+can be considered the adult side of WYRA. It's in charge of separating adult
+witches and wizards from muggles and muggle society and culture. Remember,
+there was originally a number of adult wizards married to muggles or with
+muggle relatives and friends. They couldn't afford to have their memories
+erased like small children could, so the MCSA went about separating the
+magical folk from the muggles through other means, and of course erasing
+or altering the muggles' memories of the magical folk. They're also in
+charge of keeping out muggle contraband and preventing wizarding folk from
+traveling within muggle territory. Ron talked a little bit about this with
+Hermione and Natalie when he escorted them through muggle London, and Fred and
+George have quite a business in illegal muggle contraband.

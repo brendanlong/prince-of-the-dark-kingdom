@@ -489,7 +489,7 @@ stiffened.
 "Is anything the matter?" he asked Morgan.
 
 "No. Security has encountered nothing more than the usual hidden flasks
-and snuff boxes[^112-1]. My people will keep an extra close eye them."
+and snuff boxes[^112-2]. My people will keep an extra close eye them."
 
 "I leave it in your capable hands. Has our Lord arrived yet?"
 
@@ -1123,4 +1123,6 @@ curly lock of hair that had managed to escape the bridal weave.
 
 It occurred to him that he hadn't realized Snape was in love with her
 until now either.
+
+[^112-2]: Yes, wizards do imbibe both booze and drugs on inappropriate occasions, such as weddings. They wouldn't be human otherwise.
 

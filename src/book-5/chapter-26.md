@@ -1076,7 +1076,7 @@ going to do.
 
 "I want twenty men to start transferring the wounded out of here.
 Apparate them to our infirmary in Warsaw. Professor Snape will transfer
-Harry is to the *Pitié-Salpêtrière Hospital* *du Sorcellerie[^108-3]* in Paris
+Harry is to the *Pitié-Salpêtrière Hospital du Sorcellerie[^108-3]* in Paris
 under an alias as soon as he is stable enough, and have her Majesty
 Queen Ophelia informed of the circumstances."
 
@@ -1129,7 +1129,7 @@ fingers from Harry's pulse. Somewhere behind them, Lestrange snorted.
 Voldemort nearly turned around and snapped her neck.
 
 "It must have been a… what do you call it? A *exhalation furibundus de
-magi ex corpus[^108-4]."*
+magi ex corpus*[^108-4]."
 
 Snape frowned, but didn't look up. "My Lord… I was not aware of that
 being anything other than an urban myth."
@@ -1485,4 +1485,17 @@ Tom, but that wasn't right. Tom… that had to be someone he knew, not who
 he was. His name…his name was…
 
 "Horace. My name's Horace."
+
+[^108-1]: Voldemort's pack name is 'God Eater', and that isn't just a symbolic
+reference. He really can, and has, eaten gods. Only minor ones, but enough to
+make his body almost indestructible. That's how he survived so easily after
+the Quidditch stands collapsed on him in Book III. Anyway, one of the problems
+with eating gods is you inherit their powers, but also their responsibilities.
+Voldemort honestly doesn't want to be responsible for the werewolves.
+
+[^108-2]: This is Snape Speak for 'I can't imagine the world without him.'
+
+[^108-3]: Pitié-Salpêtrière Hospital is a real teaching hospital in Paris, France. I couldn't think of a French sounding hospital that sounded very impressive so I stole this one and attached the French word for wizardry onto it. In my story, it is supposedly the best hospital in the wizarding world (think Mayo Clinic for you Americans out there), so naturally, Voldemort will take advantage of the Queen's hospitality to have Harry sent there for treatment.
+
+[^108-4]: Basically, this is latin for ' a furious exhalation of magic from the body'. Oblitz essentially made himself into a magical bomb.
 

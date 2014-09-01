@@ -398,7 +398,7 @@ not, so you had to test it somehow. Am I wrong?"
 She said nothing. He continued.
 
 "Then you gave him his own private stash just before he left. Did you
-warn him what it was really for first? Or just let him assum? Doesn't
+warn him what it was really for first? Or just let him assume? Doesn't
 matter anyway. The situation had already been set up for him to have
 need of it, whether he understood what it was for or not."
 
@@ -541,7 +541,7 @@ McGunny stiffened and then turned. He blinked in confusion.
 
 "Headmistress-"
 
-"*Stupefy."*
+"*Stupefy.*"
 
 ---
 
@@ -713,7 +713,7 @@ the canid monsters. He was more hopeful of the first than the second,
 but he would take what he could get. Clyde was the first to break the
 silence with a rather perplexed statement.
 
-"Well that's just…weird."
+"Well that's just… weird."
 
 Draco nodded. "Yeah, that kind of sums it up for me too."
 
@@ -1137,11 +1137,11 @@ mysterious drawings. The bitter smell was starting to fade, but his
 stomach tingled and was starting to feel incredibly empty while rest of
 his body felt increasingly heavy.
 
-"Hey…I feel weird."
+"Hey… I feel weird."
 
 "The spell absorbs a lot of magical energy. You should sleep."
 
-"No…I want to see it first."
+"No… I want to see it first."
 
 "I am almost done."
 
@@ -1226,7 +1226,7 @@ It was *not* Mrs. Rutherfield.
 "Are you Robert Reicher?" Lucius Malfoy, the picture of aristocratic
 pride in his full military uniform, asked without really asking.
 
-"I…yes, I am he," he managed, more than a little stunned. Quickly, he
+"I… yes, I am he," he managed, more than a little stunned. Quickly, he
 snapped himself out of it, and stood aside. "Please come in, General
 Malfoy."
 
@@ -1241,7 +1241,7 @@ here?
 
 Harry started his journey back to Hogwarts with a level of enthusiasm he
 hadn't realized he was even capable of anymore. The mob of reporters
-waiting for him on Platform 9 ¾ had done little to dampen his mood. The
+waiting for him on Platform 9¾ had done little to dampen his mood. The
 mob of students waiting for him on the train… well, actually fairly
 enjoyable.
 
@@ -1423,3 +1423,7 @@ future.
 
 For now, however, he could forget and simply enjoy the moment.
 
+[^110-1]: Rhiannon's daughter is a special case. Even though she's called a
+goddess, she does in fact have a half-human soul. She's really the spirit of a
+demi-god. The way in which she died prevents her from taking on a god's mantle,
+so she lives in a between state, attaching herself to specific sorts of people.

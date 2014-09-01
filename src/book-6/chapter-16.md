@@ -1913,3 +1913,6 @@ How was he going to get past without being seen?
 
 Had he escaped only to be taken once again?
 
+[^126-1]: Fleur gave Harry a book of Prophetic practices of Centaurs during his summer in Germany, which was actually given to her by a third party.
+
+[^126-2]: There is that nasty prophecy. I tweaked it a bit for the purposes of this story, but it is quite similar, and will likely prove just as troublesome for poor Harry and friends. Just to be clear, however, Voldemort did not in fact kill Carrigan or have any intention of killing him. That's pure Gulandri B.S.

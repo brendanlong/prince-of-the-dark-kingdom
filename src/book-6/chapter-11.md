@@ -2204,3 +2204,8 @@ Fleur watched all of this from her perch on the bench, mute and having
 no idea what they were saying, she was, nevertheless, laughing to the
 point of tears.
 
+[^121-1]: Remember Allbright? Probably not, but he was a rookie duelist in books III and IV.
+
+[^121-2]: If the banter with the queen seem a bit excessive and/or quirky, I blame it on Fletch novels I've been reading the last three weeks. They're 90% quirky banter.
+
+    Water bombs are essentially water balloons, except they're magical so they hold about ten times as much water as water balloon of the same size.

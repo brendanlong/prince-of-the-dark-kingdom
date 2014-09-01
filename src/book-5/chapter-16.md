@@ -484,7 +484,7 @@ tust, ist rumzustehen und wie ein Idiot zu glotzen."
 
 That spurred Harry to speak.
 
-"Du bist sehr überheblich für einen schlappschwänzigen Kindermörder!"
+"Du bist sehr überheblich für einen schlappschwänzigen Kindermörder!"[^98-1]
 
 The prisoner blinked, then hissed like an angry cat.
 
@@ -573,7 +573,7 @@ him. The man's no good to us dead."
 "Sir, I really don't think he has a minute."
 
 "Then I'll revive him again. They're always much more cooperative as
-zombies.[^98-1]"
+zombies.[^98-2]"
 
 Morgan said nothing more, merely stood there and watched with a
 deepening sense of horror as a child suffocated a man with his bare
@@ -670,13 +670,13 @@ all, and said nothing.
 
 ---
 
-Prisoner: "Ah, the traitor in person. I feel so honored."
+[^98-1]: Prisoner: "Ah, the traitor in person. I feel so honored."
 
-Prisoner: "What's the matter? Nothing to say, traitor? Aren't you angry?
-We killed all your mangy mutts, and all you can do is stand there like a
-bug-eyed idiot?"
+    Prisoner: "What's the matter? Nothing to say, traitor? Aren't you angry?
+    We killed all your mangy mutts, and all you can do is stand there like a
+    bug-eyed idiot?"
 
-Harry: "You're awfully proud for a limp-dicked child-killer."
+    Harry: "You're awfully proud for a limp-dicked child-killer."
 
 [^98-2]: Voldemort is a necromancer. This is stated in canon, but I just
 thought I'd remind everyone since I don't think I mention it in my own

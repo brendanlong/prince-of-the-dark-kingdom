@@ -1679,7 +1679,9 @@ Lucius' darkening expression.
 
 Oh, yes, this was definitely a night to treasure.
 
-.
+[^116-1]: An 'animus' is the product of animancy. In this case, the paper birds are the animus, but there are wide variety of different animus that can be created through different animancy spells and applications.
+
+[^116-2]: Carrigan and Bobby look very much alike. They may or may not be twins, I haven't decided. It's not really relevant to the plot either way. For those who forgot, yes I did mention that Bobby is Carrigan's reincarnated brother.
 
 [^116-3]: Robert didn't know that Hermione was Harry's best friend until this
 point. He has really no idea how much Harry's life intersects with the

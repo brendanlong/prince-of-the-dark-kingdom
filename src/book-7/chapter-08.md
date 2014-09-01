@@ -1964,7 +1964,7 @@ his face.
 
 "The feeling is mutual. *Volomilleacus[^147-2].*"
 
-"*Flagellicito*!"
+"*Flagellicito[^147-3]*!"
 
 They both attempted to dodge, but neither quite succeeded. Amsel
 stumbled as the curse caught her in her left leg, shredding her trousers
@@ -1980,7 +1980,7 @@ at Voldemort, confirming that it was in fact the Dark Lord's doing.
 
 *That woman is diseased,* his mentor had said. It seemed he hadn't left
 anything to chance. That sterile scent made sense now. It was a
-disinfecting spell. He turned to Amsel to see her reaching the same
+disinfecting spell.[^147-4] He turned to Amsel to see her reaching the same
 conclusion. She looked devastated.
 
 "What's the matter?" he asked. "Something not going to plan?"
@@ -2416,19 +2416,19 @@ But for now, his protégé was a more immediate concern.
 
 In his arms, Harry's limp body suddenly started to convulse.
 
-*Ductimio* is a spell that removes water from the body. Depending on how
+[^147-1]: *Ductimio* is a spell that removes water from the body. Depending on how
 powerfully it is cast, it can cause anything from mild dehydration to
 complete desiccation resulting in death.
 
-*Volomilleacus*pretty much comes out to mean 'a thousand flying
+[^147-2]: *Volomilleacus* pretty much comes out to mean 'a thousand flying
 needles'. You can probably figure out what it does just from the
 translation.
 
-*Flagellicitio* is a flogging spell. At this point in the fight, Amsel
+[^147-3]: *Flagellicitio* is a flogging spell. At this point in the fight, Amsel
 and Harry aren't actually trying to kill each other yet, but trying to
 make the other bleed.
 
-The disinfecting spell that Voldemort used on the arena is one of many
+[^147-4]: The disinfecting spell that Voldemort used on the arena is one of many
 spells commonly used in wizarding hospitals. It's designed to banish
 bodily fluids once they've left the body, with the exception of tears.
 No blood, no diseases or blood-born curses.

@@ -603,7 +603,7 @@ decided to hear her out.
 Seeing she had at least one bite, she grinned. "It's simple. We'll all
 go out to a bar or some clubs or some kickass party, get down with our
 bad selves, take some incriminating photos of Hermione, send them off to
-Crouch *anonymously*, and [^117-1]snap[^117-1] he'll call of the wedding himself.
+Crouch *anonymously*, and \*snap\* he'll call of the wedding himself.
 Works every time."
 
 "Every time?" Hermione asked, skeptical.
@@ -985,7 +985,7 @@ reveal a dozen Sentinels.
 What ever it was, Court ordered or not, Harry never got to hear because
 suddenly the club broke out into screams.
 
-"IT'S THE UNCLES[^117-2]!"
+"IT'S THE UNCLES[^117-1]!"
 
 The music died and suddenly people were running. Harry froze, faced with
 a moment of displacement to another time and place. It was only for a
@@ -1337,7 +1337,7 @@ Otherwise, he's always been very polite and respectful, and not because
 you've threatened him to be. Anyway, I don't expect you to treat him the
 same way. I think you have to find something that works naturally for
 the both of you. Believe it or not, he's closer to you than he is to me.
-In fact, you might be the person he's closest to in the entire world[^117-3]."
+In fact, you might be the person he's closest to in the entire world[^117-2]."
 
 That was perhaps the most ludicrous and vaguely terrifying thing a woman
 had ever uttered to him. Her obvious amusement at his stricken
@@ -1376,7 +1376,7 @@ nearly as well as feathers did.
 
 "Come in," he called, and a moment later, a young man with brilliant
 orange hair strode in wearing a plucky grin. Fang lumbered over him, and
-the man rubbed the mastiff's[^117-4] head with a familiar affection. McGunny
+the man rubbed the mastiff's[^117-3] head with a familiar affection. McGunny
 relaxed. No stranger would have been at ease with a giant of dog like
 Fang, no matter that he was really just a big teddy bear.
 
@@ -1447,3 +1447,8 @@ He sighed. It might be doing McGunny some good living with Hagrid, but
 he couldn't help but wonder how long it would be before a moment of
 distraction eventually resulted in his guest burning down his hutt.
 
+[^117-1]: Uncles' is a nickname for Sentinels. Like 'cops' or 'the fuzz'.
+
+[^117-2]: Please don't rant at me about Voldemort being the person Harry's closest to in the entire world. Believe me, no one knows this better than me, I wrote their relationship for Pete's sake. This is just Ira's impression, and honestly, it's not that unreasonable. Snape has been with Harry since he first discovered he was a wizard and has practically raised him since then, albeit in a rather cool and calculated way. He's saved Harry's life on multiple occasions, given him meaningful advice, known and followed him through many of his adventures, and even shared a home with him. Their relationship isn't typical or easy, often it's antagonistic but they still have a strong bond that neither is entirely comfortable admitting to. Ira, who lives with them and observes the subtle fondness in their unique dynamic, can see it more readily than most. Voldemort, however, just freaks her out and Harry's relationship with him is just baffling (and probably unhealthy).
+
+[^117-3]: Factoid. Fang is called a boarhound in the HP books, which is not a true breed but a term often used for Great Danes, but sometimes other large hunting breeds, including the Neopolitan Mastiff, which is the breed used in the HP movies.

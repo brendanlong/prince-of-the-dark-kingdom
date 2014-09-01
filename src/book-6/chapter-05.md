@@ -1430,7 +1430,7 @@ several children standing out in the street, looking morose and nervous,
 but they of course didn't have wands either. There was, however, a
 somewhat familiar looking giant man who was helping calm several teams
 of horses who were moving about skittishly outside of what had probably
-once been the neighborhood livery[^115-3]. Perhaps he could help.
+once been the neighborhood livery. Perhaps he could help.
 
 "Excuse me, sir."
 

@@ -1498,6 +1498,4 @@ She was silent for a long moment.
 There was soft laugh on the other end and a rather uncomforting, "I hope
 so too."
 
----
-
-A Lupes is a French Galleon (approximately).
+[^144-1]: A Lupes is a French Galleon (approximately).
